@@ -1,12 +1,10 @@
 import os
-import tiktoken
 from dotenv import load_dotenv
-from azure.core.credentials import AzureKeyCredential
-from azure.search.documents import SearchClient
-from azure.search.documents.models import QueryAnswerType, QueryCaptionType, QueryType
+import boto3
+import anthropic
 from langchain_core.messages import HumanMessage, SystemMessage
-from langchain_openai import AzureChatOpenAI
-from langchain_community.callbacks import get_openai_callback
+from langchain.llms.bedrock import Bedrock
+from langchain_community.retrievers import AmazonKendraRetriever
 import asyncio
 from langchain.agents import AgentExecutor
 from langchain.agents import AgentType
@@ -31,39 +29,68 @@ class ABHFL:
     is_rag_function_active = False
 
     def __init__(self, message):
-        self.API_KEY = os.getenv("AZURE_OPENAI_API_KEY")
-        self.RESOURCE_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
-        self.Completion_Model = os.getenv("AZURE_OPENAI_DEPLOYMENT_NAME")
-        self.client = AzureChatOpenAI(
-            api_key=self.API_KEY,
-            api_version="2023-07-01-preview",
-            azure_endpoint=self.RESOURCE_ENDPOINT,
-            azure_deployment=self.Completion_Model,
+        self.AWS_ACCESS_KEY_ID = os.getenv("AWS_ACCESS_KEY_ID")
+        self.AWS_SECRET_ACCESS_KEY = os.getenv("AWS_SECRET_ACCESS_KEY")
+        self.AWS_REGION = os.getenv("AWS_REGION")
+        self.BEDROCK_MODEL_ID = os.getenv("BEDROCK_MODEL_ID")
+        self.BEDROCK_MAX_TOKENS = int(os.getenv("BEDROCK_MAX_TOKENS"))
+        self.BEDROCK_TEMPERATURE = float(os.getenv("BEDROCK_TEMPERATURE"))
+        self.KENDRA_INDEX_ID = os.getenv("KENDRA_INDEX_ID")
+        self.KENDRA_MIN_CONFIDENCE_SCORE = float(
+            os.getenv("KENDRA_MIN_CONFIDENCE_SCORE")
         )
+
+        # Initialize Bedrock client
+        self.bedrock_client = boto3.client(
+            service_name="bedrock-runtime",
+            region_name=self.AWS_REGION,
+            aws_access_key_id=self.AWS_ACCESS_KEY_ID,
+            aws_secret_access_key=self.AWS_SECRET_ACCESS_KEY,
+        )
+
+        # Initialize Bedrock LLM
+        self.client = Bedrock(
+            client=self.bedrock_client,
+            model_id=self.BEDROCK_MODEL_ID,
+            model_kwargs={
+                "maxTokens": self.BEDROCK_MAX_TOKENS,
+                "temperature": self.BEDROCK_TEMPERATURE,
+            },
+        )
+
+        # Initialize Kendra client
+        self.kendra_client = boto3.client(
+            service_name="kendra",
+            region_name=self.AWS_REGION,
+            aws_access_key_id=self.AWS_ACCESS_KEY_ID,
+            aws_secret_access_key=self.AWS_SECRET_ACCESS_KEY,
+        )
+
+        # Initialize Kendra retriever
+        self.retriever = AmazonKendraRetriever(
+            index_id=self.KENDRA_INDEX_ID,
+            region_name=self.AWS_REGION,
+            credentials_profile_name=None,
+            aws_access_key_id=self.AWS_ACCESS_KEY_ID,
+            aws_secret_access_key=self.AWS_SECRET_ACCESS_KEY,
+            top_k=3,
+            attribute_filter=None,
+        )
+
         self.folder_path = "Prompts"
         self.message = message
-        self.AZURE_COGNITIVE_SEARCH_ENDPOINT = os.getenv(
-            "AZURE_COGNITIVE_SEARCH_ENDPOINT"
-        )
-        self.AZURE_COGNITIVE_SEARCH_API_KEY = os.getenv(
-            "AZURE_COGNITIVE_SEARCH_API_KEY"
-        )
-        self.AZURE_COGNITIVE_SEARCH_INDEX_NAME = os.getenv(
-            "AZURE_COGNITIVE_SEARCH_INDEX_NAME"
-        )
-        self.ENCODING = "cl100k_base"
-        self.search_client = SearchClient(
-            endpoint=self.AZURE_COGNITIVE_SEARCH_ENDPOINT,
-            index_name=self.AZURE_COGNITIVE_SEARCH_INDEX_NAME,
-            credential=AzureKeyCredential(self.AZURE_COGNITIVE_SEARCH_API_KEY),
-        )
         self.user_input = ""
         self.store = {}
-        self.encoding = tiktoken.encoding_for_model("gpt-4-0613")
+        # Initialize Claude tokenizer for accurate token counting
+        self.cl = anthropic.Anthropic()
 
     def num_tokens_from_string(self, string: str) -> int:
-        """Returns the number of tokens in a text string."""
-        return len(self.encoding.encode(string))
+        """Returns the number of tokens in a text string using Claude's tokenizer."""
+        try:
+            return self.cl.count_tokens(string)
+        except Exception as e:
+            # Fallback method: approximate tokens (4 characters per token on average)
+            return len(string) // 4
 
     def reset_system_message(self):
         """Reset SystemMessage to the original main2.txt prompt."""
@@ -80,28 +107,31 @@ class ABHFL:
             self.message.insert(0, SystemMessage(content=content))
 
     def all_other_information(self, *args, **kwargs):
-        """Function provides all details for products using RAG."""
+        """Function provides all details for products using RAG with AWS Kendra."""
         if not ABHFL.is_rag_function_active:
             ABHFL.is_rag_function_active = True
             print("Rag function called")
             question = self.user_input
             max_tokens = 6000
             token_threshold = 0.8 * max_tokens
-            results = self.search_client.search(
-                search_text=question,
-                select=["product", "description"],
-                top=3,
-            )
+
+            # Use Kendra retriever to get relevant documents
+            results = self.retriever.get_relevant_documents(question)
 
             context = ""
             total_tokens = 0
 
-            for result in results:
-                title = result["product"]
-                content = result["description"]
+            for doc in results:
+                if hasattr(doc.metadata, "title"):
+                    title = doc.metadata["title"]
+                else:
+                    title = "Document"
+                content = doc.page_content
                 result_tokens = self.num_tokens_from_string(content)
+
                 if total_tokens + result_tokens > token_threshold:
                     break
+
                 context += f"{{'Title': {title} , 'Product Details': {content} }}\n "
                 total_tokens += result_tokens
 
@@ -165,15 +195,14 @@ class ABHFL:
                 else:
                     break
 
-        with get_openai_callback() as cb:
-            try:
-                ensure_message_length_within_limit()
-                async for chunk in agent_executor.astream_events(
-                    {"input": user_input, "chat_history": self.message}, version="v1"
-                ):
-                    time.sleep(0.05)
-                    yield chunk
-            except Exception as e:
-                error_message = f"An error occurred: {e}"
-                print(error_message)
-                yield {"error": error_message}
+        try:
+            ensure_message_length_within_limit()
+            async for chunk in agent_executor.astream_events(
+                {"input": user_input, "chat_history": self.message}, version="v1"
+            ):
+                time.sleep(0.05)
+                yield chunk
+        except Exception as e:
+            error_message = f"An error occurred: {e}"
+            print(error_message)
+            yield {"error": error_message}
