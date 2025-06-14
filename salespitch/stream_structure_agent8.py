@@ -15,9 +15,15 @@ import time
 
 from .tools import create_tools
 from .prompts import generate_method_prompt, rag_prompt, sales_pitch_prompt
-from .agent_manager import create_agent, create_agent_executor, MEMORY_KEY, create_sales_pitch_agent
+from .agent_manager import (
+    create_agent,
+    create_agent_executor,
+    MEMORY_KEY,
+    create_sales_pitch_agent,
+)
 
 load_dotenv()
+
 
 class ABHFL:
     is_function_calling = 0
@@ -36,9 +42,15 @@ class ABHFL:
         )
         self.folder_path = "Prompts"
         self.message = message
-        self.AZURE_COGNITIVE_SEARCH_ENDPOINT = os.getenv("AZURE_COGNITIVE_SEARCH_ENDPOINT")
-        self.AZURE_COGNITIVE_SEARCH_API_KEY = os.getenv("AZURE_COGNITIVE_SEARCH_API_KEY")
-        self.AZURE_COGNITIVE_SEARCH_INDEX_NAME = os.getenv("AZURE_COGNITIVE_SEARCH_INDEX_NAME")
+        self.AZURE_COGNITIVE_SEARCH_ENDPOINT = os.getenv(
+            "AZURE_COGNITIVE_SEARCH_ENDPOINT"
+        )
+        self.AZURE_COGNITIVE_SEARCH_API_KEY = os.getenv(
+            "AZURE_COGNITIVE_SEARCH_API_KEY"
+        )
+        self.AZURE_COGNITIVE_SEARCH_INDEX_NAME = os.getenv(
+            "AZURE_COGNITIVE_SEARCH_INDEX_NAME"
+        )
         self.ENCODING = "cl100k_base"
         self.search_client = SearchClient(
             endpoint=self.AZURE_COGNITIVE_SEARCH_ENDPOINT,
@@ -66,26 +78,6 @@ class ABHFL:
             self.message[0].content += f"\n{content}"
         else:
             self.message.insert(0, SystemMessage(content=content))
-
-    # def generate_method(self, prompt_name):
-    #     """Generic method to handle various prompts and update system message."""
-    #     prompt = generate_method_prompt(prompt_name, self.user_input)
-    #     if prompt:
-    #         replaced = False
-    #         for i, message in enumerate(self.message):
-    #             if isinstance(message, SystemMessage):
-    #                 self.message[i] = SystemMessage(content=prompt)
-    #                 replaced = True
-    #                 break
-    #         if not replaced:
-    #             self.message.append(SystemMessage(content=prompt))
-    #         return prompt
-    #     return None
-
-    # def collateral_type(self):
-    #     return self.generate_method("Collateral")
-
-    # ... other generate_method wrappers ...
 
     def all_other_information(self, *args, **kwargs):
         """Function provides all details for products using RAG."""
