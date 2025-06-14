@@ -1,0 +1,35 @@
+1. Is it mandatory for the regulated entities (REs) to raise green deposits?
+It is not mandatory but in case REs intend to raise green deposits from their customers they should follow the framework prescribed therein.
+2. Is it permissible for REs to offer differential interest rates on green deposits? Whether there is any bearing on the interest rate payable by REs to depositors, if the funds raised under the framework remain unallocated/ unutilized towards the green activities or projects? Is there any restriction on premature withdrawal of green deposits?
+(a) The extant guidelines as detailed below do not permit REs to offer differential rate of interest on green deposits:
+Master Direction - Reserve Bank of India (Interest Rate on Deposits) Directions, 2016 dated March 03, 2016; 
+Master Direction - Non-Banking Financial Companies Acceptance of Public Deposits (Reserve Bank) Directions, 2016 dated August 25, 2016; and 
+Master Direction - Non-Banking Financial Company - Housing Finance Company (Reserve Bank) Directions, 2021 dated February 17, 2021.
+(b) The REs shall pay interest on green deposits to their customers as per agreed terms and conditions and aforesaid directions irrespective of allocation/ utilisation of proceeds.
+(c) There is no restriction on premature withdrawal of green deposits, however, the REs, shall adhere to the extant guidelines referred to above. Further, premature withdrawal would not have any bearing on the activities/ projects undertaken using the proceeds of green deposits.
+3. As per the framework, unallocated proceeds of green deposits can be invested in liquid instruments with maturity up to one year only. What are these "liquid instruments"? Is there a requirement that temporary allocation of proceeds is only for a period of one year? Will there be any penalty if the REs are not able to allocate the proceeds of green deposits?
+The liquid instruments are Level 1 High Quality Liquid Assets as per the extant guidelines. 
+The REs can temporarily park proceeds of green deposits, pending allocation towards green activities/ projects, in liquid instruments with maximum maturity upto one year (This will have to be specified under the Financing Framework).
+The framework does not envisage any penalty for non-allocation of proceeds towards green activities/ projects; however, it shall be subject to supervisory review.
+4. Are the green deposits raised prior to release of framework covered under it? Whether the REs can finance green activities/ projects first and then later raise green deposits?
+The framework is applicable for green deposits raised by REs on or after June 01, 2023. 
+REs cannot finance green activities/ projects first and raise green deposits thereafter. 
+5. Is it permissible to classify the green activities/ projects financed under the framework under priority sector? Are investments made by REs in Sovereign Green Bonds covered under the framework?
+Yes, the green activities/ projects financed under the framework can be classified under priority sector if they meet the requirements laid down in priority sector lending (PSL) guidelines of RBI [Master Directions FIDD.CO.Plan.BC.5/04.09.01/2020-21 dated September 04, 2020] as amended from time to time. 
+As the activities/ projects listed in the framework are the same as indicated in Sovereign Green Bonds (SGrBs) framework, investment by REs in SGrBs are covered under the framework.
+6. Can banks allow overdraft facility to customers against Green Deposits?
+Banks are allowed to offer overdraft facility to customers against Green Deposits subject to the instructions contained in the Consolidated Circular on Opening of Current Accounts and CC/OD Accounts by Banks dated April 19, 2022, as amended from time to time.
+7. Are the deposits raised under the above framework covered by Deposit Insurance and Credit Guarantee Corporation (DICGC)?
+The deposits raised under the framework are covered by DICGC in accordance with the Deposit Insurance and Credit Guarantee Corporation Act, 1961 and the regulations framed thereunder, as amended from time to time. 
+8. Is there any eligibility criteria for engagement of entities for external review of the Financing Framework, Third-party Verification/ Assurance and Impact Assessment of the green activities/ projects?
+REs can engage with any appropriate and reputed domestic/ international agency for external review of the Financing Framework, Third-party Verification/ Assurance and Impact Assessment of the green activities/ projects.
+9. Whether the RE implementing the green deposit framework is required to publish two copies of the Financing Framework (FF) on its website, one prior to external review and another after the external review?
+The RE needs to publish the FF along with opinion of external reviewer on the FF (before implementation of FF) on its website. There is no requirement of publishing FF twice, i.e., one before and another after external review.
+10. Does the disclosure of the amount of deposits raised and utilized as specified in Annexure 2 of the framework refer to the amount outstanding or the actual amount raised during the year?
+The actual amount of green deposits raised during the year and use of such funds have to be disclosed as per the Annexure 2 of the framework.
+11. Whether foreign banks can have a single global policy on green deposits?
+Foreign banks can have a common global policy on green deposits, without prejudice to the provisions of the framework for green deposits raised in India after June 01, 2023.
+12. Can the green deposits be denominated in foreign currency?
+No. The current framework permits green deposits to be denominated in Indian Rupees only.
+
+

@@ -1,0 +1,16 @@
+1. The guidelines specify that MCLR calculated using methodology prescribed shall correspond to the tenor of funds in the single largest maturity bucket provided it is more than 30% of the entire funds reckoned for determining the MCLR. But my bank does not have a single time bucket which has more than 30% share of the funds reckoned for MCLR. In such a case, the MCLR calculated as per the methodology indicated shall correspond to which tenor?
+Let’s assume a bank has following maturity profile of borrowings:
+In this case, the MCLR shall correspond to the weighted average of tenor of the first three time buckets.
+2. Whether the tenor premium charged will be for contractual tenor or residual tenor?
+Since floating rate loans are subject to periodic resets, the tenor premium will be the appropriate premium for the residual period up to the next reset date.
+3. What will be the denominator used for arriving at the operating cost for computing MCLR?
+Banks may calculate all operating costs as a percentage of marginal cost of funds for computing MCLR.
+4. Clarify the definition of short term borrowings.
+A short term borrowing means borrowing of tenor up to but less than one year.
+5. Can components of spread be negative?
+The components of the spread i.e. business strategy and Credit risk premium shall have either a positive value or be zero. In other words, the spread components cannot be negative.
+6. Banks grant fixed rate loans to long term projects where initial debt facility consists of loan for a medium term say 5 to 7 years. These loans are then refinanced after the specified period. Will these types of loans be permitted under MCLR system?
+Banks can grant fixed rate loans to long term projects wherein the interest rate are fixed till the loan is due for refinancing. The loan, at the time of refinancing, will be treated as a fresh fixed rate loan with a maturity period equal to the period upto the next date of refinancing. Such fixed rate loans will fall under the directions contained in Section 13(d)(v) of Reserve Bank of India (Interest Rate on Advances) Directions, 2016.
+7. Will the interest rates on fixed rate loans (or fixed portion of hybrid loans) be based on the date of sanction or disbursement?
+The interest charged on fixed rate loans as well as the fixed portion of hybrid loans will be the interest rate mentioned in the sanction letter.
+

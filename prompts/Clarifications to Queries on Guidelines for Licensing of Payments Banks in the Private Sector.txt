@@ -1,0 +1,928 @@
+Clarifications to Queries on
+Guidelines for Licensing of Payments Banks in the Private Sector
+In providing the clarifications, an attempt has been made to assist potential applicants in
+understanding the terms of the guidelines. The clarifications are specific to the queries
+and must be read in the overall context of the guidelines.
+1. Please provide a timeline for the shortlisted as well as final list of applicants
+getting the Small Finance Bank/ Payments Bank licence.
+A. The timelines will depend primarily on the number of applications received, and time
+taken for completion of the approval process. No definite timeline can, therefore, be
+provided at this stage.
+2. If the payments bank appoints an entity as its business correspondent (BC),
+would that entity be able to perform business facilitation (BF) activities such as
+loan sourcing for some other bank in addition to performing payment related
+activities for the payment bank?
+A. Yes, subject to RBI guidelines for banks appointing BCs.
+3. Would the payments bank be able to appoint its promoter group company
+(parent or other subs) as its corporate BC?
+A. Yes, on arm's length basis and subject to the RBI guidelines on BCs.
+4. We wish to understand can the Payments Bank entity leverage the existing
+infrastructure such as technology, distribution (including distribution
+resources/outlets/premises) and business correspondent services of its promoter
+group or parent company on an arm’s length basis, while ensuring that all
+1financial related matters including treasury and risk/regulatory activities are
+completely ring-fenced from the Promoter Group/Parent Company.
+5. Guidelines provide that the other financial and non-financial services activities
+of the Promoters, if any, should be kept distinctly ring fenced and not comingled
+with the banking business. Please explain what kind of management oversight,
+sharing of infrastructure, human capital etc. would be acceptable as being ring-
+fenced?
+6. Whether arm’s length basis of sharing infrastructure and distribution network
+for acquiring and servicing the customers should qualify the condition that the
+activities of the payments bank are ring fenced and not comingled with the other
+activities of the promoter group?
+7. The guidelines state that “the other financial and non-financial services
+activities of the promoters, if any, should be kept distinctly ring-fenced and not
+comingled with the banking and financial services business of the payments
+bank”. We would appreciate that this aspect is explained in greater detail.
+8. Kindly confirm that the “Payments Bank” is allowed to leverage on the
+distribution network of the “promoter” and distribution network of its PPI
+business which is managed through a separate wholly owned subsidiary.
+9. Can the Payments Bank solution be co-located in the groups own telecom
+infrastructure - including Data Center (DC) and Disaster Recovery Center (DR). If
+any logical separation is needed, would just logical separation of servers hosted
+suffice (like a separate cage) OR do we need complete separation including
+separation of other infrastructure components like the pipes, networking and
+security devices etc. Can the Payments Bank solution be hosted in a third-party
+Data Center. In our Payments bank model, the DC will be 100% redundant. Will it
+still be mandatory to have a full functioning DR on day one of operations?
+2Request to share if any specific monitoring parameters (at infrastructure and
+service level) are expected for compliance. Also, for DR request to share RBI side
+expectation on RPO/RTO parameters for Payments Bank.
+As an existing telecom operator, we currently have an extensive Customer
+Relationship Management (CRM) system. Can we leverage this system for
+Payments Bank? Can the Payments bank’s accounting, financial, payroll and
+HRMS systems be part of the parent group/entity systems. Though the
+data/systems are required to be separate for Payments Bank and Telco or other
+services, can there be a common set of users at parent group level having access
+to both systems, or controlling process of both the systems. Request to clarify
+with respect to the following types of users:
+a) Managed services personnel having access to the DC and devices
+b) Information security officers, and process related staff
+c) Helpdesk users
+d) Business users
+10. Clarification is sought on whether the payments bank entity can leverage the
+existing infrastructure such as distribution, technology, and business
+correspondent services of its promoter group or parent company at ‘arm’s
+length’: ensuring that all financial related matters including treasury and
+risk/regulatory activities are completely ring fenced from the promoter
+group/parent company, including a general restriction on comingling of customer
+deposits with promoter funds. Furthermore, with regards to leveraging the
+distribution network, ensuring that there is a clear legal separation between their
+current role as the promoter’s distributor from their role as payment bank outlets.
+11. What exactly is expected to be ring fenced? For example, if a telecom
+operator applies for payment bank license, will it have to ring fenced people,
+processes, IT systems, infrastructure, logistics, outsourcing, HR, Finance
+function and indirect support functions?
+312. How the ring fencing is to be achieved?
+A. (4 to12) Ring fencing does not restrict arrangements for sharing of infrastructure of
+the parent promoter / promoter group entities, provided that there is an agreement /
+contract, etc. if such arrangement is entered into on an arm's length basis suitable
+firewalls are built in, customer confidentiality maintained and risk mitigation measures
+are put in place for operational risk. The business plan can clearly bring out these
+aspects. However, any the PPI entity cannot coexist with the payment bank in the same
+group.
+13. Does the ring fencing to be supported by any external certification or RBI will
+carry out any inspection?
+A. It will be an ongoing requirement.
+14. The Annexure to the guidelines (para 3) prescribes the list of information/
+documentation required for Promoter Group entities which include among other
+things, the management and corporate structure, total assets of the entities,
+credit facilities sought and bank account details. We wish to seek the following
+clarification with respect to the information required in the Annexure to the
+guidelines in order to comply with the stipulated requirements.
+We being a well-diversified group and having operations in many foreign
+countries which are being run through offshore subsidiaries set up through
+different holding structures, it may be extremely cumbersome (and possibly not
+relevant) to furnish the credit facilities/ bank account details, regulator, PAN,
+TAN, CIN, pictorial organogram indicating the structure of such foreign entities.
+Hence can we believe submitting the below information would suffice the
+requirements of Annex I Para (3)?
+a) The complete details as sought for all the resident Indian entities of the
+Promoter and Promoter Group.
+4b) The financial statements (audited/unaudited) of the foreign entities for the past
+five years.
+c) The audited consolidated financial statements of the Promoter as per
+International Financial Reporting Standards (IFRS).
+A. (a to c)The Annexure to the guidelines indicate that the names of the individuals and
+entities, details of shareholding, management and corporate structure of all the entities,
+a pictorial organogram indicating the structure, shareholding and total assets of the
+entities should be submitted. The organogram should start with the main individual
+promoters indicating their shareholding in the group entities and also cross holding
+among the group entities. Organogram for each group entity is not required. The details
+required as per the annexure to the guidelines are required to be submitted by the
+applicants.
+15. With reference to the Guidelines for Licensing of Payments Banks and Small
+Finance Banks, we shall be obliged if you could kindly grant us extension of time
+up to 31st March 2015 to enable us to submit the application in the format
+prescribed together with the business plan.
+A. The last date for receipt of applications for licensing of payments banks has since
+been extended to February 2, 2015.
+16. Functioning as a Business Correspondent (BC) for other banks – Is there a
+cap on the number of banks for functioning as a BC?
+17. The set of guidelines/restrictions that will apply for Payments Banks BC
+points.
+A. (16 to 17) In terms of extant instructions, there is no cap on the number of banks for
+which one can act as a BC. However, at the point of customer interface, a BC shall
+5represent the bank which has appointed it.Extant instructions on BCs available at para 8
+of circular DBOD. No. BAPD.BC. 7/22.01.001/2014-15 dated July 1 2015 will apply.
+18. Can a payments bank charge a fee for undertaking Payments & Remittances
+on behalf of their customers? If yes, what is the restriction on the transaction
+fees that can be charged by a Payments Bank?
+A. Extant instructions issued by RBI to banks will apply to payments banks also.
+19. How many banks/financial institutions can a payment bank deal with for
+distribution of financial products – mutual funds, insurance products, etc.? What
+can be the commissions that a payment bank can charge?
+A. In terms of our extant instructions on para-banking activities, banks are permitted to
+undertake marketing and distribution of third party financial products like insurance,
+mutual fund, etc. in compliance with the guidelines/ regulations of their respective
+sectoral regulators issued from time to time. As regards commission etc. banks are
+required to follow the guidelines issued by respective sectoral regulators in the matter.
+20. Although not mentioned in the guidelines, can Payment Bank offer
+locker/vault services to its customers in order to enhance its revenue generating
+opportunities?
+A. Yes.
+21. While screening for potential license applications for Payment Banks, will RBI
+give preference to those applicants who have been already engaged in payment
+services through the Prepaid Payment Instruments route?
+A. The track record of the applicants will be one of the factors that will be seen by RBI at
+the time of scrutinising the applications.
+622. Nachiket Mor Report dated 10th January 2014 on Comprehensive Financial
+Services Committee for Small businesses and Low income Households report
+had observed the following:
+“Given the difficulties being faced by PPIs and the underlying prudential
+concerns associated with this model, the existing and new PPI applicants should
+instead be required to apply for a Payments Bank licence or become Business
+Correspondents. No additional PPI licences should be granted.”
+RBI may kindly share if the recommendations of the Nachiket Mor Report are
+being considered and whether it is likely to be implemented at some stage in the
+near future.
+A. For the time being, the system of granting PPI licences will also continue. .
+23. As a channel, can a Payment Bank recruit Kirana stores across the country as
+Business Correspondent agents to promote the services of a Payments Bank?
+A. Yes, subject to RBI guidelines on BCs.
+24. The guideline states a payments bank should have a leverage ratio of not less
+than 3% i.e. its outside liabilities should not exceed 33.33 times its networth. Are
+there any specific guidelines on the kind of debt instruments a payment bank can
+issue?
+A. For the purpose of issue of debt instruments, payment banks will be treated as any
+other bank.
+25. When the payments bank reaches the net worth of Rs. 500 crore, it is
+mandatory for listing within 3 years of reaching that net worth.
+7a. What is the dilution norm for promoters shareholding at the time of listing
+b. The promoters of the payments bank should hold at least 40 per cent of its
+paid-up equity capital for the first five years from the commencement of its
+business. Is there any expected further dilution in promoters shareholding after
+the fifth year.
+A. For the purpose of these guidelines, payments banks should follow the SEBI dilution
+norm for promoters at the time of listing and RBI’s regulatory / supervisory comfort /
+discomfort in this regard.
+26. Can a Payment bank use Aadhar Card alone as a single proof of identity of
+our customers. Alternatively, should a copy of Aadhar Card be supplemented
+with other documents such as Ration Card, Pan Card, Driving License, Voters ID,
+etc.?
+A. The KYC in the payments bank should be as per the KYC guidelines applicable to all
+other scheduled commercial banks and as per the master circular on Know Your
+Customer (KYC) / Anti-Money Laundering (AML) / Combating of Financing of Terrorism
+(CFT) Guidelines issued by RBI from time to time.
+27. The deadline for application for Payments Bank licence as mentioned in the
+final guidelines for payments banks is January 16, 2015.
+a. We would request you to kindly grant us an extension up to March 31, 2015
+since we would like to submit a comprehensive business plan covering all
+aspects of our Payment Bank model to comply with the procedures of RBI.
+b. Is there any maximum cap on the number of licenses proposed to be
+issued by RBI?
+A. (a) The last date for receipt of application for payments banks has since been
+extended to February 2, 2015.
+8(b) There is no cap envisaged on the number of licences proposed to be issued by RBI.
+28. Finalising business plan itself might take 30-40 days. We can approach
+potential investors only after finalising business plan. This sequence of events
+would mean a very stretched timeline to comply with Jan 16th 2015 date.
+A. The last date for receipt of applications for licensing of payments banks has since
+been extended to February 2, 2015.
+29. Scope of cross border transactions:
+a. Whether it would include trade transaction in nature of both inward and out
+ward remittances?
+b. Would the bank be able to provide hedging solutions like forward contracts
+and plain options to its clients. As hedging solutions would be an integral need
+for corporates using payment bank for cross border remittances?
+c. Would there be any restriction on size of transaction that bank can process and
+size of hedging limits that the bank can sanction?
+30. Para 4 Scope of activities “……Payments banks will be permitted to handle
+cross border remittance transactions in the nature of personal payments /
+remittances on the current account…”
+Do the personal payments/remittances in the above paragraph include the
+transactions initiated and carried out for the business purposes whether by small
+businesses or by any form of business organization (including partnership firms,
+limited companies, body of individuals).
+31. Can a payments bank handle outward & inward foreign remittances?
+A. (29 to 31) Cross border transactions would involve both inward and outward
+remittances depending on the type of Authorised Person licences issued by RBI.
+932. Is there a minimum paid-up capital requirement on the day of filing an
+application?
+A. At the time of making application, the Promoters/Promoter Group will have to furnish
+a plan and methodologies they would adopt to comply with all the requirements of the
+guidelines. After the ‘in-principle approval’ is accorded by RBI for setting up of a bank,
+the Promoters/Promoter Group will have to comply with all the requirements within 18
+months from the date of in-principle approval or as on the date of commencement of
+operations, whichever is earlier.
+33. Our initial study of potential applicants suggests that most of them have
+expertise in either domestic payments or in cross border payments and not in
+both. Therefore, would an application with initial focus on either cross border
+payments or on domestic payment and not both, be eligible? Such applicants
+may seek time to build expertise/ offerings in other areas.
+A. The payments banks are expected to primarily focus on domestic payments services.
+34. Would an individual/professional need to show funding sources for capital
+requirements at the time of applying for the licence or can he start the process of
+funding for capital only if he is successful in getting the licence?
+35. Related query - Would the individual/professional need to disclose details of
+the expected corporate structure or can he indicate broad funding sources/
+shareholding?
+A. (34 to 35) At the time of making application, the Promoters/Promoter Group will have
+to furnish a plan and methodologies they would adopt to comply with all the
+requirements of the guidelines. After the ‘in-principle approval’ is accorded by RBI for
+setting up of a bank, the Promoters/Promoter Group will have to comply with all the
+10requirements and within 18 months from the date of in-principle approval or as on the
+date of commencement of operations whichever is earlier.
+The Annexure to the guidelines indicate that the applicants should furnish detailed
+information about the persons/entities, who would subscribe to 5 per cent or more of the
+paid-up equity capital (shareholding pattern) of the proposed bank, including foreign
+equity participation, in the proposed bank and the sources of capital of the proposed
+investors. This would need to be complied with.
+36. Can an existing PPI offering prepaid instruments on internet apply for
+payments bank licence and offer branchless payments bank?
+37. Can payments bank have only 1 physical branch office but operate on all India
+basis?
+A. (36 to 37) As per para 4 (v) of the guidelines, RBI is open to payments bank offering
+internet banking services. However, RBI does not envisage payments banks to be
+“virtual” banks or branchless banks. Further, as stated in para 13 (i) of the guidelines,
+the payments bank will be required to have at least 25 per cent of physical access
+points including BCs in rural centres and a controlling office for a cluster of access
+points should also be established for control over various outlets and customer
+grievance redressal.
+38. Can an NBFC in lending business apply for Payments bank licence if it's plan
+is to setup a separate corporate entity, distinct from its other businesses but
+having commercial arrangement to source customers from the other businesses.
+A. Yes.
+39. Can payments bank be free to set its own reward / fee structure for its
+customers?
+11A. Extant instructions issued by RBI to banks will apply to payments banks also.
+40. Can payment bank set up its own ATMs? If a payment bank sets up its ATMs,
+will it be allowed to handle cash functions on its own or will it have to tie-up with
+a scheduled bank for the same?
+A. Yes. As stated in para 4 of the guidelines, the payments bank would be permitted to
+set up its own outlets such as branches, Automated Teller Machines (ATMs), Business
+Correspondents (BCs), etc. The bank will be free to handle cash on its own or have a
+tie-up arrangement with other scheduled commercial banks.
+41. Will payment banks be allowed to become clearing members of the clearing
+house or will they have to route their settlements through other clearing banks?
+A. Payments banks are eligible to become clearing members subject to access criteria. .
+42. In the case of a payments bank, what will be the revenue stream for the
+payment bank? It is learnt that the company can accept small deposit. Can you
+give clarity as to what the bank will be permitted to do with the deposits collected
+as it is not permitted to do any lending business?
+A. The activities that a payments bank can undertake have been clearly spelt out in
+para 4 of the guidelines.
+43. Whether the minimum capital of Rs. 100 crore is insisted with the objective
+that the bank shall fund its payment operation from the capital source?
+A. Yes.
+1244. Is it necessary that the payment bank should have full-fledged branches?
+Does RBI have in mind any minimum number of branches that these banks
+should have in a phased manner?
+A. The business plan should include proposal for opening access points in unbanked
+rural centres as stipulated in para 13(ii) of the guidelines. The stipulation is for total
+branch network.
+45. Whether an Individual currently an NRI can apply subject to him/her deciding
+to return for good for setting up of the Bank?
+A. Yes.
+46. Entities like NBFCs etc are to be owned and controlled by residents. Whether
+such companies and societies are to be fully (100%) owned by residents? What is
+the definition of control? Does this mean that the board needs to be fully
+residents or the executive management needs to be fully residents?
+47. The guidelines require that Companies, owned and controlled by residents,
+will be eligible. However the terms “owned” and “control” have not been defined.
+Would the terms have same meaning as defined in the FDI policy?
+48.Whether Individuals / professionals can be NRI / non-resident who can act as
+Promoters as express word “Resident” is not specified?
+A. (46 to 48) The definition is as per the Government’s FDI policy and the FEMA
+regulations as amended from time-to-time. As per the latest FDI policy and the FEMA
+regulations, a Company ‘Owned by residents’ shall be an Indian company if more than
+50% of the capital in it is beneficially owned by resident Indian citizens and/or Indian
+companies, which are ultimately owned and controlled by resident Indian citizens. A
+company shall be considered ‘Controlled' by resident Indian citizens if the residents
+13Indian citizens and Indian companies, which are owned and controlled by resident
+Indian citizens, have the power to appoint a majority of its directors in that company.
+49. Whether an existing PPI seeking to convert into a Payments Bank would need
+to be owned and controlled by residents? If yes, then could you also please
+confirm whether the DIPP definition of 'owned and controlled' is being used for
+this purpose?
+50. Whether it is necessary for existing PPI issuers to be owned and controlled by
+residents, as a pre-requisite for conversion into payment banks? Kindly clarify.
+A. (49 to 50) Yes. Existing PPIs seeking to convert into a Payments Bank would need to
+be owned and controlled by residents. The definition is as per the Government’s FDI
+policy and the FEMA regulations as amended from time-to-time. As per the latest FDI
+policy and the FEMA regulations, a Company ‘Owned by residents’ shall be an Indian
+company if more than 50% of the capital in it is beneficially owned by resident Indian
+citizens and/or Indian companies, which are ultimately owned and controlled by resident
+Indian citizens. A company shall be considered ‘Controlled' by resident Indian citizens if
+the residents Indian citizens and Indian companies, which are owned and controlled by
+resident Indian citizens, have the power to appoint a majority of its directors in that
+company.
+51. The payment bank would not be taking any credit risk while small bank would
+be taking all the risks that a payment bank would be taking and additionally credit
+risk. Given that small bank would be taking more risks, different networth
+requirement for payment bank and small bank could be explored.
+A. The minimum paid-up equity capital of both small finance banks and the payments
+banks is Rs.100 crore.
+1452. Whether super market chains incorporated in India with NRI shareholding in
+full or part on non repatriating basis will be eligible to apply?
+A. As per para 3 of the guidelines, super-market chains, that are owned and controlled
+by residents will be eligible as promoters to set up payments banks.
+At the time of making application, the Promoters/Promoter Group will have to furnish a
+plan and methodologies they would adopt to comply with all the requirements of the
+guidelines including with regard to ownership and control. After the ‘in-principle
+approval’ is accorded by RBI for setting up of a bank, the Promoters/Promoter Group
+will have to comply with all the requirements within 18 months from the date of in-
+principle approval or as on the date of commencement of operations, whichever is
+earlier.
+53. Our company is a private limited company incorporated under the Companies
+Act, 1956. Can the conversion to public limited company be completed after
+receiving in-principle approval to form a Payments Bank?
+A. At the time of making application, the Promoters/Promoter Group will have to furnish
+a plan and methodologies they would adopt to comply with all the requirements of the
+guidelines. After the ‘in-principle approval’ is accorded by RBI for setting up of a bank,
+the Promoters/Promoter Group will have to comply with all the requirements within 18
+months from the date of in-principle approval or as on the date of commencement of
+operations, whichever is earlier.
+54. In the scenario that our company becomes the Payments Bank, our company
+currently has only 2 promoters who would hold 40% of the paid up equity capital
+of our company. However, the two promoters will be entitled to exercise only 10%
+voting rights each. Accordingly, for the aforesaid purposes, our company will
+have to issue equity shares with differential voting rights to the two promoters,
+which would require compliance with conditions prescribed under Section
+1543(a)(ii) of the Companies Act, 2013 read with Rule 4 of the Companies (Share
+Capital and Debentures) Rules, 2014. As per the said Rules, the shares with
+differential rights shall not exceed twenty-six percent of the total post-issue paid
+up equity share capital of a company including equity shares with differential
+rights issued at any point of time. Please clarify as to how our company will be
+required to structure its shareholding pattern and the voting rights to be
+exercised by the promoters keeping in view the requirements of the Rules as well
+as the PB Guidelines.
+A. For the purpose of voting rights in respect of shares held in private sector banks,
+please be guided by the provisions of Section 12 (2) of the Banking Regulation Act,
+1949. As regards shareholding pattern of the company, it is not under the purview of
+RBI.
+55. Would the minimum capital of Rs. 100 crore include the amount in Securities
+Premium account? (That portion of the Securities Premium account which
+represents the amount collected as premium per equity share in addition to the
+face value of equity share).
+56. Whether securities premium will be considered for computing capitalisation of
+the payments bank?
+A. (55 to 56) The minimum capital requirement of Rs.100 crore would include share
+premium provided there is no differential pricing of shares.
+57. Para 4 Scope of activities “……payments bank will initially be restricted to
+holding a maximum balance of Rs. 100,000 per individual customer….payments
+bank can accept a large pool of money to be remitted to a number of accounts
+provided at the end of the day the balance does not exceed Rs. 100, 000”.
+Please guide in the situation when over the weekends and where the consecutive
+bank holidays occur, the balance in the account breaches the limit Rs. 100,000.
+16A. The balance at the close of business on any day should not exceed Rs.100,000 per
+individual customer.
+58. Para 13 – Other conditions “….the payments bank will be required to have at
+least 25 per cent of physical access points including BCs in rural centres. Further
+a controlling office for a cluster of access points should also be established for
+control over various outlets and customer grievance redressal”.
+In the present set up of PPI business, two types of entities monitor and exercise
+control over the retailer points, in the context of payment bank guidelines the
+“physical access points”, with atleast one of the company’s affiliate holding
+office:
+a. The Distributor partner
+b. Business Correspondent/PPI Agent
+Would the same mechanism be adopted for the purpose of meeting the
+requirement of “controlling office”. Can these be designated as the controlling
+offices?
+A. Controlling offices should be manned by employees of the payments bank. Business
+correspondents are agents and therefore BC outlets cannot be designated as
+controlling offices.
+59. The guidelines are silent on whether a Promoter / Promoter entity can set up
+an Intermediate Holding Company for the purpose of promoting the Payments
+Bank.
+In the above structure:
+a. Whether the requirement of shareholding lock-in would apply at the
+Intermediate Holding Company level or at the Promoter / Investor level of the said
+Intermediate Holding Company. In other words, can the shareholders of the
+17Intermediate Holding Company dilute his / its stake in the said company within 5
+years?
+b. Whether the shareholding in the Intermediate Holding Company can
+change inter-se between Promoter group within the above-mentioned
+thresholds?
+A. The guidelines do not require setting up of a holding company to set up the payments
+banks. If there is an intermediate company, it should be an NOFHC and conform to all
+requirements relating to NOFHC stipulated in our guidelines on licensing of new banks
+in the private sector dated February 22, 2013.
+60. Whether a Corporate Business Correspondent (‘BC’), owned and controlled
+by residents, can convert into a Payments Bank?
+A. Yes.
+61. Can the Promoter/ Promoter Group Company be appointed as a BC of a
+proposed Payments Bank?
+A. Yes, on arm's length basis and subject to the RBI guidelines on BCs.
+62. Whether the BC of a Payments Bank will be able to perform business
+facilitation activities such as loan sourcing for some other bank?
+A. Yes, subject to RBI guidelines for banks appointing BCs.
+63. Whether a Payments Bank can undertake non-risk government services like
+AADHAR enrolment, etc.?
+A. Yes. As per the guidelines, the payments banks can undertake other non-risk sharing
+simple financial services activities, not requiring any commitment of their own funds.
+1864. Guidelines provide that apart from amounts to be maintained as CRR on its
+outside demand and time liabilities, the Payments Bank would be required to
+invest minimum 75 percent of its demand deposit balances in Government
+Securities / Treasury Bills as SLR and hold a maximum of 25 percent in current
+and time / fixed deposits with other scheduled banks. In this regard, can the 4
+percent cash reserves used for meeting CRR be counted towards the requirement
+of holding minimum 75 percent in G-secs or 4 percent CRR is in addition to 75
+percent in G-secs?
+A. The amounts to be invested in Government Securities / Treasury bills, would be in
+addition to maintaining CRR.
+65. Whether the Director / Individual Shareholder of an entity promoting a
+Payments Bank could become the Chairman of such bank?
+A. Yes, subject to prior approval of the RBI as provided in the Banking Regulation Act,
+1949.
+66. Whether the promoter entity and the Payments Bank can have common
+directors?
+A. There could be common directors in the promoter entity and the bank. However, a
+director of the promoter entity cannot be considered as independent director of the
+bank.
+67. We are in receipt of Guideline for Payments Bank. In this regard we are
+planning to apply for the license. Since the available time is short, may I kindly
+request you to extend the dead line at least by a month to complete all the
+necessary formalities?
+19A. The last date for receipt of applications for licensing of payments banks has since
+been extended to February 2, 2015.
+68. We note that the promoter (if it is a company) (“Promoter Company”) is
+required to be owned and controlled by residents India citizens. Therefore, we
+understand that foreign investment in such Promoter Company will be permitted
+upto 49%, so long as the foreign investor does not exercise control on the
+Promoter Company. In this regard, please clarify as follows:
+(i) Will the “fit and proper status (including the track record) of such foreign
+shareholder in the Promoter Company be considered for the purpose of
+evaluating the application and determination of the “fit and proper” status?
+(ii) If yes, is there a need for the resident shareholder of the Promoter Company to
+also have a track record?
+(iii) Will the experience of a direct foreign shareholder in the Payments Bank
+(since foreign investment is allowed upto 74%) be taken into account for
+determination of the “fit and proper” status?
+A. (i to iii) Fit and proper exercise will be undertaken at various levels as necessary.
+69. Are all non-Indian citizens assumed to be excluded from a customer
+relationship with a Payments Bank? Since cross-border remittance transactions
+are allowed (as per Clause 4(viii)), would in-bound remittances into an account
+maintained with Payments Bank regarded as a deposit? (See Clause 4(i))
+70. The Guidelines state in regulation 4 (i) that “No NRI deposits should be
+accepted.” However, regulation 4(viii) states that “Payments banks will be
+permitted to handle cross remittance transactions in the nature of personal
+payments/remittances on the current account.” Confirmation is sought that
+incoming foreign remittances from NRI will be permitted into the payments bank
+accounts.
+20A. (69 to 70) As per the guidelines, the payments bank cannot accept any NRI deposits.
+In-bound remittance into accounts maintained by residents with payments bank will be
+considered as deposits.
+71. If a Business Correspondent (BC) arrangement is made with a third party in
+order to ensure a widespread reach of its services, will the BC be subject to the
+existing banking regulations for BCs? (See Clause 4(iii))? Would such regulations
+still apply if the BC is already regulated by another regulator e.g., DoT?
+A. Yes, if a BC arrangement is made with a third party, the arrangement should be
+subject to the RBI guidelines on BCs.
+72. Will Payment Banks be allowed to connect to National Unified USSD Platform
+(NUUP) of NPCI? (See Clause 4(vii))?
+A. Yes.
+73. What is regarded as a “utility bill”? For example, can payment for third party
+products/services on a post-paid basis be regarded as within the frame of “utility
+bill” or as a “credit”? (See Clause 4(x))
+A. Utility bill would mean electricity bill, telephone bill etc. Payment for such third party
+products/services on a post-paid basis will be treated as credit and not allowed.
+74. We note that the Promoter Company is required to maintain atleast 40%
+shareholding in the Payments Bank for the first 5 years from the commencement
+of business. In this regard, please clarify as follows:
+(i) Is the lock-in applicable from the date of grant of licence, or from the date of
+actual commencement of operations?
+21(ii) Whose shareholding is subject to the said lock-in: (a) the shareholding held by
+the Promoter Company i.e. the company that has applied for the approval for
+Payments Bank; (b) the foreign shareholder of the Payments Bank (who may also
+be the shareholder of such Promoter Company); or (c) both.
+A. (i) As per the guidelines, the promoters of the payments bank should hold at least 40
+per cent of its paid-up equity capital for the first five years from the date of banking
+licence.
+(ii) The shareholding of the promoters will be subject to lock-in i.e., option (a) above.
+75. Are there any lock-in or other restrictions on shareholding of Promoter
+Company?
+A. Any proposed material change in the shareholding pattern in the promoter entity at
+the time of application and during the period between the application and in-principle
+approval and even thereafter should be brought to the prior notice of Reserve Bank of
+India.
+76. The set of guidelines/restrictions that will apply for Payments Banks BC
+points.
+A. The guidelines applicable to scheduled commercial banks for engaging BCs will
+apply to payments banks also.
+77. Owing to the restriction on the limit the core business of payments bank that
+is the payments and remittances may get affected. Acceptance of a large pool of
+money for remittance to other accounts during the day with only the day end
+balance being restricted to Rs. 100,000 gives some relief, yet it may affect the
+efficiency in terms of having the funds transferred to another account to meet this
+requirement.
+22May we suggest that an enhanced limit be considered as an average Quarterly
+Balance differently, for the Savings accounts and current account by Payments
+Bank as this model is secure for the deposit holders as well as is in line with RBI
+and Government's objective of financial inclusion.
+A. The current limit of Rs. 1,00,000 per individual customer remains.
+78. Some of the PPIs has been in operation for less than 5 years, and are
+considering applying for Payments Bank license. We would request you to please
+guide us on how to meet the requirement of submission of 5 years of financial
+records of the applicant entity.
+79. In case of an entity registered under PSS Act for prepaid instrument issuance (PPI),
+which has been in business for less than 5 years, will RBI consider such entity for
+conversion into the bank (given that PPI’s have been approved by RBI over last three
+years)?
+A.(78 to 79) As per the guidelines, RBI would assess the ‘fit and proper’ status of the
+applicants and group entities on the basis of their past record of sound credentials and
+integrity; financial soundness and successful track record of at least 5 years
+professional experience or in running their businesses. For promoters of PPI issuers
+having less than five years of track record, the track record prior to PPI business will be
+seen.
+80. Since foreign investment upto 49% is permitted in the Promoter Company,
+can the same foreign shareholder also hold 74% directly in the Payments Bank?
+Will the direct and indirect foreign shareholding be aggregated for computing the
+overall cap of 74%?
+A. The answer to both the parts of the question is “No”.
+2381. This clause provides that “…shareholder’s voting rights in private sector
+banks are capped at 10 per cent.” How should this phrase be interpreted? For
+example, if the Payments Bank only has two shareholders, each having a 10%
+voting rights, what happens to the remaining 80%? Would the cap on voting
+rights be valid for meetings of board of directors or shareholders, or both?
+82. We note from Clause 7 that since Payments Banks cannot undertake lending
+activities, it is not compulsory for them to have a diversified ownership, unlike in
+the case of universal commercial banks. Given the above, what is the rationale for
+imposing the 10% cap on the voting rights of each shareholder?
+A. (81 to 82) The cap on voting rights is as per the provisions of the BR Act, 1949 which
+presently is 10 per cent. The cap on voting rights is for the shareholders.
+83. Would the cap of 10% apply to each shareholder under whose name shares
+are held, or each “shareholder group” comprising of affiliates and related
+entities? If such cap will be applicable to each shareholder group, what will be the
+basis of clubbing the entities together?
+A. The cap on voting rights is per person as indicated in Section 12 (2) of BR Act 1949.
+84. Can the shareholders of the Payments Bank by way of a shareholders/joint
+venture agreement, restrict the voting rights to even less than 10% for a particular
+shareholder who is holding more than 10% of the paid-up share capital)?
+85. If the answer to the above query is no, can the voting rights be
+proportionately reduced based on the shareholding of each shareholder? As an
+example, if a shareholder holds 60% and his voting rights are capped at 10%,
+then can the voting rights of the other shareholder holding 40% be capped at
+6.67%?
+24A. (84 to 85) Payments banks can issue differential voting rights, subject to minimum
+equity capital being voting equity. As on date the voting rights are limited to 10 per cent
+per shareholder (Section 12(2) of the Banking Regulation Act, 1949 ). The provision
+relating to 26 per cent voting rights is an enabling provision for the future.
+86. In paragraph I (3), information relating to all entities in the promoter group is
+required to be provided. Is this requirement limited only to direct shareholders of
+the Promoter Company or does this extend to indirect shareholders of the
+Promoter Company and entities under common control of the ultimate
+shareholders?
+A. The Annexure to the guidelines indicate that the names of the individuals and entities
+in the promoter group, details of shareholding, management and corporate structure of
+all the entities, a pictorial organogram indicating the structure, shareholding and total
+assets of the entities should be submitted. In this context, the promoter group will be as
+defined by SEBI (Issue of Capital & Disclosure Requirements) Regulations, 2009.
+87. (a) Our company is incorporated as per Companies Act in India hence should
+be eligible to apply. However it may be noted that Indian shareholding is 25% and
+foreign shareholding is at 75%. Considering the foreign shareholding (75%) and
+control structure of the company, please confirm if, the company is eligible to
+apply for "Payments Banks" Licence as a promoter.
+(b) Since our company is owned by a foreign shareholder, please clarify whether
+this covers the shareholding pattern of promoters as well.
+A. (a & b) At the time of making application, the Promoters/Promoter Group will have to
+furnish a plan and methodologies they would adopt to comply with all the requirements
+of the guidelines. After the ‘in-principle approval’ is accorded by RBI for setting up of a
+bank, the Promoters/Promoter Group will have to comply with all the requirements
+within 18 months from the date of in-principle approval or as on the date of
+commencement of operations whichever is earlier.
+2588. Currently, our company is an online remittance network, platform service
+provider/payment aggregator and has applied to RBI to be able to act as Money
+Transfer Operator itself or through its subsidiary and awaiting revert from RBI.
+Considering that our company is granted RBI permission and in case, and if it
+applies for a payments bank license, can the company continue to provide its
+services to the customer considering the scope of activities of payments bank as
+mentioned in the Guidelines also include cross border remittances.
+A. Yes.
+89. As of today, paid up equity capital of our company is approx. Rs.13 crore.
+However, the same may be increased as specified to meet the eligibility criteria.
+Please confirm whether the capital requirement of Rs. 100 crore is mandatory at
+the time of application for payment banks License by the promoter i.e. TOML or
+the capital may be infused at a later stage? Our company will be sole shareholder
+for the Payments Bank Entity as required. Hence, 100% in Payments Bank will be
+held by Indian entity only.
+A. At the time of making application, the Promoters/Promoter Group will have to furnish
+a plan and methodologies they would adopt to comply with all the requirements of the
+guidelines. After the ‘in-principle approval’ is accorded by RBI for setting up of a bank,
+the Promoters/Promoter Group will have to comply with all the requirements within 18
+months from the date of in-principle approval or as on the date of commencement of
+operations whichever is earlier.
+90. Please confirm, whether the independent Directors have to be identified at the
+time of application or at the time of incorporation or during a specified period as
+may be approved by RBI.
+26A. The names of the independent Directors of the bank would be required to be
+furnished to the Reserve Bank after grant of in-principle approval.
+91. Further, can the Board of promoters and payments bank have common
+Independent Directors?
+92. Whether independent directors of the promoters nominated on the Board of
+payments bank would qualify as independent directors for the payments bank.
+A. (91 to 92) No
+93. Whether MOA of the promoter/applicant, should contain the enabling clause
+in its object clause, to promote a company to specifically conduct banking
+business at the time of filing an application or can it be done subsequently as
+payments bank can be formed within 18 months from the date of receipt of in-
+principal without altering MOA.
+A. It would suffice if the MOA would have the enabling clause after the in-principle
+approval and while obtaining the final licence for the bank.
+94. Please confirm what actually the in-principle approval would contain and what
+would be the duties and obligations of a promoter, post receiving the in principle
+approval.
+A. The in-principle approval will have the conditions that should be complied by the
+promoter for obtaining the banking licence. The conditions will primarily be stipulated as
+indicated in the guidelines and also depending on the specific application of the
+promoters.
+95. Whether foreign owned and controlled Indian entities can be a promoter in the
+payments bank?
+27A. No. However, at the time of making application, the Promoters/Promoter Group will
+have to furnish a plan and methodologies they would adopt to comply with all the
+requirements of the guidelines. After the ‘in-principle approval’ is accorded by RBI for
+setting up of a bank, the Promoters/Promoter Group will have to comply with all the
+requirements within 18 months from the date of in-principle approval or as on the date
+of commencement of operations whichever is earlier.
+96. Whether PPI issuer and payments bank entity could co-exist within the same
+promoter group.
+A. No.
+97. (a) Whether a joint venture between distinct promoter groups can form
+payments bank or is it is essential that any joint venture should necessarily
+involve a scheduled commercial bank.
+(b) Can Promoter have JV with an entity other than Schedule Bank?
+(c) Whether any preference would be given for joint ventures as against payments
+banks being promoted by single promoter/ promoter group entities.
+A. (a & b) Joint Venture should necessarily involve a Scheduled Commercial Bank.
+(c) No special preference would be accorded to Joint Ventures for licensing of Payments Banks.
+98. Whether a foreign banking entity which has a branch in India on across
+border basis, (without involving the Indian branches’ balance sheet ) can acquire
+a stake in a payments bank, subject to compliance with foreign investment
+guidelines.
+A. As per extant instructions vide master circular on Exposure Norms, Banks / FIs
+should not acquire any fresh stake in a bank's equity shares, if by such acquisition, the
+investing bank's / FI's holding exceeds 5 percent of the investee bank's equity capital.
+Investment by a foreign banking entity is subject to the above exposure limit.
+2899. Whether individual customer limit applies to only demand deposits and PPIs
+may be issued as per prevailing instructions issued from time to time.
+A. The individual customer limit applies to PPI balances also.
+100. Whether PPIs issued by payments bank will also be eligible to use all the
+funding sources (credit cards, debit to bank accounts).
+A. Credit cards are not permitted.
+101. Whether payments bank can offer interest on the PPI issued.
+102. Whether two factor authentication for open loop prepaid products( under
+membership of a card scheme) would be applicable.
+103. Whether a payments bank can offer semi closed wallets to offer customers
+single sign on experience similar to that offered by non bank PPI issuers
+A. (101 to 103) These will be subject to guidelines issued under the PSS Act.
+104. Whether remittances under the current account means remittances that are
+in the nature of current account transactions as defined under FEMA 1999 and
+regulations issued there under.
+A. Yes.
+105. Whether an existing PPI licence holder with paid up capital of Rs 100 core
+but net worth below Rs.100 crore satisfies the capital requirement.
+A. No.
+106. What is meant by 'access point' and 'other networks in para 13 of the
+guidelines.
+29A. Access points refer to branches, BCs, ATMs and other networks. Other networks
+refer to mobile banking, POs terminals etc.
+107. What set of payments bank services offered will qualify for an access point
+for payments bank.
+A. Access point should offer acceptance and repayment of deposits and remittance/
+payment services to qualify for an access point.
+108. Whether payments bank aspirants would be provided a time frame for to
+achieve 25% rural access point condition post commencement of payments bank
+business.
+A. Yes.
+109. Whether it is mandatory for a payments bank to implement core banking
+solution.
+A. Please refer to para 13 (ii) of the guidelines.
+110. Where the promoter group is a listed company, is it sufficient to list
+shareholding of promoter / promoter group. If several entities in the promoter
+group are body corporates, whether details of all shareholders in the promoter
+group should be given. As regards annual reports for past five years, whether
+consolidated financial statements of the promoter entity is sufficient.
+A. As per Annex to the guidelines on additional information required, names of the
+individuals and entities, details of shareholding, management and corporate structure of
+all the entities, a pictorial organogram indicating the structure, shareholding and total
+assets of the entities, and Annual reports of the past five years of all the group entities
+should be furnished. For the purpose, promoter / promoter group will be as defined by
+SEBI (Issue of Capital & Disclosure Requirements) Regulations, 2009. The
+30consolidated and standalone financial statements of the past five years of all the group
+entities should be provided.
+111. Whether such shareholder who owns more than 10% shares in our company,
+but is not part of Promoter Group for our filings with stock exchanges (Company
+“X”) will form part of Promoter Group of the applicant company for the purpose of
+“Payment Bank Application”.
+A. For the purpose, promoter / promoter group will be as defined by
+SEBI (Issue of Capital & Disclosure Requirements) Regulations, 2009.
+112. Whether the company (Company Y) in which the applicant entity’s wholly
+owned subsidiary holds more than 10% shareholding but is not part of Promoter
+Group for our filings with stock exchanges will form part of Promoter Group of
+the applicant company for the purpose of “Payments Bank Application”.
+A. For the purpose, promoter / promoter group will be as defined by
+SEBI (Issue of Capital & Disclosure Requirements) Regulations, 2009.
+113. Whether we need to provide information such as shareholding pattern,
+management & corporate structure, organogram, assets, liabilities etc. of
+Company X and Company Y with the application for Payment Bank.
+A. The Annexure to the guidelines indicate that the names of the individuals and
+entities, details of shareholding, management and corporate structure of all the entities,
+a pictorial organogram indicating the structure, shareholding and total assets of the
+entities should be submitted. The organogram should start with the main individual
+promoters indicating their shareholding in the group entities and also cross holding
+among the group entities. Organogram for each group entity is not required. The details
+required as per the annexure to the guidelines are required to be submitted by the
+applicants.
+31114. Would the proposed applicant be eligible to apply given that it is controlled
+by an Indian Promoter Group, but has majority foreign shareholding? Whether
+the proposed applicant can still apply with a roadmap to reduce its foreign
+shareholding to the prescribed level in the period of 18 months allowed for
+setting up the Payment Bank following the “in-principle” approval.
+A. No. However, at the time of making application, the Promoters/Promoter Group will
+have to furnish a plan and methodologies they would adopt to comply with all the
+requirements of the guidelines. After the ‘in-principle approval’ is accorded by RBI for
+setting up of a bank, the Promoters/Promoter Group will have to comply with all the
+requirements within 18 months from the date of in-principle approval or as on the date
+of commencement of operations whichever is earlier.
+115. Whether the proposed payment bank can be jointly promoted by more than
+one Promoter Company (Companies not being in the same Group). If yes,
+whether all such Promoter Companies have to be owned and controlled by
+resident Indians or a majority of them can be owned and controlled by residents?
+A. No.
+116. (a) Whether the proposed Payments Bank can be 100% held by the
+“Promoter Company”?
+(b) If yes, then in a such a scenario, is it right to assume that there would be no
+restriction on Voting Rights?
+A. (a) Yes.
+(b) No.
+117. Whether an existing PPI authorized entity which has operations only for last
+6 months, but whose promoter has a track record of over 2 decades can apply for
+32Payments Bank as a Promoter. If yes, whether the condition of 5 years’
+experience can be waived off?
+A. Yes, they are eligible to apply.
+118. Can the same promoter have a PPI business in one entity and a Payment
+Bank in another entity?
+A. No.
+119. Can a Payment Bank offer a semi-closed wallet that is permitted under the
+current PPI authorization as a separate product with reduced KYC requirement in
+addition to opening normal accounts under the Payment Bank Guidelines? For
+this purpose, if required, can the existing PPI authorization be transferred to the
+Payment Bank entity? If the Payment bank is not allowed to offer Semi closed
+wallet, then can the existing PPI accounts be migrated into Savings Accounts?
+A. As per para 4 of the guidelines, payments banks can issue PPIs as per instructions
+issued from time to time under the PSS Act, in addition to opening normal accounts
+under the Payment Bank guidelines. Further, the PPI entity cannot coexist with the
+payment bank in the same group.
+120. Alternatively can the current entity holding the PPI authorization be
+converted to a Payment Bank?
+A. Yes.
+121. Please confirm that there is no obligation for a Payments Bank to have a
+minimum number of branches. In case there is any such requirement, please
+inform the obligation to set up minimum number of branches and ATMs that RBI
+expects the payments bank to have, based on our customer base/reach? Also,
+33will the payments bank be subjected to branch authorization requirements (eg:
+Preparing the annual branch expansion plan) as specified in the branch
+authorization master circular. As per the guidelines, Payments banks are required
+to have at-least 25 percent of physical access points in rural areas. Does RBI
+envision any minimum infrastructure requirements for physical access points?
+A. Please refer to para 13(i) of the guidelines.
+122. What will be the norms of free ATM transactions applicable to Payment
+Banks?
+A. Norms of free ATM transactions will be applicable to Payments Banks also.
+123. Will this same documentation obtained by Telecom companies for KYC
+checks for their customers before signing them up as subscribers be considered
+adequate for the purpose of KYC for a Payment Bank promoted by a telecom
+company?
+A. any other bank.
+The payments bank will have to undertake its own KYC/AML/CFT exercise as
+124. Will payment banks be allowed to access inter-bank call money market for
+short term liquidity management? Will they be allowed to enter into repurchase
+agreements on their government securities holdings?
+A. Yes.
+125. Would this allow the payment bank to sell credit products, mutual fund units,
+Insurance and trading products to its customers on behalf of other banks?
+34A. A payments bank may choose to become a BC of another bank, subject to the RBI
+guidelines on BCs.
+126. Whether account holders who are registered as merchants with higher levels
+of KYC can be allowed to hold balances exceeding Rs.1 lakh.
+A. No.
+127. Since there are no specific limits mentioned for cross border outward and
+inward transactions, we assume we can perform these transactions as long as
+the maximum end of the day balance is Rs 1 lakh (per individual customer).
+A. Please refer to para 4(i) of the guidelines.
+128. Kindly confirm if the Payments Bank can issue debit cards with
+VISA/MASTER/RUPAY?
+A. Yes.
+129. Will all RBI guidelines applicable for Schedule Commercial banks, will be
+applicable to Payments banks? (e.g. to provide BSBDA accounts, Free ATM
+transactions, Risk based supervision, etc.)
+A. Yes. All guidelines issued to SCBs that are relevant to the activities undertaken by
+the Payments Banks will apply.
+130. Please confirm that there will be no obligation to provide cheque books or
+other paper based products for Payments banks? Consequently, please also
+confirm that a Payments Bank is not required to participate in ACH/ECS.
+35A. Payments banks are expected to do the normal banking business as stated in
+Section 5 of the BR Act 1949 (except lending), which includes acceptance of deposits
+repayable on demand or otherwise and withdrawal by cheque, draft, order or otherwise.
+Membership of clearing house/ECS etc. is part of payment and settlement systems.
+131. Will Aadhar based e-KYC authentication (facilitated by NPCI) be allowed for
+new account opening at payment bank?
+A. As per para 3 of the guidelines, the payments bank will have to undertake its
+own KYC/AML/CFT exercise as any other bank and will be guided by extant instructions
+on the same.
+132. Would other transactions – remittances, PoS cash-out etc. be regulated
+similar to existing banks? Or would payment banks have a different set of
+regulations?
+A. Yes the same set of regulations will apply.
+133. (a) Can a payment bank promoter set up another non banking finance
+company to carry out lending activities, especially for transaction linked products
+such as credit cards? (b) Can the Payment Bank acquire a minority ownership
+stake in such an NBFC?
+A. (a) Yes.
+(b) No.
+134. Would all the existing IT guidelines issued by RBI for scheduled commercial
+banks be applicable for the Payment banks as well? Request to share any
+specific exceptions or exclusions provided for payment bank entities.
+36A. All RBI guidelines applicable for scheduled commercial banks, will be applicable
+to payments banks.
+135. It’s mentioned in the Payment bank guidelines that Cash-out can also be
+permitted at Point-of-Sale terminal locations. Request to clarify if this can be used
+for the following:
+a) To provide retailers with POS terminals and allow them to facilitate debit card
+based cash withdrawals by end customers of payment bank
+b) BCs to use the POS terminals and facilitate debit card based withdrawals,
+without account information
+c) Can the trade channels use their mobile application or portals as POS
+terminals to facilitate transactions
+d) Can the trade channels perform cash withdrawals using Aadhaar based
+biometric authentication
+A. (a to d) The extant instructions issued under the Payment and Settlement
+Systems Act will be applicable.
+136. Clarification is sought on whether payment banks are permitted to offer
+credit on behalf of a licensed credit provider, in an arrangement that does not
+require the commitment of their own funds.
+A. A payments bank can choose to become a BC of another bank subject to RBI
+guidelines on BCs and not any other credit provider.
+137. Clarification is sought on whether the Rs 100,000 limit is applicable to the
+balances held by the payments bank as a corporate entity from its business
+relationships such as Business Correspondents, or other deposits from its
+agents, service providers or vendors etc. These balances should not be classified
+as customer deposits, and as such the limits should not apply to the payments
+37bank accounts of those retailers serving as business correspondents (BCs) to
+provide cash-in/out services.
+A. The Rs.1,00,000 limit applies to customer deposits.
+138. Clarification is sought on whether companies registered in India but with
+significant foreign direct investment (up to 100%) that fall into the categories of
+eligible entities qualify as eligible promoters.
+A. At the time of making application, the Promoters/Promoter Group will have to
+furnish a plan and methodologies they would adopt to comply with all the requirements
+of the guidelines. After the ‘in-principle approval’ is accorded by RBI for setting up of a
+bank, the Promoters/Promoter Group will have to comply with all the requirements and
+the within 18 months from the date of in-principle approval or as on the date of
+commencement of operations whichever is earlier.
+139. With regards to the procedures for application for payments bank,
+clarification is sought on whether (1) An application for a payments bank is
+considered binding in the case that in-principle approval is granted; (2) whether
+an additional round of applications is expected?
+A. The in-principle approval issued by RBI will enable the applicant to set up the bank
+within eighteen months from the date of granting such in-principle approval and
+thereafter the in-principle approval will lapse automatically. After experience gained in
+dealing with the payments banks, applications will be received on a continuous basis.
+However, these guidelines are subject to periodic review and revision.
+140.Whether the Promoter entity can continue to carry its other business (other
+than which is to be carried out by bank for e.g. real estate, IT solutions, services,
+manufacturing etc.) in the promoter entity itself or does the said business has to
+be transferred to other entity by the promoter entity?
+38A. Promoter entity can continue to carry its other business (other than which is to be
+carried out by bank for e.g. IT solutions, services etc.) in the promoter group. The other
+financial and non-financial services activities of the promoters, should be kept distinctly
+ring-fenced and not comingled with banking business.
+141. Eligible Promoter does not include MFI as against specific mention in Small
+Finance Banks guidelines Whether MFI is will be an eligible promoter for
+Payments Banks considering MFI is typically an NBFC?
+A. Yes. NBFC – MFI are eligible.
+142. Whether Payments Banks can accept Fixed Deposit (FD), Term deposit /
+Recurring deposit?
+A. No
+143. Can the entrepreneurs who have wide experience of providing mobile
+payments and compliance solutions to banks and meets remaining eligibility
+conditions are eligible to apply for Payment Banks?
+A. Yes
+144. Is it possible to make application of present Trade Name which is in software
+industry (Pvt Ltd.) and separate the Payments Banks business once the
+necessary approvals are obtained from RBI and other relevant compliance
+agencies.
+A. Yes. A software company can promote a payments bank if otherwise found eligible.
+

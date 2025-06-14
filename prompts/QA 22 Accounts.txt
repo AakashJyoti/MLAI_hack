@@ -1,0 +1,12 @@
+1. Does QA 22 Account continue under Foreign Exchange Management Act, 1999?
+No. With the introduction of Foreign Exchange Management Act, 1999, the accounts opened by foreign nationals who are resident in India are treated as resident accounts. Such accounts are at par with other resident Rupee accounts.
+2. Can foreign nationals resident in India open resident account?
+Yes. Foreign nationals resident in India can open and maintain resident Rupee account in India.
+3. Should banks have a separate system to monitor resident accounts maintained by foreign nationals in the absence of QA 22 account?
+From exchange control point of view, no monitoring is required. However, the banks are free to put in place such administrative arrangements as considered necessary for a smooth conduct of accounts, especially in cases where it is likely that a request for repatriation of funds outside India will be made.
+4. Can ADs (banks) remit proceeds of such accounts on closure?
+Yes. But ADs (banks) should ensure that the funds to be repatriated outside India were either received from abroad or are of repatriable in nature or are permissible in terms of RBI notification No.FEMA.13/2000 dated 3rd May 2000.
+5. In the absence of QA 22 account how the salary of foreign nationals be remitted?
+In terms of GOI notification No.SO.301(E) dated March 30, 2001, banks are free to allow remittance for maintenance of close relatives abroad not exceeding net salary (after deduction of taxes, contribution to provident fund and other deductions) of a person who is resident but not permanently resident in India and is a citizen of a foreign state other than Pakistan.
+Therefore, independent of QA 22 procedure, they may allow remittance of net salary.
+

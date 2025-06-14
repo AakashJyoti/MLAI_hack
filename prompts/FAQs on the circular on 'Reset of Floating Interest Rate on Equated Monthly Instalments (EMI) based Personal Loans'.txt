@@ -1,0 +1,29 @@
+Q.1 Does the circular apply to all loan products or only to Personal Loans?
+Ans: The circular is applicable to all equated periodic instalment based personal loans only. The circular is not applicable to other types of loans. The Reserve Bank circular DBR.No.BP.BC.99/08.13.100/2017-18 on “XBRL Returns – Harmonization of Banking Statistics” dated January 04, 2018may be referred for the definition of personal loans.
+Q.2 In terms of paragraph 2(i) and paragraph 4 of the circular, REs have been advised to communicate to the borrowers the impact of interest rate reset on EMI, in a floating rate personal loans, both at the time of sanction as well as during the tenure of the loan. In this context, when and at what frequency shall REs communicate with the borrower? What will be the content of the communication?
+Ans: Communications to borrowers envisaged in the circular are:
+(a) At the time of sanction:
+Annualised rate of interest/ Annual Percentage Rate (APR), as applicable, shall be disclosed in the Key Fact Statement (KFS) and the loan agreement.
+The possible impact of change in benchmark interest rate on the loan.
+(b) During the tenure of the loan:
+Subsequently, any increase in the EMI/tenor on account of the external benchmark rate shall be communicated; and
+Quarterly statements shall be provided disclosing at the minimum, the principal and interest recovered till date, EMI amount, number of EMIs left and annualized rate of interest for the tenor of the loan.
+Q.3 In terms of paragraph 4 of the circular, REs have been advised to intimate the different options available to address the increase in EMI in a rising interest rate scenario. What are the different options available to borrowers during a rising interest rate cycle in respect of equated installment based personal loans?
+Ans: Whenever there is a reset of interest rates for an entire class of borrowers in a particular loan category, say home loan, due to increase in the reference benchmark; the RE shall provide the following options to the borrowers:
+Either enhancement in EMI or elongation of number of EMIs, keeping the EMI unchanged or a combination of both options;
+Switch to fixed interest rate for the remaining portion of the loan; and
+To prepay, either in part or in full, at any point during the residual tenor of the loan.
+Q.4 One of the options allowed to the borrower vide paragraph 2(ii) of the circular is the option to switch from a floating interest rate loan to a fixed interest rate as per their Board approved policy. If the REs presently do not have any fixed interest rate product in any loan category, say home loan, then is it mandatory for the RE to introduce such a product?
+Ans: Yes, REs have to mandatorily offer fixed interest rate product in all equated installment based personal loan categories. As stated in paragraph 2 (ii) of the circular, REs shall provide the option to the borrowers to switch over to a fixed rate as per their Board approved policy at the time of reset of interest rates.
+Q.5 Once the customer has exercised option to switch over from floating interest rate loan to a fixed interest rate loan, as allowed vide paragraph 2(ii) of the circular, then is the RE required to give option to the borrower to again switch back to a floating rate loan?
+Ans: Yes, the intent of the circular is to allow flexibility to the customer to switch from floating rate loan to fixed rate loan or vice versa subject to applicable charges. The RE is required to specify the number of times a borrower will be allowed to exercise the switch option during the tenor of the loan under its Board approved policy.
+Q.6 Whether the circular intends to cover only those loans which are linked to External Benchmark or the loans linked to Internal Benchmarks (Base Rate/MCLR/BPLR) also?
+Ans: It is clarified that the circular covers all equated installment based personal loans, irrespective of whether they are linked to an external benchmark or an internal benchmark.
+Q.7 Whether the instructions in the circular allow REs to levy applicable charges for switching of loan from fixed interest rate to floating interest rate and vice versa?
+Ans: Yes, as stated in paragraph 2 (iv) of the circular, RE can levy applicable charges for switching of loans from floating to fixed rate or vice versa and/ or any other service charges/ administrative costs incidental to the exercise of the switchover options and the same shall be transparently disclosed in the sanction letter and also, at the time of revision of such charges/ costs by the RE.
+The applicable charges shall be as approved by the board of the RE and shall be displayed on their website as per extant instructions.
+Q.8 Extant instructions applicable to UCBs allow for a maximum tenure of 20 years in case of housing loans. One of the options allowed vide paragraph 2(ii) of the circular is elongation of tenor of the loan. Whether UCBs are allowed to extend the housing loan of the borrower for more than 20 years, during switch over from floating rate to fixed rate and vice versa or if the borrower opts for elongation of tenor for a floating rate loan, at the time of reset of interest rates?
+Ans: The options prescribed vide circular on ‘Reset of Floating Interest Rate on Equated Monthly Instalments (EMI) based Personal Loans’ dated August 18, 2023 shall be allowed for housing loans extended by UCBs, subject to the regulations prescribed vide Master Circular on ‘Housing Finance for UCBs’ dated April 11, 2023 or as amended in the future.
+Q.9 Will the circular be applicable to existing borrowers?
+Ans: Yes, the circular will be applicable to the existing borrowers.
+

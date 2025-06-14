@@ -1,0 +1,18 @@
+(i) If a borrower has aggregate sanctioned credit limit of Rs.25,000 crore on or before March 31, 2016, will it still qualify as a ‘Specified Borrower’?
+Ans: In all such cases, the borrower will deemed to be a ‘Specified borrower’ from April 1, 2016 and the disincentive mechanism will be applicable from April 1, 2017 if the borrower borrows from the banking system beyond the NPLL.
+(ii) If a borrower becomes a ‘specified borrower’ during the last quarter of the FY 2016-17, say on March 31, 2017, then what will be the date of application of the disincentive mechanism?
+Ans: As the disincentive mechanism will be applicable from the FY succeeding the FY in which a borrower becomes a ‘specified borrower’, the disincentive mechanism will be applicable from April 1, 2017 for any borrowing from the banking system beyond the NPLL.
+(iii) Is there any restriction on borrowers tapping the market mechanism for their funding needs before they reach the ASCL?
+Ans: Borrower are free to raise their funding needs from any source at any level.
+(iv) Whether ECB and Trade Credit raised from overseas branches of Indian banks be counted towards ASCL?
+Ans: Yes, ECB and Trade Credit raised from overseas branches of Indian banks will count towards ASCL.
+(v) In terms of circular DBOD.No.BP.BC.97/21.04.141/2009-10 dated April 23, 2010 on “Classification of Investments by Banks in Bonds issued by Companies engaged in Infrastructure Activities”, investment by scheduled commercial banks in the long-term bonds issued by companies engaged in executing infrastructure projects and having a minimum residual maturity of seven years may be classified under HTM category. Whether this classification will be available for investments made by banks in bonds issued by infrastructure ‘specified borrowers’ beyond their NPLL?
+Ans: Bonds subscribed by banks and which meet the criteria specified in circular dated April 23, 2010 will continue to be classified under HTM category.
+(vi) Will the additional risk weight on incremental exposure result in change in credit rating also?
+Ans: No, additional risk weight on incremental exposure merely on account of borrower being classified as specified borrower, should not normally result in change in credit rating.
+(vii) Whether borrowers under restructuring will be covered in the framework? Whether additional credit facilities extended during restructuring of stressed borrowers will be included in computing the ASCL?
+Ans: In cases of accounts with ASCL above the cut-off where S4A is implemented, both the sustainable and unsustainable debt (Parts A & B) should be counted towards calculating ASCL.
+Restructured accounts where cut-off ASCL is achieved/likely to be achieved due to additional finance under the restructuring package under JLF and other RBI frameworks, should not be subjected to disincentive mechanism for the incremental exposure.
+(viii) Whether subscription to the market instruments in the primary market will be reckoned towards NPPL.
+Ans: Yes, subscription to the market instruments in the primary market will be considered to determine exposures beyond NPPL.
+

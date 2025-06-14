@@ -1,0 +1,40 @@
+Q.1 As per Para 6 of the Guidelines on Default Loss Guarantee (DLG) in Digital Lending dated June 08, 2023, RE shall ensure that total amount of DLG cover on any outstanding portfolio which is specified upfront shall not exceed five per cent of the amount of that loan portfolio. How to ensure that the portfolio on which DLG has been given is specified upfront?
+Ans: The portfolio over which DLG can be offered shall consist of identifiable and measurable loan assets which have been sanctioned (the ‘DLG set’).This portfolio will remain fixed for the purpose of DLG cover and is not meant to be dynamic. Kindly see illustrations at the end.
+Q.2: On which amount will the cap of five per cent be calculated?
+Ans: The cap is applicable on the total amount disbursed out of the DLG set at any given time (read with answer to Q.1 above). Kindly see illustrationsat the end.
+Q.3 In case DLG is invoked due to a default occurring in portfolio, can the subsequent recoveries made from the borrowers on the defaulted amount be added back to the DLG cover?
+Ans: No. DLG amount once invoked by the RE cannot be reinstated, including through loan recovery. Please also refer to our answer to Q.1. Kindly see illustrations at the end.
+Q.4 Is the name of the RE also required to be published along with the disclosure in terms of Para 11 of the Guidelines?
+Ans: No. Not required.
+Q.5 In case an RE functioning as an LSP is providing DLG, does it also need to have a Board approved policy.
+Ans: While the Guidelines mandate the REs accepting DLG cover to have a Board approved policy in place, the REs acting as DLG providers shall also put in place Board approved policy as a prudent measure. 
+Q.6 Whether the guidelines on DLG are also applicable for loans sourced by REs under arrangements outside the scope of the Digital Lending Guidelines?
+Ans: No.
+Q.7 Whether DLG is permitted for loans arranged on the NBFC-P2P platforms? 
+Ans: No. DLG is not permitted on loans arranged on NBFC-P2P platforms.
+Q.8 Para 12.3 of guidelines require a declaration from DLG provider, certified by the statutory auditor. Whether the same is required to be certified by the statutory auditor of the RE or the DLG provider?
+Ans: The declaration has to be certified by the statutory auditor of the DLG provider.
+Q.9 Whether REs are allowed to enter into DLG arrangements for credit cards as defined under Master Direction – Credit Card and Debit Card – Issuance and Conduct Directions, 2022?
+Ans: No. DLG arrangements for credit cards are not permitted.
+Q.10 Whether REs are allowed to enter into DLG arrangements for revolving credit facilities offered through Digital Lending channel?
+Ans: No.
+Q.11 In case the DLG provider is a Regulated Entity (RE), what will be the applicable capital requirement?
+Ans: RE providing DLG shall deduct full amount of the DLG which is outstanding from its capital.
+Q.12 Whether REs are allowed to enter into DLG arrangements for loans covered under any of the credit guarantee schemes of National Credit Guarantee Trustee Company Limited (NCGTC)?
+Ans: DLG arrangements are not permitted on the loans which are covered by the credit guarantee schemes administered by trust funds as specified under para 2 of Review of Prudential Norms – Risk Weights for Exposures guaranteed by Credit Guarantee Schemes (CGS) dated September 07, 2022, as amended from time to time.
+
+Illustrations
+Note: Illustrations are provided for ease of understanding and are merely indicative and not exhaustive.
+Illustration 1 
+Assume that as on April 1, 2024 the RE earmarks a portfolio of ₹40 crore (out of the total sanctioned loans) under a DLG arrangement (DLG set). This portfolio shall remain "frozen" for the purpose of the specific DLG arrangement - meaning that no loan assets can be added or removed from it, except through loan repayment/ write-off. The RE can have such multiple DLG sets. 
+The ceiling for DLG cover on such portfolio shall be fixed at ₹2 crore (5% of ₹40 crore), which shall get activated proportionately as and when the loans are disbursed. 
+Illustration 2 
+Assume that out of the above DLG set, loans amounting to ₹10 crore are disbursed immediately. Then as on April 1, 2024, the DLG cover available for the portfolio shall be ₹0.5 crore (5% of disbursed).
+Subsequently, if loans of ₹10 crore are further disbursed on April 15, 2024, the DLG cover shall proportionately increase to ₹1 crore effective April 15, 2024. 
+(Refer table below also for summary of each case)
+Case 1: As on June 30, 2024, loans worth ₹5 crore mature without any default. In this case, the outstanding portfolio in the books of the RE would be ₹15 crore and the DLG cover shall remain at ₹1 crore.
+Case 2: Subsequently, there is a default of ₹2 crore during Q2-2024 and consequently the RE invokes the entire DLG (₹1 crore1). In this case, as of Sept 30, 2024 the outstanding portfolio in the books of the RE shall be ₹15 crore (₹20 crore original portfolio less ₹5 crore loans matured without default) but no headroom for DLG will be available as the maximum permissible DLG cover of ₹1 crore (5% of disbursed) has been exhausted. 
+Case 3: Going further, let’s assume that recovery worth ₹1 crore is made by the RE during October 2024 on the defaulted loans of ₹2 crore. In such a case, the amount of the outstanding portfolio in the books of the RE as on October 31, 2024 shall come down to ₹14 crore (₹20 crore original portfolio less ₹5 crore loans matured without any default less ₹1 crore loans which were in default and recovered). However, the recovery amount of ₹1 crore cannot be added to reinstate the DLG cover.
+
+1 It has been assumed that till date zero principal/interest have been received towards these loans. 
+

@@ -1,0 +1,33 @@
+The Reserve Bank of India has placed on its website an Approach Paper describing the goals and objectives of Automated Data Flow (ADF) and advised the banks to implement Automated Data Flow. The approach paper can be accessed through the link Home >> Press Releases >> November 11, 2010. Banks have been individually seeking clarification from RBI officials on ADF. Consolidated questions and responses are presented as FAQs on ADF.
+Frequently Asked Questions (FAQs) on ADF
+1. WHAT IS THE BACKGROUND FOR ADF?
+In several of its functions, Reserve Bank of India relies on data submitted by banks and quality of data is of great importance. In order to meet the need for correct and consistent data, the Reserve Bank of India has initiated the project on Automated Data Flow (ADF).
+2. WHAT IS THE OBJECTIVE OF ADF?
+ADF seeks to ensure submission of correct and consistent data from the banks straight from their systems to Reserve Bank without any manual intervention.
+3. WHY IS ADF THOUGHT OF NOW?
+With CBS in banks, it is felt that time has come to utilize CBS system capabilities to meet requirements like MIS, ADF, etc, in addition to regular transactional activities.
+4. WHETHER ANY SPECIFIC APPROACH HAS BEEN RECOMMENDED?
+No specific approach has been recommended for achieving ADF due to the reason that various banks are at different levels of IT and Process maturity. However, the Approach Paper on ADF clearly articulates the common end state for achieving the objectives of ADF.
+5. WHETHER ANY PARTICULAR TECHNOLOGY OR PROCESS HAS BEEN RECOMMENDED FOR ADF?
+No specific Technology, Vendor, Service Provider or Process has been recommended for achieving ADF and it has been left to the banks to decide on these issues on the basis of internal requirements.
+6. HOW DO BANKS ASSESS THEIR LEVEL OF TECHNOLOGY AND PROCESS MATURITY TO IMPLEMENT ADF?
+Banks can refer to the methodology given in the Approach Paper to assess People, Process and Technology maturity and place themselves in a specific cluster which in turn would help in determining the time lines for implementation of ADF.
+7. WHAT IS THE MEANING OF ‘DIRECTLY FROM SOURCE SYSTEM WITHOUT ANY MANUAL INTERVENTION’ IN THE CONTEXT OF ADF?
+‘Direct from the source system without any manual intervention’ implies that whatever data and information is available in CBS and other IT systems of the banks would be submitted to the regulator without any manual aggregation, conversion or filling of data.  Activities like collecting or collating of data from diverse source systems and compiling them into RBI prescribed formats manually would fall within the meaning of manual intervention.
+8. WHETHER ANY DATA DEFINITION, REPORTING FORMAT, RATIONALISATION OF RETURNS ETC. HAS BEEN PRESCRIBED UNDER ADF PROJECT?
+No. It is clarified that requirement under ADF is restricted to ensuring that data as available in the banks’ source systems is submitted to Reserve Bank without any manual intervention. All returns, statement and reports prescribed by RBI to be submitted by banks fall under the ADF project.
+9. WHETHER DATA WILL BE ‘PUSHED’ OR ‘PULLED’ UNDER ADF?
+For the present, the priority under ADF is to ensure that the banks put in place a system which will ensure quality of data compiled from source systems of banks to be submitted to RBI. After a verifiable system has been put in place by all banks, it will be decided in due course as to what arrangements would be best suited for flow of data from banks.
+10. WHETHER ADF IMPLEMENTATION WILL BE PIECE-MEAL OR HOLISTIC?
+Banks are free to go ahead with a holistic plan by designing and implementing long-term solutions. However, the banks need to implement ADF for the returns committed under their roadmaps.  Further, the returns identified by Reserve Bank for immediate implementation in a time bound manner also need to be brought under ADF.
+11. WHETHER ANY TIMELINES HAVE BEEN RECOMMENDED FOR ADF?
+The total time for complete implementation of ADF would depend on the cluster in which the bank places itself after making an assessment of Process and Technology maturity as per the methodology given in the Approach Paper. However, it is expected that the banks with advanced IT systems and experience of working in computerised environment would take the lead and implement ADF in shortest possible time, say, even 2-3 months. In general, banks should strive to meet the objectives within shortest possible timelines.
+12. WHAT LEVEL OF ‘GRANULARITY’ IS DESIRABLE IN ADF
+The granularity to be built in the system should be able to meet the current requirements of regulatory reporting as prescribed by various departments of Reserve Bank. However, over and above this, banks are free to determine and have a finer granularity not only to meet ad- hoc requirements of RBI from time to time but also for internal MIS..
+13. WHICH ALL RETURNS ARE APPLICABLE TO A BANK?
+A list of returns generally applicable to the banks has been made available in the Approach Paper. However, every bank is required to work on all the RBI returns applicable to it.
+14. IS A ‘ROADMAP’ ESSENTIAL PART OF ADF?
+Yes. The Roadmap to be prepared as per the recommendations of the Approach Paper would enable the banks to set milestones for achieving ADF which in turn would also help in monitoring from time to time the progress made in implementation.
+15. WHAT ABOUT RETURNS REQUIRING QUALITATIVE INPUTS?
+Such returns which require qualitative or subjective inputs and narrations may be considered for classification as complex returns by the banks and may be taken up for implementation towards the end of the project.
+

@@ -1,0 +1,43 @@
+1. What is The Depositor Education and Awareness (DEA) Fund Scheme, 2014, the Depositor Education and Awareness (DEA) Fund and when did this Scheme come into effect?
+“The Depositor Education and Awareness Fund (DEA Fund) Scheme, 2014” was formulated by the Reserve Bank of India in exercise of the powers conferred upon it under Section 26A of the Banking Regulation (BR) Act, 1949 and all the powers enabling it in this behalf. Under the provisions of this Section, RBI has established the Depositor Education and Awareness Fund (Fund). The Scheme has come into effect from May 24, 2014, i.e., the date of notification of the Scheme in the Official Gazette of India.
+2. Which are the amounts credited to DEA Fund?
+The amounts credited to the DEA Fund are the credit balances in any deposit account maintained with banks (Commercial Banks, Co-operative Banks), which have not been operated upon for 10 years or more by the depositor, or any amount remaining unclaimed for 10 years or more, and includes the following:
+savings bank deposit accounts;
+fixed or term deposit accounts;
+cumulative/recurring deposit accounts;
+current deposit accounts;
+other deposit accounts in any form or with any name;
+cash credit accounts;
+loan accounts after due appropriation by the banks;
+margin money against issue of Letter of Credit/Guarantee etc., or any security deposit;
+outstanding telegraphic transfers, mail transfers, demand drafts, pay orders, bankers cheques, sundry deposit accounts, vostro accounts, inter-bank clearing adjustments, unadjusted National Electronic Funds Transfer (NEFT) credit balances and other such transitory accounts, unreconciled credit balances on account of Automated Teller Machine (ATM) transactions, etc.;
+undrawn balance amounts remaining in any prepaid card issued by banks but not amounts outstanding against travellers cheques or other similar instruments, which have no maturity period;
+rupee proceeds of foreign currency deposits held by banks after conversion of foreign currency to rupees in accordance with extant foreign exchange regulations; and
+such other amounts as may be specified by the Reserve Bank from time to time.
+3. When are the above specified amounts credited to the DEA Fund?
+The banks are required to transfer the credit balance in the accounts referred in Q No 2 above, to the DEA Fund on the last working day of the month subsequent to the month of completing 10 years of its continuous inoperative or unclaimed status.
+For example, the deposits becoming due to be transferred to DEA Fund (i.e., unclaimed for 10 years), in the month of April shall be transferred to the DEA Fund on the last working day in the month of May.
+4. Is interest accrued on such amounts as described in Q No: 2 also transferred to the DEA Fund?
+Yes. The banks are required to transfer the entire amount, including the accrued interest, as on the date of transfer to the DEA Fund.
+5. Whether customer/depositor can claim a refund of their unclaimed amounts from the DEA Fund?
+Yes, customer/depositor can claim a refund of their unclaimed amounts from their banks. Based on the request of claim made by customer/depositor or legal heirs (in case of deceased depositors), the banks shall repay the customer/depositor along with interest (applicable only in case of Interest-Bearing deposit accounts) and then lodge a claim for a refund from the DEA Fund maintained by the RBI for an equivalent amount paid to the customer/depositor.
+6. Is there a time limit for the customer/ depositor for claiming the amount from the DEA Fund?
+There is no specific time limit prescribed in the Scheme for claiming a refund from the DEA Fund by the customer/ depositor. However, customer/ depositor or the legal heirs (in case of deceased depositor) are encouraged to claim such amounts as soon as they become aware of unclaimed amounts.
+7. What is the procedure to claim from DEA Fund, if a bank is under liquidation?
+In the case of a bank under liquidation, the depositor has to approach the Liquidator of the bank for claim and the Liquidator would settle the claim as per the following procedure
+Scenario 1: Claim on deposits covered by DICGC - If the deposits of a customer/depositor were covered by DICGC insurance at the time of transfer to the DEA Fund, then the Liquidator can claim an amount equivalent to what could have been claimed from DICGC (i.e., currently up to ₹5 lakh including accrued interest, if applicable, in same right and capacity1), and then make payment to the depositor. If the above deposit amount is more than the insurance cover of DICGC, then the Liquidator shall claim the amount in excess of DICGC insurance cover (i.e., over and above the ₹5 lakh) only on reimbursement basis. (i.e., the Liquidator will pay such amount to the depositor subject to meeting all the applicable requirements and thereafter submit a claim to DEA Fund for reimbursement)
+Illustration 1: A customer/depositor had a deposit claim of ₹4 lakh in a bank (including accrued interest), which is now under liquidation. The deposit was insured by DICGC at the time when the said unclaimed deposit was transferred to the DEA Fund. Now, if he/she claims the same during the liquidation process, the following steps shall be followed:
+The customer/depositor/ legal heir submits a claim for his/her deposit to the Liquidator.
+Liquidator raises an equivalent claim of ₹4 lakh from DEA Fund along with necessary supporting documents.
+DEA Fund will pay an amount equal to the insured deposit to the Liquidator. (In this case, i.e., ₹4 lakh, since DICGC insurance cover is available up to ₹5 lakh).
+The Liquidator, after receiving the amount from the DEA Fund, will pay to the customer/depositor i.e., ₹4 lakh.
+Illustration 2: A customer/depositor had a deposit claim of ₹6 lakh in a bank (including accrued interest), which is now under liquidation. The deposit was insured by DICGC at the time when the unclaimed deposit of his/her was transferred to the DEA Fund. Now, if he/she claims the same during the liquidation process, the following steps shall be followed:
+The customer/depositor/legal heir submits a claim for his/her deposit to the Liquidator.
+Liquidator raises an equivalent claim of ₹6 lakh from DEA Fund, along with necessary supporting documents.
+DEA Fund will pay only an amount equal to the insured deposit to the Liquidator. (In this case, i.e., ₹5 lakh, since DICGC insurance cover is available up to ₹5 lakh).
+For the remaining amount (i.e., ₹1 lakh) the Liquidator shall make the payment to depositor subject to meeting all the applicable requirements and then claim for the same from DEA Fund by way of reimbursement.
+Scenario 2: Claim on deposits not covered by DICGC: In respect of deposits not covered by DICGC2 at the time of transfer to DEA Fund, the payment to the Liquidator by DEA Fund shall be made only on reimbursement basis (i.e., the Liquidator can only seek as a reimbursement after settling the amount to the customer/ depositor) as mentioned in Illustration 2(iv) above.
+
+1 DICGC - For Depositors - A Guide to Deposit Insurance
+2 As per Sec 2(g) of DICGC Act – viz. foreign Government, the Central Government, a State Government, a corresponding new bank, Regional Rural Bank or a banking company or a co-operative bank)
+

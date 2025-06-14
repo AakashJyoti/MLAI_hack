@@ -1,0 +1,78 @@
+Bank Accounts with Paytm Payments Bank
+1. I have a savings or current account with Paytm Payments Bank. Can I continue to withdraw money from this account after March 15, 2024? Can I continue to use my debit card issued by Paytm Payments Bank?
+Yes. You can continue to use, withdraw or transfer your funds from your account upto the available balance in your account. 
+Similarly, you can continue to use your debit card to withdraw or transfer funds upto the available balance in your account.
+2. I have a savings bank or current account with Paytm Payments Bank. Can I deposit or transfer money into this account after March 15, 2024?
+No. After March 15, 2024, you will not be able to deposit money into your account with Paytm Payments Bank. No credits or deposits other than interest, cashbacks, sweep-in from partner banks or refunds are allowed to be credited.
+3. I am expecting a refund in my account with Paytm Payments Bank after March 15, 2024. Can this refund be credited into my account? 
+Yes. Refunds, cashbacks, sweep-in from partner banks or interest are permitted credits into your account even after March 15, 2024.
+4. What will happen to the Deposits maintained with partner banks through ‘sweep in/out’ arrangements, after March 15, 2024?
+The existing Deposits of Paytm Payments Bank customers maintained with partner banks can be brought back (sweep-in) to the accounts with Paytm Payments Bank, subject to the ceiling on balance prescribed for a Payments Bank (i.e. ₹2 lakh per individual customer at the end of day). Such sweep-ins for the purpose of making available the balances for use or withdrawal by the customer will continue to be allowed. However, no fresh deposits with partner banks through Paytm Payments Bank will be allowed after March 15, 2024.
+5. My salary is credited into my account with Paytm Payments Bank. Can I continue to receive my salary into this account?
+No. After March 15, 2024, you will not be able to receive any such credits into your account with Paytm Payments Bank. It is suggested that you make alternative arrangements with another bank before March 15, 2024 to avoid inconvenience. 
+6. I receive a subsidy or certain direct benefit transfers linked to my Aadhar from the Government in my account with Paytm Payments Bank. Can I continue to receive it into this account?
+No. After March 15, 2024, you will not be able to receive any such credit into your account with Paytm Payments Bank. Please arrange to change your linked account to another bank before March 15, 2024 to avoid any inconvenience or disruption. 
+7. My monthly electricity bill is paid automatically from my bank account with Paytm Bank Limited? Can this continue?
+Withdrawal/debit mandates (such as National Automated Clearing House (NACH) mandates) will continue to get executed till there is balance available in your account. However, after March 15, 2024, credit or deposit in your accounts will not be allowed. Therefore, to avoid inconvenience, it is suggested that you make alternative arrangements through another bank, before March 15, 2024.
+8. My monthly OTT subscription is paid automatically through UPI from my bank account with Paytm Payments Bank? Can this continue?
+Withdrawal/debit mandates through automatic UPI mandates will continue to get executed till there is balance available in your account. However, after March 15, 2024, credit or deposit in your accounts will not be allowed. Therefore, to avoid inconvenience or disruption, it is suggested that you make alternative arrangements through another bank, before March 15, 2024.
+9. The instalment (EMI) for my loan is automatically paid through my account with Paytm Payments Bank. Can this continue? 
+Auto debit mandates will continue to get executed till there is balance available in your account. However, after March 15, 2024, credit or deposit in your accounts will not be allowed. Therefore, to avoid inconvenience, it is suggested that you make alternative arrangements for setting up EMI payments through another bank before March 15, 2024.
+10. The instalment (EMI) for my loan is automatically paid through my account with a bank other than Paytm Payments Bank. Can this continue? 
+Yes, EMIs registered with any bank other than Paytm Payments Bank can continue.
+Paytm Payments Bank Wallet
+11. I have a wallet with Paytm Payments Bank. Can I continue to use money from this wallet after March 15, 2024? 
+Yes. You can continue to use, withdraw or transfer to another wallet or bank account upto the balance available in the wallet. Minimum KYC wallets1 can, however, be used only for merchant payments.
+12. I have a wallet with Paytm Payments Bank. Can I top-up or transfer money into this wallet after March 15, 2024? Can I receive money from any other person into this wallet after March 15, 2024?
+No. After March 15, 2024 you will not be able to top-up or transfer money into the wallet or receive any credits, other than cashbacks, or refunds into this wallet. 
+13. I have a cashback due in my wallet with Paytm Payments Bank. Can I receive this cashback after March 15, 2024?
+Yes. Refunds and cashbacks are allowed to be credited. 
+14. I have a wallet with Paytm Payments Bank. Can I close this wallet and have the balance transferred to my bank account with another bank?
+Yes. You may approach Paytm Payments Bank or use its banking app to close your wallet and transfer the balance to an account maintained with another bank in the case of full KYC wallets. In the case of minimum KYC Wallets2, you may use the available balance or request for a refund.
+FASTag issued by Paytm Payments Bank
+(for more details on FASTag, you may visit website of IHMCL https://ihmcl.co.in)
+15. I have a FASTag issued by Paytm Payments Bank. Can I continue to use it to pay toll after March 15, 2024? 
+Yes. You can continue to use your FASTag to pay toll upto the available balance. However, no further funding or top ups will be allowed in the FASTags issued by Paytm Payments Bank after March 15, 2024. It is suggested that you procure a new FASTag issued by another bank before March 15, 2024 to avoid any inconvenience.
+16. I have a FASTag issued by Paytm Payments Bank. Can I recharge the balance after March 15, 2024? 
+No. After March 15, 2024 you will not be able to top-up or recharge your FASTag issued by Paytm Payments Bank. It is suggested that you procure a new FASTag issued by another bank before March 15, 2024 to avoid any inconvenience.
+17. Can I transfer the balance from my old FASTag issued by Paytm Payments Bank to a new FASTag obtained from another Bank? 
+Credit balance transfer feature is not available in the FASTag product. Therefore, you will have to close your old FASTag issued by Paytm Payments Bank and request the bank for a refund. 
+National Common Mobility Card (NCMC) issued by Paytm Payments Bank
+18. I have an NCMC card issued by Paytm Payments Bank. Can I continue to use it after March 15, 2024? 
+Yes. You can continue to use your NCMC card upto the available balance. However, you will not be able to load or top up funds into the card after March 15, 2024. In order to avoid inconvenience, it is suggested that you obtain an NCMC card issued by another bank or non-bank pre-paid instrument (PPI) issuer, before March 15, 2024. 
+19. I have an NCMC card issued by Paytm Payments Bank. Can I add to its balance through top-up, recharge, etc. after March 15, 2024? 
+No. After March 15, 2024 you will not be able to top-up or recharge your NCMC card issued by Paytm Payments Bank. In order to avoid inconvenience, it is suggested that you obtain an NCMC card issued by another bank or non-bank pre-paid instrument (PPI) issuer, before March 15, 2024. 
+20. Can I transfer the balance from my old NCMC card issued by Paytm Payments Bank to a new card obtained from another Bank? 
+Balance transfer feature is not available in the NCMC card. Therefore, you may use the card upto the available balance. In case you have some more balance which you have not been able to use, you may request Paytm Payments Bank for a refund. 
+Merchants using Paytm Payments Bank to receive payments
+21. I am a merchant and I accept payments using a Paytm QR code, Paytm soundbox or Paytm POS terminal, linked to another bank account (not with Paytm Payments Bank). Can I continue to use this set-up even after March 15, 2024?
+Yes. If your receipt and transfer of funds is linked to any bank account other than Paytm Payments Bank, you can continue to use this arrangement even after March 15, 2024. 
+22. I am a merchant and I accept payments using a Paytm QR code, Paytm soundbox, Paytm POS terminal linked to my bank account or wallet with Paytm Payments Bank. Can I continue to use this set-up even after March 15, 2024?
+No. After March 15, 2024 you will not be able to receive any credit into your bank account or wallet with Paytm Payments Bank other than refunds, cashbacks, sweep-in from partner banks or interest. In order to avoid any inconvenience or disruption, it is suggested that you may obtain a fresh QR code linked to an account with another bank or wallet to receive payments. You may also change your bank account details (in which you receive payments) through your service provider.
+Bharat Bill Payment System (BBPS)
+23. Can I make payments through the Bharat Bill Payment System (BBPS) using my account with Paytm Payments Bank?
+Yes. You can continue to make payments from your Paytm Payments Bank account through Bharat Bill Payment System upto the balance available in your account. Since you will not be able to credit any further funds into your accounts or wallets with Paytm Payments Bank after March 15, 2024, it is advised that you may make alternative arrangements with another bank account for BBPS before March 15, 2024.
+Aadhar enabled Payment System (AePS)
+24. Can I make withdrawals from my Paytm Payments Bank account with biometric authentication under Aadhar enabled Payment System?
+Yes. You can continue to withdraw using the AePS authentication, upto the balance available in your account.
+Money Transfer through UPI/ IMPS
+25. Can I transfer my money into my Paytm Payments Bank account through UPI/ IMPS after March 15, 2024?
+No. You cannot transfer the money into your Paytm Payments Bank account after March 15, 2024. 
+26. Can I withdraw my money from my Paytm Payments Bank account through UPI/ IMPS after March 15, 2024?
+Yes. You can withdraw your money from Paytm Payments Bank account through UPI/ IMPS upto the balance available in your account.
+Paytm Payments Bank Business Correspondent
+27. I have an account with Paytm Payments Bank. Can the Paytm Payments Bank Business Correspondent (also referred to as Paytm Payments Bank Agent) help me in withdrawing funds from my account after March 15, 2024.
+Yes. The Paytm Payments Bank Business Correspondent (Bank Agent) can help you to withdraw money from your bank account upto the balance available in your account.
+Accounts frozen, lien marked etc.
+28. What will happen to my Paytm Payments Bank account/wallet if there is a lien or freeze marked on the directions of Law Enforcement or judicial authorities?
+Any lien or freeze (full or partial) marked as per the instructions of any law enforcement or judicial authorities on the account/wallet of a customer with Paytm Payments Bank will continue to be governed by the orders passed by such authorities. 
+29. What will happen to my Paytm Payments Bank account/ wallet if there is a lien or freeze marked on account of internal policies of Paytm Payments Bank?
+The bank has been directed to allow withdrawal or transfer to another bank account of the customer, upto the available balance in the account / wallets.
+Onboarding of new customers
+30. What is the status of the Business restriction placed on Paytm Payments Bank vide RBI Press Release dated March 11, 2022?
+The business restriction dated March 11, 2022, prohibiting Paytm Payments Bank from onboarding any new customers for any of its services continues to be in force. Hence, Paytm Payments Bank cannot onboard any new customers after March 11, 2022.
+(updated as at February 16, 2024)
+
+1 As per extant directions, small pre-paid Instruments (PPI) are issued by banks and non-banks after obtaining minimum details of the PPI holder. They can be used only for purchase of goods and services. Funds transfer or cash withdrawal from such PPIs are not permitted.
+2 As per extant directions, small pre-paid Instruments (PPI) are issued by banks and non-banks after obtaining minimum details of the PPI holder. They can be used only for purchase of goods and services. Funds transfer or cash withdrawal from such PPIs are not permitted.
+

@@ -1,0 +1,118 @@
+Q 1. What is Know Your Customer (KYC)?
+Ans. KYC is a process by which a Regulated Entity (RE), including a bank, obtains information on identity and address of the customer, nature of business and financial status of a customer and, verifies the same. This process helps to ensure that an RE is aware of the customer it is dealing with, and the services provided by the RE are not misused for Money Laundering/ Terrorist Financing/ Proliferation Financing (ML/TF/PF) purposes.
+Q 2. Is KYC mandatory? When a RE is required to carry out KYC?
+Ans. Yes, KYC is mandatorily required to be carried out:
+at the time of commencement of an account-based relationship, i.e., opening any type of account with the RE; or
+when a walk-in-customer carries out occasional transaction of an amount equal to or exceeding ₹50,000 (whether conducted as a single transaction or several transactions that appear to be connected); or
+when a walk-in-customer carries out any international money transfer operations; or
+when the RE has a doubt about the authenticity or adequacy of the customer identification data it has obtained; or
+when the RE sells its own products or third party products as an agent; payment of dues of credit cards/ sale and reloading of prepaid/ travel cards and any other product for more than ₹50,000.
+Q 3. Who is a walk-in-customer?
+Ans. A “Walk-in Customer” means a person who does not have an account-based relationship with the RE, but undertakes transactions with the RE.
+Q 4. Does a customer have to furnish KYC documents for each account he opens with the same RE?
+Ans. No, if an existing KYC compliant customer of an RE desires to open another account or avail any other product/ service from the same RE, he is not required to submit any KYC document unless there is a change in the information with respect to his identity and/ or address.
+Q 5. What are the documents required for opening a bank account by an individual?
+Ans. Following documents are required for opening of an account by an individual:
+(a) any one of the following Officially Valid Documents (OVDs) or the equivalent e-document thereof, containing details of his name and address, viz.,
+the passport,
+the driving licence,
+proof of possession of Aadhaar number,
+the Voter's Identity Card issued by the Election Commission of India,
+the job card issued by NREGA duly signed by an officer of the State Government, and
+the letter issued by the National Population Register.
+(b) the Permanent Account Number (PAN) or the equivalent e-document, thereof, or Form No. 60 as defined in Income-tax Rules, 1962; and
+(c) other documents in respect of the nature of business and financial status of the customer, or the equivalent e-documents thereof, as may be required by the RE.
+Q 6. What is a ‘Small Account’?
+Ans. In case a customer does not possess an OVD, he can still open a ‘Small Account’ with a bank. For the purpose, the bank shall obtain a self-attested photograph from the customer and the designated officer of the bank certifies under his signature that the person opening the account has affixed his signature or thumb impression in his presence. The Small Account shall remain operational initially for a period of twelve months and is subject to conditions as given under paragraph 23 of the Master Direction on KYC.
+Q 7. What are deemed OVDs for the purpose of proof of address?
+Ans. The customer can furnish one of the following documents or the equivalent e-documents thereof, if the OVD submitted by him to the RE does not contain current address. These documents are deemed to be OVDs for the limited purpose of proof of address:
+utility bill which is not more than two months old of any service provider (electricity, telephone, post-paid mobile phone, piped gas, water bill);
+property or Municipal tax receipt;
+pension or family pension payment orders (PPOs) issued to retired employees by Government Departments or Public Sector Undertakings, if they contain the address;
+letter of allotment of accommodation from employer issued by State Government or Central Government Departments, statutory or regulatory bodies, public sector undertakings, scheduled commercial banks, financial institutions and listed companies and leave and licence agreements with such employers allotting official accommodation.
+However, the customer shall submit OVD with current address within a period of three months of submitting the document specified above.
+Q 8. If a customer is staying, say, in Chennai but his OVD contains the address of, say, New Delhi, can he open an account in Chennai?
+Ans. Yes. The customer can open an account with a RE by submitting a deemed to be OVD for the purpose of proof of address. However, as mentioned in reply to Q 7 above, he is required to submit OVD with current address within a period of three months.
+Q 9. If there is a change in the name and the OVD does not include the new name, how can one open an account?
+Ans. In such case, an OVD containing the earlier name along with a copy of the Gazette notification, or marriage certificate issued by the State Government, as applicable, indicating the change in name, can be submitted for opening the account.
+Q 10. Is Aadhaar number mandatory for purposes of KYC?
+Ans. No. However, in case the customer is desirous of receiving any benefit or subsidy under any scheme notified under section 7 of the Aadhaar (Targeted Delivery of Financial and Other subsidies, Benefits and Services) Act, 2016 (18 of 2016), the customer shall provide the Aadhaar number. In other cases, the Aadhaar number may be provided voluntarily by the customers.
+Q 11. Is fresh KYC needed where a customer transfers his existing account with an RE from one branch/ office of the RE to another?
+Ans. KYC verification once done by one branch/ office of the RE shall be valid for transfer of the account to any other branch/ office of the same RE, provided full KYC verification has already been done for the concerned account and the same is not due for periodic updation.
+Q 12. Whether KYC is required to be done for all account holders of a joint account?
+Ans. Yes, documents as mentioned in reply to Q 5 above shall be submitted by all account holders of a joint account to the RE.
+Q 13. What are the different modes for onboarding individual customers by the RE?
+Ans. An RE has the following options to onboard a customer:
+(a) Face-to-face onboarding:
+Visit to the branch/ office of the RE;
+using e-KYC authentication (OTP as well as biometric based authentication); undertaking offline verification of proof of possession of Aadhaar Number; obtaining certified copy of the OVD or equivalent e-document thereof; undertaking ‘Digital KYC Process’, as per paragraph 16 of the MD on KYC.
+Video based Customer Identification Process (V-CIP) complying with prescribed standards and procedures.
+(b) Non-face-to-face onboarding:
+using Aadhaar OTP based e-KYC authentication;
+using digital channels such as CKYCR, DigiLocker, equivalent e-document, etc., and non-digital modes such as obtaining copy of OVD certified by additional certifying authorities as allowed for NRIs and PIOs. 
+Q 14. What is a KYC Identifier? How is it useful for a customer?
+Ans. KYC Identifier means the unique number or code assigned to a customer of an RE by the Central KYC Records Registry (CKYCR). If the customer approaches an RE for opening an account, he can provide his KYC Identifier and give consent to the RE to download the valid KYC data from CKYCR. This can obviate the need for the customer to submit KYC documents again while opening an account with another RE.
+Q 15. Can the KYC Identifier be used for any other purpose?
+Ans. In addition to the purpose of establishing an account-based relationship, KYC Identifier can be used for updation/ periodic updation of KYC, or for verification of identity of a customer. Further details in this regard are given in paragraph 56(j) of the Master Direction on KYC.
+Q 16. Whether customers’ consent is required for opening of account using KYC identifier?
+Ans. Yes, the RE is required to obtain customer’s explicit consent to use his/ her KYC Identifier for downloading KYC records from CKYCR for the purposes mentioned in reply to Q. 14 and 15.
+Q 17. How can a customer obtain his KYC Identifier issued by CKYCR?
+Ans. A customer can obtain his KYC Identifier through the following ways:
+In the process of opening an account, once the customer’s KYC Identifier is generated by CKYCR and provided to the RE, the latter shall share the same with the concerned customer.
+The customer can also access his KYC Identifier on CKYCR Portal (www.ckycindia.in).
+Q 18. It is easy to use KYC Identifier for opening an account. Whether any measure has been taken to improve its use by the REs?
+Ans. For the purpose of opening an account, RE is required to seek the KYC Identifier from the customer or retrieve the same, if available, from the CKYCR and obtain KYC records by using such KYC Identifier. In such cases, the customer is not required to submit the same KYC records/ information/ any other additional identification documents, unless–
+there is a change in the information of the customer as existing in the records of CKYCR; or
+the KYC record or information retrieved is incomplete or is not as per the current applicable KYC norms; or
+the validity period of downloaded documents has lapsed; or
+the RE considers it necessary in order to verify the identity or address (including current address) of the customer, or to perform enhanced due diligence or to build an appropriate risk profile of the customer.
+Q 19. What is Video-based Customer Identification Process (V-CIP)?
+Ans. V-CIP is an alternate method of customer identification with facial recognition and customer due diligence that allows REs to obtain and verify a customer’s identity information through a digital, secure, live, informed and consent-based and live audio-visual interaction between an authorised RE official and the customer to obtain identification information required for CDD purpose. V-CIP eliminates the need for physical visit to a branch of the RE but is treated on par with face-to-face CIP. Assisted V-CIP is also permitted when banks take help of Business Correspondents (BCs) facilitating the process only at the customer end.
+Q 20. Whether blinking of eyes or making specific facial gestures are mandatory to complete V-CIP?
+Ans: No, making specific facial gesture like blinking of eyes, smiling, frowning, etc. are not mandatory for liveness check. The RE is required to take due cognizance of special need, if any, of the customer during liveness check.
+Q 21. What are the purposes for which V-CIP can be used by an RE?
+Ans. V-CIP may be used for carrying out the following processes:
+to undertake CDD in case of onboarding a new individual customer, proprietor in case of proprietorship firm, authorised signatories and beneficial owners in case of Legal Entity customers;
+to convert existing account opened in non-face-to-face mode using Aadhaar OTP based e-KYC authentication; and
+for updation/ periodic updation of KYC records of eligible customers.
+Q 22. Why does an RE periodically ask for KYC documents from the customer when the customer has already submitted the same during opening of account?
+Ans. RE is required to update the customers’ KYC records as part of ongoing due diligence process to ensure that the information or data collected under CDD is kept up to date and relevant. The periodicity of such updation depends on the risk categorisation of the customer by the RE and such periodic updation of KYC records (at times referred to as re-KYC) shall be carried out at least once in every two years for high-risk, eight years for medium risk and ten years for low-risk customers. However, RE may adopt any additional and exceptional measures as per its internal KYC policy which inter alia may require physical presence of the customer, periodic updation of KYC only in the branch of the RE where account is maintained, a more frequent periodicity of KYC updation than the minimum specified periodicity, etc.
+Q 23. What are the parameters used by the RE for risk categorisation of a customer?
+Ans. The broad indicative parameters prescribed for customer’s risk categorisation are customer’s identity, social/ financial status, nature of business activity, information about the customer’s business and his/ her location, geographical risk covering customer as well as transactions, type of products/ services offered, delivery channel used for delivery of products/ services, types of transaction undertaken – cash, cheque/monetary instruments, wire transfers, forex transactions, etc. While considering customer’s identity, the ability to confirm identity documents through online or other services offered by issuing authorities may also be factored in. The risk category and reasons thereof are not required to be divulged to the customers by the RE.
+Q 24. *What are the modes for periodic updation of KYC for individual customers?
+Ans. The modes for periodic updation of KYC for individuals are as under:
+It can be undertaken at the branch of the RE with which customer maintains the account or any other branch of the same RE; or
+RE can obtain a self-declaration when there is “no change in KYC information” and also when there is “change only in address details”, through customer’s email-id/ mobile number registered with the RE, ATMs, digital channels (such as online banking / internet banking, mobile application of RE), letter, etc. However, the declared address shall be verified by the RE through positive confirmation within two months; or
+Aadhaar OTP based e-KYC in non-face-to-face (NF2F) mode and V-CIP;
+RE is also mandated to update customer’s KYC records based on the update information/ notification, if any, received from CKYCR for the customer concerned.
+Q 25. What documents are needed for periodic updation of KYC?
+Ans. The requirement of KYC documents depends on the modes used for periodic updation of KYC as detailed in the reply to Q 24, above.
+In case of change in the KYC information, the customer has to provide the documents as mentioned in the reply to Q 5 above;
+In case of no change in KYC information, the customer can provide a self-declaration. Similarly, a self-declaration in case of change only in address can also be provided by the customer to RE as detailed in reply to Q 24 above.
+In case of Aadhaar OTP-based e-KYC authentication facility in non-face-to-face mode, the customer can provide a declaration of the current address even if the current address is different from the address in Aadhaar database. However, RE shall ensure that mobile number for Aadhaar authentication is same as the one available with it in the customer’s profile, in order to prevent any fraud.
+In case of use of V-CIP for completing re-KYC, the requirements shall be as per paragraph 18 of the Master Direction on KYC, which include identification and verification of the identity using (i) Aadhaar OTP based e-KYC authentication in non-face-to-face mode; (ii) offline verification of Aadhaar; (iii) KYC records downloaded from CKYCR; and (iv) equivalent e-documents including documents issued through DigiLocker.
+Q 26. Can the customer get an acknowledgment from the RE after submitting the KYC documents for periodic updation of KYC?
+Ans. Yes, once a customer submits updated KYC information or self-declaration to the RE, it shall provide an acknowledgement to this effect to the customer. Upon updating KYC information, the RE shall also intimate customers about such updation.
+Q 27. Are the REs required to give due notices to the customer for completing his pending periodic updation of KYC?
+Ans. Yes, the RE shall intimate its customer, in advance, to comply with the requirement of periodic updation of KYC. Subsequent to the due date, RE shall also give reminders to such customer who has still not complied with the requirements, despite advance intimations.
+Q 28. What happens if periodic updation of KYC is not done even after advance intimations/ reminders?
+Ans. Prevention of Money-Laundering (Maintenance of Records) Rules, 2005 enable the REs to obtain the identity records (including updated records of identity) from the customers, failing which the RE shall close the account of the customers after giving due notice.
+Q 29. What should a customer do if he receives SMS/ email with links to complete periodic updation of KYC?
+Ans. The customer shall exercise utmost caution before clicking links embedded in such SMS/ email as these may be suspicious/ fraudulent. The public is advised not to fall prey to frauds being perpetrated in the name of KYC updation. Please refer to the Press Release dated September 13, 2021 on RBI cautions against frauds in the name of KYC updation.
+Q 30. Can a person purchase a Demand Draft/ Payment Order/ Travellers Cheque against cash?
+Ans. Demand Draft/ Payment Order/ Travellers Cheques for amount less than ₹50,000 can be purchased against cash. However, such instrument for ₹50,000 and above can be issued only by way of debiting the customer’s account or against cheques.
+Q 31. What is the period of presenting payment instruments including cheques/ drafts/ pay orders/ banker’s cheques?
+Ans. Payment of cheque/ draft/ pay order/ banker’s cheque, if presented beyond the period of three months from the date of issuance of such instrument, shall not be made by RE.
+Q 32. What should a customer do in case the documents submitted by the customer, at the time of establishing an account-based relationship (opening an account with an RE), have been modified/ updated/ renewed?
+Ans. In case of any change in the OVDs such as change in demographic information or address or other documents submitted by a customer at the time of establishing account-based relationship, the customer shall submit the updated OVD/ other documents to the RE within 30 days of the update/ change/ modification in the documents for the purpose of updating the records at RE’s end. In such case, the RE shall acknowledge the receipt of the KYC documents to the customer.
+Q 33. Whether all modes of customer onboarding (i.e., opening of account) as mentioned in the reply to Q 13 are available to the person with disabilities (PwD)?
+Ans: Yes, all modes of account opening as mentioned in the reply to Q 13 above, viz. onboarding customer in face-to-face mode; non-face-to-face mode and V-CIP are available to the person with disabilities.
+Q 34. Whether the application of KYC/ periodic updation of KYC of a customer can be rejected automatically?
+Ans. REs’ Customer Acceptance Policy shall not result in denial of banking/ financial facility to members of the general public, especially those, who are financially or socially disadvantaged, including the persons with disabilities (PWDs). The decision to reject the application of KYC/ periodic updation of KYC shall not be automated and such decisions on rejection shall be reviewed by an official of RE authorised for the purpose.
+Q 35. Whether thumb impression in place of signature would be accepted for KYC purposes?
+Ans: The provision to accept thumb impression in place of signatures has already been prescribed for onboarding customer in face-to-face-mode under paragraph 16 and 23 of the MD on KYC.
+Q 36. *What is an inoperative account1? What is the procedure for reactivating an inoperative account?
+Ans. Inoperative Account is a savings/ current account wherein no ‘customer induced transactions’ has taken place for a period of over two years. For activation of inoperative accounts, the customer can update his/ her KYC information/ data at home/ non-home branch of the RE, and also through V-CIP, subject to the facility of V-CIP being provided by the bank. The banks shall activate the inoperative accounts, only after adhering to the KYC guidelines provided in the Master Direction on KYC.
+Q 37. What are the modes through which inoperative accounts can be made operational?
+Ans: To ease the process of activating the ‘Inoperative Accounts’, a bank shall make available the facility of updation of KYC at all branches of the bank, through Video-Customer Identification Process (V-CIP) if requested by a account holder, subject to the facility of V-CIP being provided by the bank.
+

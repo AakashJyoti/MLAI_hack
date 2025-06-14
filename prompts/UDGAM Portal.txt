@@ -1,0 +1,18 @@
+1. What is UDGAM portal?
+UDGAM refers to Unclaimed Deposits-Gateway to Access inforMation, which is an online portal developed by RBI. It facilitates the registered users to search unclaimed deposits/accounts across multiple banks at one place in a centralised manner.
+2. Are all banks part of the UDGAM portal? What percentage of the unclaimed deposits they represent?
+No. As on March 4, 2024, there are 30 banks, which are part of UDGAM portal, and they cover around 90% of unclaimed deposits (in value terms) in Depositor Education and Awareness (DEA) Fund of RBI. The list of these banks is available on home page of UDGAM (https://udgam.rbi.org.in/unclaimed-deposits/#/login) and in the RBI Press Release dated October 5, 2023. The remaining banks are in the process of getting on-boarded.
+3. What are the types of deposits/accounts covered in UDGAM portal?
+All unclaimed deposits/accounts that are part of Depositor Education and Awareness (DEA) Fund of RBI can be searched in UDGAM portal.
+[Please refer to FAQs on DEA Fund scheme, 2014].
+4. What inputs are required to search unclaimed deposits of (a) individuals and (b) non-individuals on UDGAM portal?
+A user is required to register on the portal by providing his/her name and mobile number.
+(The user manual available on the portal (https://udgam.rbi.org.in/unclaimed-deposits/#/login) elucidates the detailed process of registration and use of the portal).
+Individuals: For searching unclaimed deposits in individual category, a user has to provide inputs such as name of the account holder, name of the bank (one or more banks can be selected) and any one or more of the five inputs viz., Permanent Account Number (PAN), Driving License Number, Voter ID Number, Passport Number and Date of Birth of the account holder.
+Non-Individuals: For searching unclaimed deposits in non-individual category, a user has to provide inputs such as name of the entity, name of the bank (one or more banks can be selected) and any one or more of the four inputs viz., Name of the authorised signatory, PAN, Corporate Identification Number (CIN) and Date of Incorporation.
+Even if none of the above-mentioned information is available, the user can type the address of the account holder or the entity (as the case may be), in place of these inputs mentioned above for undertaking the search.
+5. Whether user can settle/ claim his/her unclaimed deposits through UDGAM portal or from RBI?
+No, the UDGAM portal facilitates only (a) the search of unclaimed deposits/accounts across multiple banks at one place and (b) provides information on claim/settlement process of each bank (which will be available in the search result). The unclaimed deposits can be claimed only from the respective bank.
+6. What is Unclaimed Deposit Reference Number (UDRN)?
+UDRN is a unique number generated through Core Banking Solution (CBS) by banks and assigned to each Unclaimed account/ deposit transferred to Depositor Education and Awareness (DEA) Fund of RBI. This number is used so that the account holder or the bank branch where account is maintained, cannot be identified by any third party. The UDRN enables the bank branches to seamlessly settle claims received from the customers/depositors, who have made successful search in UDGAM portal. All the 30 banks on-boarded to the UDGAM portal have put in place necessary requirements to generate UDRN during the development of the portal.
+

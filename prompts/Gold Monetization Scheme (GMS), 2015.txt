@@ -1,0 +1,48 @@
+1. Query: Are banks required to obtain RBI approval to participate in the Gold Monetization Scheme, 2015?
+Response: No. However, banks should submit to RBI the implementation details including names of the Collection and Purity Testing Centres (CPTCs) and refiners with whom they have entered into tripartite agreement and the branches operating the scheme. Banks should also report the amount of gold mobilised under the scheme by all branches in a consolidated manner on a monthly basis in the prescribed format.
+2. Query: Who is eligible to make a deposit?
+Response: Resident Indians [Individuals, HUFs, Proprietorship & Partnership firms, Trusts including Mutual Funds/Exchange Traded Funds registered under SEBI (Mutual Fund) Regulations, Companies, charitable institutions, Central Government, State Government or any other entity owned by Central Government or State Government]. 
+3. Query: What are the various deposits under the scheme, the duration of such deposits, applicable interest rates, periodicity of interest payments?
+Response: The scheme envisages the following types of deposits –
+It may be noted that consequent to Government of India’s press release ID 2115009 dated March 25, 2025, mobilization of MTGD and LTGD, including renewal of existing deposits, has been discontinued with effect from March 26, 2025.
+4. Query: What is the procedure for a customer to make a deposit under the scheme? Does interest on deposit start accruing from Day 1 of depositing the gold with CPTC/GMCTA/designated branch?
+Response: An eligible depositor can open a Gold Deposit Account with any of the designated banks after meeting the KYC norms. Generally, deposits under the scheme shall be made at the CPTC/GMS Mobilisation, Collection & Testing Agent (GMCTA) which would then test the purity of the customers’ gold in their presence and issue deposit receipts of the standard gold of 995 fineness to the depositor and also inform the customers’ respective bank about acceptance of deposit. The designated bank will credit Short-Term Bank Deposit (STBD) account of the customer, as is applicable, either on the same day of receipt of deposit receipt by the depositor or within 30 days of deposit of gold at CPTC/GMCTA (regardless of whether the depositor submits the receipt or not), whichever is earlier.
+Thereafter, the interest on deposits will start accruing from date of conversion of gold deposited into tradable gold bars or 30 days after receipt of gold at the CPTC/GMCTA, whichever is earlier.
+5. Query: What is the minimum and maximum amount of gold that can be deposited under the scheme? 
+Response: The minimum deposit at any one time is 10 grams of raw gold (bars, coins, jewellery excluding stones and other metals) and there is no maximum limit for deposit under the scheme. The quantity of gold deposited will be expressed up to three decimals of a gram. 
+6. Query: What changes have been carried out in the Scheme from March 26, 2025?
+Response: Government of India, vide its press release ID 2115009 dated March 25, 2025 has discontinued the Medium and Long Term Government Deposit (MLTGD) components of GMS. Accordingly, the mobilization of a MLTGD, including renewal, has been discontinued with effect from March 26, 2025. There is no change in the provisions pertaining to STBD under GMS.
+7. Query: What will be the impact on existing deposits upon discontinuation of MLTGD from March 26, 2025?
+Response: The existing MLTGD are not impacted and will continue to be governed by the extant provisions as contained in the Master Direction. These deposits shall run till maturity unless these are prematurely withdrawn (as per the provisions in para 2.2.2. (e), 2.2.2. (f) and 2.2.2. (g) of the Master Direction – Gold Monetization Scheme, 2015). 
+8. Query: I deposited gold under the Scheme on March 25, 2025 with a CPTC/GMCTA for opening a Medium Term Government Deposit (MTGD)/ Long Term Government Deposit (LTGD). Will the bank open my deposit account? 
+Response: The designated banks will open a Gold Deposit Account for the MTGD/LTGD corresponding to a deposit receipt issued by CPTC/GMCTA to a depositor on or before March 25, 2025. 
+9. Query: My existing MTGD/LTGD deposit under GMS matured before March 25, 2025 but was not redeemed. Can I renew this deposit now?
+Response: No. The renewal of MTGD/LTGD has been discontinued with effect from March 26, 2025. 
+10. Query: My existing MTGD/LTGD deposit under GMS is maturing after March 25, 2025. Can I renew this deposit?
+Response: No. The renewal of MTGD/LTGD has been discontinued with effect from March 26, 2025. 
+11. Query: Can a deposit under the scheme be made for a duration not covered under Short Term Bank Deposit (STBD), say 4 years or 9 years or 16 years? 
+Response: The deposit under STBD (1-3 years) can be made for only specified timeframe. The deposit can be subsequently renewed upon maturity.
+12. Query: Is it mandatory to complete the KYC for potential customers of GMS prior to depositing of gold?
+Response: Yes, unless the potential depositor is already a bank’s KYC compliant customer.
+13. Query: How will a CPTC/GMCTA know that a depositor is already KYC compliant?
+Response: Banks and the CPTCs/GMCTAs may put in place a mutually acceptable procedure in this regard and notify that to the relevant CPTCs/GMCTAs.
+14. Query: Is it possible to have joint ownership under the scheme?
+Response: Joint deposit of two or more eligible depositors is allowed under the scheme. The deposit will be credited to a joint deposit account opened in name of such depositors. The existing rules on joint operation of bank accounts including nomination will be applicable. 
+15. Query: Can a depositor close the deposit before the minimum lock-in period? 
+Response: In case of STBD, the corresponding provisions will be as determined by designated banks. In case of MTGD or LTGD deposits, premature closure before the minimum lock-in period is available in case of death of depositor or default of loan taken against MLTGD certificate. The applicable interest rates are detailed in para 2.2.2. (f) and 2.2.2. (g) of the Master Direction – Gold Monetization Scheme, 2015. 
+16. Query: Can a customer get back his jewellery if the purity determined by the CPTC/GMCTAs is not acceptable to him/her and he/she does not want to invest in the GMS?
+Response: The jewellery will be melted by the CPTC/GMCTAs to conduct the fire assay and the customer can then get back gold only in post-melted form. Thus, the decision regarding taking back jewellery in the original form must be taken by the customer after XRF test and before giving consent for fire-assaying. 
+17. Query: In what form will the depositor get back his gold at maturity?
+Response: 
+In case of all types of deposit, the option of redemption of principal in gold or INR equivalent will be obtained at the time of making the deposit. Further, any premature redemption of MLTGD will only be in INR, while in case of STBD it will be as determined by banks. 
+18. Query: Can a bank make repayment of the partial amount of gold (less than one gram) in INR in cases where the redemption is in gold?
+Response: Suppose the principal amount is, say 302.86 grams of gold, and the customer has to be paid in gold, a bank can repay 302 grams in gold and 0.86 grams in equivalent amount of INR. It may be noted that the interest on deposit shall be calculated in INR on the value of gold at the time of deposit.
+19. Query: Is it compulsory for banks to participate in the auction of gold collected under the Medium and Long-Term Deposit schemes?
+Response: No.
+20. Query: Can a depositor avail a rupee loan against the collateral of deposits made under the scheme?
+Response: Yes. Rupee loans can be availed against the collateral of Deposit Certificates issued by the banks under GMS. 
+21. Query: Can banks hedge their gold exposures arising from operation of GMS?
+Response: Yes.
+22. Query: Whether interbank lending of gold mobilized under GMS is allowed?
+Response: Yes. Designated banks are allowed to lend gold mobilized under the Scheme to other designated banks for similar use as prescribed under the scheme.
+

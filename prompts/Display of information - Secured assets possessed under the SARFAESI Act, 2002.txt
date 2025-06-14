@@ -1,0 +1,25 @@
+Frequently Asked Questions (FAQs) on circular dated September 25, 2023 on 'Display of information - Secured assets possessed under the SARFAESI Act, 2002'
+1. Does the circular cover display of assets possessed before the circular date?
+Secured assets possessed by Regulated Entities (REs) under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (SARFAESI) Act, 2002 on or after the date of the circular should be disclosed on their website.
+2. Do assets already sold need to be displayed on the website? When shall the secured asset possessed be removed from the list published on the website?
+No, the assets possessed and already sold under SARFAESI Act, 2002 need not be displayed on the website.
+The secured assets possessed by the REs shall be removed from the website in the event of the following circumstances:
+(i) When the secured asset is sold; or
+(ii) When the secured creditor receives the outstanding amount (which includes the principal, interest and any other dues payable by the borrower to the secured creditor) or after payment of the agreed settlement amount from the borrower.
+3. Should the display on the website be limited to physically possessed assets, or should it encompass both symbolically and physically possessed assets?
+The SARFAESI Act, 2002 does not classify possession as symbolic or physical, and these are conventions that have evolved. Accordingly, the REs shall display information on secured assets possessed under Section 13 (4) of the SARFAESI Act, 2002. This includes the display of both symbolically and physically possessed assets on the website of REs.
+4. Should details of movable assets be uploaded on website along with immovable assets?
+Yes, both movable and immovable secured assets possessed under Section 13 (4) of the SARFAESI Act, 2002, on which the information is already published in the newspapers in terms of Rule 3 (1) or Rule 6 (2) of the Security (Enforcement) Rules of 2002 in case of movable property, and Rule 8 (2) ibid in case of immovable property, shall be displayed on the website of the RE.
+5. What does ‘outstanding amount’ include according to the circular?
+The ‘outstanding amount’ to be displayed on the website of the RE shall be as per definition provided under Section 13 (9) (b) of the SARFAESI Act, 2002 i.e. it shall include principal, interest and any other dues payable by the borrower to the secured creditor in respect of secured asset as per the books of account of the secured creditor.
+6. Should ‘outstanding balance’, ‘asset classification’ and ‘date of asset classification’ be updated on monthly basis?
+No. The ‘outstanding balance’, ‘asset classification’ and ‘date of asset classification’ of the secured assets possessed under Section 13 (4) of the SARFAESI Act, 2002, shall be as per the information published in the newspapers in terms of Rule 3 (1) or Rule 6 (2) of the Security (Enforcement) Rules of 2002 in case of movable property, and Rule 8 (2) in case of immovable property.
+7. Does the "State" column of the Annex pertain to the branch or that of the borrower?
+The "State" column of the Annex to the circular corresponds to that of the branch, as the borrower's address column inherently captures the State to which the borrower belongs.
+8. Should details of guarantors without security interest be uploaded?
+No, details in the "Guarantor Name (wherever applicable)" column should be limited to guarantors who have created a security interest in favor of the RE and whose assets are possessed under the Act.
+9. What according to the circular ‘list shall be updated on monthly basis’ means?
+The monthly updates mentioned in the circular specifically relate to the inclusion of new secured assets possessed by the REs, and the removal of the secured assets that have been sold or resolved by the REs.
+10. In consortium lending, should all members individually display the information on secured assets?
+While the lead lender as per the consortium agreement may initiate SARFAESI proceedings, the circular requires all consortium members to individually display on their website the details of assets taken into possession, including outstanding amount and other details as per the pari-passu charge and consortium agreement ensuring transparency.
+
