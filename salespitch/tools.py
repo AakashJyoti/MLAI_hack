@@ -220,213 +220,195 @@ def create_tools(abhfl_instance):
     """Create and return a list of StructuredTools."""
     tools = [
         StructuredTool.from_function(
-            func=home_loan_eligibility_tool,
-            name="home_loan_eligibility_tool",
-            description="""Calculate the maximum home loan amount a customer is eligible for based on their profile.
-            Parameters:
-            customer_type (str, required): Type of the customer (e.g., salaried, self-employed).
-            dob (str, required): Date of birth of the customer in dd Month yyyy format.
-            net_monthly_income (float, required): The customer's net monthly income.
-            current_monthly_emi (float, required): The customer's current monthly financial obligations.
-            roi (float, required): Rate of interest for the loan.""",
+            func="Automated_Data_Flow",
+            name="Automated_Data_Flow",
+            description="""RBI FAQs on ADF implementation by banks.""",
         ),
         StructuredTool.from_function(
-            func=part_payment_tool,
-            name="part_payment_tool",
-            description="""Calculate the impact of part payment on the loan, including the reduction in tenure or EMI.
-            Parameters:
-            loan_outstanding (float,required): The current outstanding loan amount.
-            tenure_months (int,required): Remaining tenure of the loan in months.
-            roi (float,required): Rate of interest for the loan.
-            part_payment_amount (float,required): The amount of part payment being made.
-            current_emi (float,required): The current EMI amount.""",
+            func="Paytm_Payments_Bank_Restrictions_2024",
+            name="Paytm_Payments_Bank_Restrictions_2024",
+            description="""RBI press release on business restrictions for Paytm Payments Bank.""",
         ),
         StructuredTool.from_function(
-            func=emi_calc_tool,
-            name="emi_calc_tool",
-            description="""Calculate the EMI, interest, principal, or tenure of a loan based on the provided inputs.
-            Parameters:
-            principal (float,required): The principal loan amount.
-            tenure_months (int,required): The loan tenure in months.
-            roi (float,required): Rate of interest for the loan.
-            emi (float,required): The equated monthly installment amount.
-            percentage (float,required): Percentage adjustment for calculating EMI.""",
+            func="Private_Sector_Bank_Licensing_Clarifications",
+            name="Private_Sector_Bank_Licensing_Clarifications",
+            description="""RBI clarifications on licensing guidelines for new private sector banks.""",
         ),
         StructuredTool.from_function(
-            func=bts_calc_tool,
-            name="bts_calc_tool",
-            description="""Calculate the benefit of transfer of sanction (BTS) value based on the loan parameters.
-            Parameters:
-            sanction_amount (float,required): The sanctioned loan amount in integer.
-            tenure_remaining_months (int,required): Remaining loan tenure in months.
-            existing_roi (float,required): The current rate of interest on the loan.
-            abhfl_roi (float,required): The proposed rate of interest after transfer.
-            month_of_disbursement (str, required): The month of loan disbursement in %b-%y format (e.g., 'Aug-23').""",
+            func="Payments_Bank_Licensing_Clarifications",
+            name="Payments_Bank_Licensing_Clarifications",
+            description="""RBI clarifications on guidelines for licensing payments banks.""",
         ),
         StructuredTool.from_function(
-            func=step_up_calculator_tool,
-            name="step_up_calculator_tool",
-            description="""Calculate the step-up loan amount based on various income and loan parameters.
-            Parameters:
-            net_monthly_income (float, required): The net monthly income of the applicant.
-            obligations (float, required): Monthly financial obligations.
-            working_sector (str, required): The sector in which the applicant is employed.
-            total_tenure_months (int, required): The total loan tenure in months.
-            rate (float, required): The applicable rate of interest on the loan.
-            primary_tenure_months (int, required): The tenure for the primary loan phase.""",
+            func="Small_Finance_Bank_Licensing_Clarifications",
+            name="Small_Finance_Bank_Licensing_Clarifications",
+            description="""RBI clarifications on licensing guidelines for small finance banks.""",
         ),
         StructuredTool.from_function(
-            func=step_down_joint_income_calculator_tool,
-            name="step_down_joint_income_calculator_tool",
-            description="""Determine the total loan eligibility based on the son's and dad's financial profiles.
-            Parameters:
-            customer_type (str, required): Type of customer.
-            salaried_son_dob (str, required): Son's date of birth.
-            salaried_dad_dob (str, required): Dad's date of birth.
-            salaried_son_current_net_monthly_income (float, required): Son's net monthly income.
-            salaried_dad_current_net_monthly_income (float, required): Dad's net monthly income.
-            salaried_dad_obligations (float, required): Dad's monthly financial obligations.
-            salaried_son_obligations (float, required): Son's monthly financial obligations.
-            salaried_son_ROI (float, required): Son's applicable loan rate of interest.
-            salaried_dad_ROI (float, required): Dad's applicable loan rate of interest.""",
+            func="Compliance_Functions_and_CCO_Role",
+            name="Compliance_Functions_and_CCO_Role",
+            description="""RBI guidelines on compliance functions and the role of the Chief Compliance Officer in banks.""",
         ),
         StructuredTool.from_function(
-            func=step_down_pension_income_calculator_tool,
-            name="step_down_pension_income_calculator_tool",
-            description="""Calculate the pension income eligibility based on various financial parameters.
-            Parameters:
-            dob_of_person (str, required): Date of birth of the person.
-            monthly_income_from_salary (float, required): Monthly income from salary.
-            monthly_income_from_pension (float, required): Monthly income from pension.
-            salaried_obligations (float, required): Monthly financial obligations from salary.
-            pension_obligations (float, required): Monthly financial obligations from pension.
-            salaried_requested_tenure (int, required): Requested tenure for salaried income.
-            pension_requested_tenure (int, required): Requested tenure for pension income.
-            pension_ROI (float, required): Applicable rate of interest for the pension loan.
-            salaried_ROI (float, required): Applicable rate of interest for the salaried loan.""",
+            func="CRR_Exemption",
+            name="CRR_Exemption",
+            description=""" RBI press release on CRR exemption for certain banks.""",
+        ),
+       StructuredTool.from_function(
+            func="DEA_Fund_Scheme_2014",
+            name="DEA_Fund_Scheme_2014",
+            description="""RBI guidelines on the DEA Fund Scheme 2014.""",
         ),
         StructuredTool.from_function(
-            func=logincheck_documents_tool,
-            name="logincheck_documents_tool",
-            description="""Get the list of required documents for login based on customer type, eligibility method, and income considerations.
-            Parameters:
-            employment (str, required): The employment type (e.g., 'salaried', 'self employed').
-            eligibility_method (str, required): The eligibility method based on the customer type.
-            rental_income (bool, required): Whether rental income is considered.
-            other_income (bool, required): Whether other income is considered.""",
+            func="Digital_Lending_Guidelines",
+            name="Digital_Lending_Guidelines",
+            description="""RBI guidelines on digital lending practices.""",
         ),
         StructuredTool.from_function(
-            func=branches_list_tool,
-            name="branches_list_tool",
-            description="""Filter branch details of Housing Finance Companies (HFCs).
-            Parameters:
-            hfc (str, required): The HFC name to filter. Must be one of the following:
-            Aadhar
-            Aavas
-            ABHFL
-            Aptus
-            Godrej
-            Home First
-            ICICI HFC
-            IIFL
-            PNB
-            Shriram
-            Tata Capital
-            Vaastu
-            state (str, required): The state name to filter by.(note: pass delhi / ncr insted of delhi in state and New Delhi in district)
-            district (str, optional): The district name to filter by.
-            pincode (int/str, optional): The pincode to filter by.""",
-        ),
-        # StructuredTool definition for this functionality
-        StructuredTool.from_function(
-            func=select_calculator,
-            name="business_points_ils_qualification_tool",
-            description="""This tool calculates business points and ILS qualification based on financial and product parameters. It ensures proper validation and retrieval of product details when needed.
-            Parameters:
-            secondary_lob (str, required): Line of Business identifier must be one of this four only ['ABSLI', 'ABML', 'ABHI', 'ABFL']
-            product (str, required if available, else dynamically fetched): Full product name must be provided exactly as listed under the selected LOB. e.g. 'ABSLI - First Year Premium'
-            secondary_business_cr (float, optional): Sent only when both lob and product are provided.: Secondary business value in crores.
-            primary_ytd_abhfl_business (float, optional): Considered as the primary YTD business when ABHFL business data is available.
-            """,
+            func="SARFAESI_Secured_Assets_Display",
+            name="SARFAESI_Secured_Assets_Display",
+            description="""RBI guidelines on the display of secured assets under SARFAESI Act.""",
         ),
         StructuredTool.from_function(
-            func=properties_faq_tool,
-            name="get_qna_by_location_from_file",
-            description="""Tool provide a details about properties faq based on locations
-            Parameters:
-            location_input (str, required): The location input to search for in the Q&A data.((Location input is required and must be specified by the user.))
-            Location must be Following only:
-            AP & Telangana
-            Chhattisgarh
-            Delhi NCR
-            Gujarat
-            Jharkhand
-            Karnataka
-            Kolkata & Siliguri
-            MMR / Mumbai
-            MP
-            Odisha
-            PCH
-            Pune+ROM
-            Rajasthan
-            Tamil Nadu
-            UP & UK
-            ⚠ Note: Even if you know the full form (like Punjab/Chandigarh/Haryana for PCH, or Rest of Maharashtra for ROM), please enter the location exactly as given above — full forms will not be accepted.
-            """,
+            func="Credit_Supply_Large_Borrowers",
+            name="Credit_Supply_Large_Borrowers",
+            description="""RBI guidelines on credit supply to large borrowers.""",
         ),
         StructuredTool.from_function(
-            func=location_cat_affordable_tool,
-            name="location_cat_affordable_tool",
-            description="""Tool provide a details about location category and cap in cr for affordable product program
-            Parameters:
-            location (str, required): Location should be city name not a state name.((Location input is required and must be specified by the user.))""",
+            func="Fair_Lending_Penal_Charges",
+            name="Fair_Lending_Penal_Charges",
+            description="""RBI guidelines on fair lending practices and penal charges.""",
+        ),
+        StructuredTool.from_function(
+            func="RBI_Deposit_Interest_FAQs_2025",
+            name="RBI_Deposit_Interest_FAQs_2025",
+            description="""RBI FAQs on deposit interest rates for 2025.""",
+        ),
+        StructuredTool.from_function(
+            func="RBI_Loan_Exposure_Transfer_FAQs_2021",
+            name="RBI_Loan_Exposure_Transfer_FAQs_2021",
+            description="""RBI FAQs on loan exposure transfer guidelines for 2021.""",
+        ),
+        StructuredTool.from_function(
+            func="RBI_Card_Issuance_Conduct_FAQs_2022",
+            name="RBI_Card_Issuance_Conduct_FAQs_2022",
+            description="""RBI FAQs on card issuance and conduct guidelines for 2022.""",
+        ),
+        StructuredTool.from_function(
+            func="RBI_KYC_Master_Direction_FAQs_2016",
+            name="RBI_KYC_Master_Direction_FAQs_2016",
+            description="""RBI FAQs on KYC Master Direction for 2016.""",
+        ),
+        StructuredTool.from_function(
+            func="Fraud_Risk_Management_FAQs_REs_2024",
+            name="Fraud_Risk_Management_FAQs_REs_2024",
+            description="""RBI FAQs on fraud risk management for regulated entities in 2024.""",
+        ),
+        StructuredTool.from_function(
+            func="COVID19_Resolution_Framework_FAQs_2022",
+            name="COVID19_Resolution_Framework_FAQs_2022",
+            description="""RBI FAQs on the COVID-19 resolution framework for 2022.""",
+        ),
+        StructuredTool.from_function(
+            func="EMI_Floating_Rate_Reset_FAQs",
+            name="EMI_Floating_Rate_Reset_FAQs",
+            description="""RBI FAQs on EMI floating rate reset guidelines.""",
+        ),
+        StructuredTool.from_function(
+            func="Green_Deposits_Framework",
+            name="Green_Deposits_Framework",
+            description="""RBI guidelines on the Green Deposits Framework.""",
+        ),
+        StructuredTool.from_function(
+            func="Compromise_Settlements_Writeoffs_Framework",
+            name="Compromise_Settlements_Writeoffs_Framework",
+            description="""RBI guidelines on compromise settlements and write-offs framework.""",
+        ),
+        StructuredTool.from_function(
+            func="Gold_Monetization_Scheme_2015",
+            name="Gold_Monetization_Scheme_2015",
+            description="""RBI guidelines on the Gold Monetization Scheme 2015.""",
+        ),
+        StructuredTool.from_function(
+            func="Guidelines_SCA_SA_Appointment_Banks_NBFCs",
+            name="Guidelines_SCA_SA_Appointment_Banks_NBFCs",
+            description="""RBI guidelines on the appointment of SCA and SA for banks and NBFCs.""",
+        ),
+        StructuredTool.from_function(
+            func="Default_Loss_Guarantee_Digital_Lending_2024",
+            name="Default_Loss_Guarantee_Digital_Lending_2024",
+            description="""RBI guidelines on default loss guarantee in digital lending for 2024.""",
+        ),
+        StructuredTool.from_function(
+            func="MCLR_Guidelines",
+            name="MCLR_Guidelines",
+            description="""RBI guidelines on the Marginal Cost of Funds based Lending Rate (MCLR).""",
+        ),
+        StructuredTool.from_function(
+            func="Partial_Credit_Guarantee_GoI_PSBs",
+            name="Partial_Credit_Guarantee_GoI_PSBs",
+            description="""RBI guidelines on the Partial Credit Guarantee Scheme for Public Sector Banks.""",
+        ),
+        StructuredTool.from_function(
+            func="Govt_Pension_Payment_2025",
+            name="Govt_Pension_Payment_2025",
+            description="""RBI guidelines on government pension payments for 2025.""",
+        ),
+        StructuredTool.from_function(
+            func="QA_22_Accounts",
+            name="QA_22_Accounts",
+            description="""RBI guidelines on quality assurance for accounts.""",
+        ),
+        StructuredTool.from_function(
+            func="Microfinance_Loans_Regulatory_Framework_2025",
+            name="Microfinance_Loans_Regulatory_Framework_2025",
+            description="""RBI guidelines on the regulatory framework for microfinance loans in 2025.""",
+        ),
+        StructuredTool.from_function(
+            func="BSBDA_FAQs_RRBs_StCBs_DCCBs",
+            name="BSBDA_FAQs_RRBs_StCBs_DCCBs",
+            description="""RBI FAQs on Basic Savings Bank Deposit Accounts for RRBs, StCBs, and DCCBs.""",
+        ),
+        StructuredTool.from_function(
+            func="UDGAM_Portal",
+            name="UDGAM_Portal",
+            description="""RBI guidelines on the UDGAM portal for grievance redressal.""",
         ),
     ]
 
     # Add product information tools
     product_names = [
-        "Collateral",
-        "salary_income_method",
-        "cash_profit_method",
-        "gross_turnover_method",
-        "average_banking_program",
-        "gross_profit_method",
-        "gross_receipt_method",
-        "gst_program",
-        "pure_rental_program",
-        "mortgage_product",
-        "low_LTV_method",
-        "credit_manager_assessed_income_program",
-        "ABHFL_branch_categorization",
-        "pragati_home_loan",
-        "pragati_plus",
-        "pragati_aashiyana",
-        "general_purpose_loan",
-        "micro_LAP",
-        "micro_CF",
-        "step_up",
-        "step_down",
-        "extended_tenure",
-        "lease_rental_discounting",
-        "express_balance_transfer_program",
-        "prime_hl",
-        "prime_lap",
-        "priority_balance_transfer",
-        "semi_fixed",
-        "staff_loan_price",
-        "power_pitches",
-        "nri_assesment_criteria",
-        "PMAY",
-        "Competitors",
-        "home_loan_ltv",
-        "ftnr_queries",
-        "select",
-        "deviation_matrix",
-        "credit_approval_authority",
-        "Mitigation",
-        "APF",
-        "technical_deviation",
-        "deviation_delegation_matrix_affordable",
+        "Automated_Data_Flow",
+    "Paytm_Payments_Bank_Restrictions_2024",
+    "Private_Sector_Bank_Licensing_Clarifications",
+    "Payments_Bank_Licensing_Clarifications",
+    "Small_Finance_Bank_Licensing_Clarifications",
+    "Compliance_Functions_and_CCO_Role",
+    "CRR_Exemption",
+    "DEA_Fund_Scheme_2014",
+    "Digital_Lending_Guidelines",
+    "SARFAESI_Secured_Assets_Display",
+    "Credit_Supply_Large_Borrowers",
+    "Fair_Lending_Penal_Charges",
+    "RBI_Deposit_Interest_FAQs_2025",
+    "RBI_Loan_Exposure_Transfer_FAQs_2021",
+    "RBI_Card_Issuance_Conduct_FAQs_2022",
+    "RBI_KYC_Master_Direction_FAQs_2016",
+    "Fraud_Risk_Management_FAQs_REs_2024",
+    "COVID19_Resolution_Framework_FAQs_2022",
+    "EMI_Floating_Rate_Reset_FAQs",
+    "Green_Deposits_Framework",
+    "Compromise_Settlements_Writeoffs_Framework",
+    "Gold_Monetization_Scheme_2015",
+    "Guidelines_SCA_SA_Appointment_Banks_NBFCs",
+    "Default_Loss_Guarantee_Digital_Lending_2024",
+    "MCLR_Guidelines",
+    "Partial_Credit_Guarantee_GoI_PSBs",
+    "Govt_Pension_Payment_2025",
+    "QA_22_Accounts",
+    "Microfinance_Loans_Regulatory_Framework_2025",
+    "BSBDA_FAQs_RRBs_StCBs_DCCBs",
+    "UDGAM_Portal"
     ]
     for product_name in product_names:
         tools.append(create_product_info_tool(product_name, abhfl_instance))
