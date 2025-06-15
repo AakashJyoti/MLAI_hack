@@ -1,0 +1,1254 @@
+[
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "1) Small business set up, Low stock, Low footfalls at time of PD visit \n2) Business sale purchase recods are not available,   since most of the business transaction in cash only.\n3) No business registration proof available to validate business vintage of minimum 3 year as per policy requirement",
+      "List of Mitigants ": "1) Higher business references checks are done to validate actual business volume\n2) Business vinatge confirmed by collecting old Bills / Invoices related to same business\n3) Discussed with Applicant and Identified additional rental income fetching from his another self owned property. ",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be Charged over and above the Standard ROI Grid",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1. During the PD, Business Related proof / bills of at least 24 months to be readily available with the customer. SRO / KRO to be sensitized about this"
+  },
+  {
+      "Underwriting \nMethod": "Cash Profit Method",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "1) Small business set up, Low stock, Low footfalls at time of PD visit\n2) Co-App low Job continuity of 9 month only ",
+      "List of Mitigants ": "1) Business transaction records of total monthly sale and purchase seen, reflect good business margin of 18% \n2) Identified Co-App well qualified B. Tech degree holder and starts with good salary, his future job prospects will be good  ",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1) Funded only for Balance Transfer Amt from other institution \n2) offered No top up amount",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1. as above\n2.restricted the loan amount\nCrux, for a lower loan amount- Credit team was comfortable.\nThere should be simulation work sheet for the SRO / KRO to close the deal on the loan amount"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Business Vintage or Work Experience",
+      "Reject \nReasons": "1) Recent employement details provided\n 2) No previous Job continuity proof available ",
+      "List of Mitigants ": "1) Applicant shared his previous company work experience certificate for 3 year\n2) employment vintage also verified through Applicant's PF Statement",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Offered Standard LTV n FOIR as defind in policy",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1. In case of recent employment, previous Business proof can be shared at the time of login itself"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "1) Applicant Caution Profile in to Railway ticket business \n2) Applicant based at Calcutta and Buying Plot at Noida was not justified the logic",
+      "List of Mitigants ": "1) Identified Applicant spouse salaried with Bluchip company TCS - taken her on loan structure, loan eligibity derived on her salary income only.\n2) Identified Applicant's relatives are residing at Noida is the reason buying plot at Noida ",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Offered Standard LTV n FOIR as defind in policy",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1. Risk of customer - native of some location, business and proposed collateral is some other location\n2. in the above scenario, comfort could be derived if there is local touch point - by taking additional guarantor "
+  },
+  {
+      "Underwriting \nMethod": "Cash Profit Method",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "1) Offered collateral rejected due to NIL habitation in said colony \n2) Collateral open Plot",
+      "List of Mitigants ": "1) Identified in close vicinity there is habitation of 40% and Educational institutes also exist.\n2) Identified PLOT allotted by Authority having its good market valuation",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "offered low LTV restricted at 40% of plot value",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Cash Profit Method",
+      "Reject Category": "Business Vintage or Work Experience",
+      "Reject \nReasons": "1) SENP profile and no business registration proof available to validate 3 year business continuity\n2) No proof available to validate name of business proprietor",
+      "List of Mitigants ": "1) MSME business vintage proof arranged mentining date of business incorporation and name of proprietor mentioend there.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "offered Low LTV 45% n FOIR 50%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1. For Business Proof - with the new policy - PD done by the credit manager with local reference check - can be onboarded"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "1) recent Bouncing reflects in repayment banking  ",
+      "List of Mitigants ": "1) SOA arranged for that loan and identified bouncing was happened due to Technical issue.though repayment done within same month",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "offered low LTV 54.23%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1. question should be asked by the SO - whether there are any bounces in any of the loans and what could be the reason\n2.if it is due to technical issue - details to be collected upfront"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "1) Low Business Set-up",
+      "List of Mitigants ": "1) Business transaction records of total monthly sale and purchase seen, reflect good business margin",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Offered Lower FOIR 40%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1. where the Business Set up is low vis a vis applied loan - can explore lower loan amount - if business photos are uploaded and if some tech. intervention can solve this"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "1) Recent Bouncing in latest 12 months of repayment ",
+      "List of Mitigants ": "1) There is NO funds issue, identified in other banks account there is sufficient balancve was maintained. \n2) Identified there is small ignorance happended due to family function in family - No intentional bouncing observed",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "offered low LTV restricted at 40% of Collateral value",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "Refer row no 9"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "1) Observed CIBIL Derog and lower Score",
+      "List of Mitigants ": "1) Bureau Score within policy to fund \n2)offerred lower loan amt",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Loan amount restricted",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "where ever lower Deciles are generated - we can look at the case with the lower loan amount - need to be prompted"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "1) Least transaction in business banking \n2) Low Business activities ",
+      "List of Mitigants ": "1) identified Co-APP banking where maintaining good bank balances, documented the same.\n  \n 2) Identified commission based business - multiple business reference checks are done by credit team. ",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "offered Low LTV and FOIR ",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "Buy in from the team - to share the entire family Income up front"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "1) Previous LAP End use not justified",
+      "List of Mitigants ": "1) Proof of LAP end use was towards purchase of property - recently property purchase documents arranged",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Restricted LTV n FOIR ",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "Where ever customer availed a recent Non HL loan - it could be either for Business purpose or for property purchase\nif these details can be shared well in advance - can be assistance to decide the transaction"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "1) Caution business profile of Applicant\n2) Low banking transaction and Average Bank Balance",
+      "List of Mitigants ": "1) for business comfort one Personal Guarantor added to loan structure\n2) Co-Applicant banking also dcomented where good bank balances are reflects\n3) Positive recommendation of RSM basis market intel.\n4) Higher ROI proposed",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "charged Premium ROI@15%.",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1. Co applicant Banking - Clubbing of income available - so all details need to be well in advance\n2.if need arises, personal gurantor can be taken / provided"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "1. Low stock observed at the site with Average standard of living.\n2. Client does not have Rough records of Business.\n3. Marginal Profile- Scrap Dealer.",
+      "List of Mitigants ": "1. Verifications with parties to whom he does the supply into last 12 months.\n2. He collected some payments into his spouse a/c- Verified spouse Banking.\n3. Taken Calculated call of funding of Rs. 8.00 lacs against Loan amount required- Rs. 15.00 lacs basis RSM recommendation.\n4. With Keeping LTV 51.31% and FOIR- 48.63% under Control.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Lower Exposure against Applied loan amount with keeping LTV 51.31% and FOIR- 48.63% under Control.",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1. Clubbing of income / Bank Statements"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "1. School Income Profile- Logged in as SENP case of 55.00 lacs under CM Assessment Programme with Bureau Score- D-2.\n2. CM Assessment Program is having loan capping of Rs. 50.00 lacs.",
+      "List of Mitigants ": "1. Changed the Program to Salaried as applicant holds the Principalship designation under the Trust run by School.\n2. Instead of Income of School, case has been appraised over the salary income of applicant since Salaried case are allowed to fund under Bureau Score- D-2.\n3. Loan Amount has been downsized from Rs. 55.00 lacs to 35.00 lacs considering the eligibility over Salary Income Only.\n4. Lowest LTV- 7.79%",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Low LTV- 7.79% and Keeping the Exposure restricted over salary income only from Rs. 55.00 Lacs to 35.00 Lacs.",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1. continous nudges to understand how many more income in the family, what are they, how can be validated to arrive at the desired loan amount"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "1. Water Supplier Profile- Low stock of 5-6 water cans at the Residence cum office Set-up.\n2. Business vintage is low- started just 1.50 years back.\n3. Recent DPD and overdues into the Running Auto Loan of Rs. 6.95 Lacs.",
+      "List of Mitigants ": "1. Verification done with the parties to whom he supplies water cans physically and telephonically.\n2. Father is Pensioner from Govt Department- his income also clubbed with Applicant Income.\n3. DPD into the Auto Loan of Rs. 6.95 lacs- is Mitigated with the observations- this loan was taken by his relative.\n4. Taken Reduced call of Rs. 15.00 lacs against applied loan amt of Rs. 20.00 lacs with low LTV of 45.22%",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Clubbing of Income and Low LTV 45.22%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1. Details of clients in brief can be shared for reference check well in advance"
+  },
+  {
+      "Underwriting \nMethod": "Cash Profit Method",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "1. Negative Collateral- Mixed Use Partly for Self- Residence AND Running School.",
+      "List of Mitigants ": "1. School is running over Primary School only (1st to 8th Standard).\n2. Booking Done under Micro-LAP where school Properties are allowed to fund with NCM approval.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "LOW LTV- 38.84%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Cash Profit Method",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "1. Caution Profile- Goat Trader.\n2. Loan amount requirement of Rs. 30.00 lacs higher then eligibility and considering the profile",
+      "List of Mitigants ": "1. Taking another income sources into consideration- Rental + prop. Dealer/Colonizer.\n2. Taken Significant call of Funding of Rs. 15.00 Lacs.\n3. With Keeping the LOW LTV of 19.01%",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate and LOW LTV- 19.01%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Business Vintage or Work Experience",
+      "Reject \nReasons": "1. Account Salaried Customer where salary starts credits just 2 months ago.\n2. Also there are variation into amount as per Salary Slip and Credits into Banking.",
+      "List of Mitigants ": "1. Instead of Account Salaried- Processed the case under Cash Salaried Program.\n2. Father is also taken into loan structure- who is pensioner.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate ",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "usage of credit manager enhanced program to be emphasized"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "1. Segment-2 Profile- Setting temporary cart at the fares/social events.\n2. At the time of PD- there was no running fare at which Business can be verified.",
+      "List of Mitigants ": "1. Did the Business PD at the Kota Fare, where client recently operating business through cart.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate ",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Cash Profit Method",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": ""
+  },
+  {
+      "Underwriting \nMethod": "1. Micro Construction Finance Case of Rs.3.00 Crore declined due to:"
+  },
+  {
+      "Underwriting \nMethod": "2. Low Cash flows."
+  },
+  {
+      "Underwriting \nMethod": "3. Short Business Experience into the Builder line of Business."
+  },
+  {
+      "Underwriting \nMethod": "4. Slow Construction Activity at the Collateral."
+  },
+  {
+      "Underwriting \nMethod": "5. Recent DPD into LAP with Poonawala of Rs. 4.21 Crores\"",
+      "Reject Category": "1. Instead of Micro Construction Finance, funded over Plot_LAP and LAP_Commercial for the reduced loan exposure of Rs. 1.50 Crore\n2. Bounced EMI of LAP Loan of RS. 4.21 Crores- deposited into the same month.\n3. Low LTV- 48.64%",
+      "Reject \nReasons": "Premium ROI to be charged over and above RAAC rate ",
+      "List of Mitigants ": "-"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "Co-applicant who is also Financial applicant having the age of just 21 years.",
+      "List of Mitigants ": "Didn’t clubbed co-applicant Income. Extended the FOIR deviation over salary income of applicant only of 10% with considering the good family Income.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate AND Additional FOIR",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "clubbing of income"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "Negative issues into Collateral- Old Structure, Dead End Property, No Kitchen, Low Construction Value",
+      "List of Mitigants ": "1. Collateral Type-1- Approved.\n2. The plot value is covering our loan.\n3. Government Salaried Profile.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate ",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "1. Buisness Handle by Applicant Son.",
+      "List of Mitigants ": "1.Applicant Son Taking on Structure",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "clubbing of income"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "2. Business All Transaction in Cash. ",
+      "List of Mitigants ": "2.Also TPC and Tele Verification by Client Parties on Applicant office Premises. Also Cash payment confirm by Applicant Clinet. ",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "-",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Business Vintage or Work Experience",
+      "Reject \nReasons": "3 Buisness Vintage by Less than 3 years.",
+      "List of Mitigants ": "3. Cash Process under 50% LTV with higher ROI",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "-",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "1.Applicant Cibil Score less than 650(669).",
+      "List of Mitigants ": "1.We Visit Customer Current Site Running. Also TPC confirm with customer regular client",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "2.In Cibil Loan Overdue and DPD seen. Which not paid.Applicant another loan DPD seen",
+      "List of Mitigants ": "2.We having Justification documnet for This Bounce. Also Applicant All overdue before Disb. Also Applicant running HL with Clear Track.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "3. RCO Profile -Electrician Business. No Business stock seen . No Busienss transaction seen",
+      "List of Mitigants ": "3.Also We having billing seen from order Purchase",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "1. Applicant CIBIL Score is 688",
+      "List of Mitigants ": " Applicant Having Good Assesst base from Business Surplsue",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "Clubbing of income"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "2. Jakota Score is D-3, - Very High Risk,",
+      "List of Mitigants ": " Applicant having Good agirculture income with animal husbandry                 ",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "3. Applicant CIBIL Shown Current Overdue RS 30603/-",
+      "List of Mitigants ": "  Applicant Abb is good                                                                                                                                          ",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "4.Applicant CIBIL Shown Suit Filled and Overdue 25K and 900 days DPD in Active TWL",
+      "List of Mitigants ": "  LTV is 65 % with SORP Property                                                                   ",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "5.Applicant CIBIL Shown SUB in Closed Business loan",
+      "List of Mitigants ": " Applicant son is also salaried person ",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Over leaveraged profile",
+      "Reject \nReasons": "6. Applicant recently Taken Gold Loan RS 4L Approx.",
+      "List of Mitigants ": "-",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "7. Applicant CIBIL Shown 417 days DPD in Closed TWL in 2021",
+      "List of Mitigants ": "-",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "8. Applicant CIBIL Shown Recently Written off his Auto Loan in Sep 24",
+      "List of Mitigants ": "-",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "9. Applicant CIBIL Shown Settled in Closed TWL",
+      "List of Mitigants ": "-",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "10. Applicant CIBIL Shown 2 HL Enquiries in Oct 24 Month",
+      "List of Mitigants ": "-",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "1. Low Business Profile with Low Income",
+      "List of Mitigants ": "1. Verification of business with All Client ",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1. Client reference  details"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "2. High Cash Flow",
+      "List of Mitigants ": "2. LTV is only 55% in HL case",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "3. CIBIL Shown Past HL is Settled which was taken from Bandhan Bank",
+      "List of Mitigants ": "3. Business Vintage should more than 5 years or experience to be validated along with Client Visit",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "4. Resi Cum office business set up -  Business is Cocking",
+      "List of Mitigants ": "-",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Average Banking",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "1 Transportation Business which is Caution Profile\n2. Overleveraged Customer \n3. Residential cum office\n4. Gramtal i.e. Grampanchayat Residential Property",
+      "List of Mitigants ": "1. LTV is taken<50%\n2. Business transaction in Bank Statement validated\n3. Good CIBIL history found\n4. Commercial Vehicle found Self-Owned \n5.Transportar Reference Letter to be obtained\n6. Property found to be self occupied and self owned",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above standard grid (2-3%+) and LTV to be less than 50%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1. lower LTV and Self occupied residential property "
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Business Vintage or Work Experience",
+      "Reject \nReasons": "1. Applicant is Widow\n2. Applicat Job Stability Not Match only for 3 Month Job in Current Employer\n3. Multiple Recent Cibil Inquiry\n ",
+      "List of Mitigants ": "1. LTV is taken 52%\n2. Type-I Collateral\n3. Good CIBIL history\n4.CM Physical Visit Positive \n5.Clear End Use\n6.Bank Salaried Income \n7.Having Good Job Vintage Proof\n \n",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Type-I Collateral , CM Physical Visit Positive, LTV is 52%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1. lower LTV and decent collateral"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Business Vintage or Work Experience",
+      "Reject \nReasons": "1. Latest Employer Vintage less than 6 month\n2. 2 years Job vintage continuty norms not met\n3. Multiple Recent Cibil Inquiry\n ",
+      "List of Mitigants ": "1.Medical proof of the applicant and family member were collected to justify the employment gap\n2. Good Skill for the same field- CNC Machine Operator \n3. Education done in ITI- Fitter Field.\n4.CM Physical Visit Positive \n5.Clear End Use\n6.Bank Salaried Income \n \n",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "ROI to be taken Premiume, Comfortable LTV",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.Total work experience to be shared "
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "1.Care Taker Profile-Marginal Property                                             2 Income seemed to be exhagerated\n3. Multiple Recent Cibil Inquiry\n ",
+      "List of Mitigants ": "1Surprise verification physical visit was positive\n2. Employment FI and RCU both found Positive \n3Good Family income as well\n 4. End use to Rennovation of house- Construction Estimate also documented to Justified Enduse of fund( 20% Payment also Hold till the constuction work to be complted)\n",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "ROI to be taken Premiume, Comfortable LTV",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "1REsturant Busienss without FSSI Licnece                                  2 Income seemed to be exhagerated\n3. Multiple Recent Cibil Inquiry\n ",
+      "List of Mitigants ": "1Restaurant's social media posts were checked to establish restaurant's business proof.\n2. Employment FI and RCU both found Positive \n3Co-app's rental income was also considered to for more comfort\n 4. Low LTV case \n",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "ROI to be taken Premiume, Comfortable LTV",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "Technial Rejected",
+      "List of Mitigants ": "1Resale cost of the property was checked online and through nearby residents, it was higher than valuation\n2.Collateral visit was done by CM to check occupancy in the property premise\n3.Comfortbale LTV case \n",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "ROI to be taken Premiume, Comfortable LTV",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "Co- applicant is cash salaried in 02 employment. Profile is maid.",
+      "List of Mitigants ": "Cash salary verification done by credit. Proper verification & TPC confirmed with security & other residance.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI & LTV restricted to 70%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "1 Month salary credit- Eligibility not met due to previous employment salary consideration.",
+      "List of Mitigants ": "Previous employment salary slip & appointment letter. Current orgnisation offer letter/Appointment letter. Offer letter salary considred as eleigibility calculation.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI, LTV: 80%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.experience / vintage proof to be shared"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "Vegetable shop temporary set up",
+      "List of Mitigants ": "Surprise Visit at shop on pick hours & check in cash flow. Checked Patpedhi & patsantha daily investment.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Charged premium ROI, Tenure 15 years. 50% FOIR LTV was restricted to 70%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "Technical Rejected- Property non marketable & lower valuation",
+      "List of Mitigants ": "Join property visit with tbusiness/Credit team with  technical Manager or RTM. 2nd vendor desktop valuation checked.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI, LTV: 60%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Over leaveraged profile",
+      "Reject \nReasons": "Eligibility issue-higher obligation",
+      "List of Mitigants ": "Convinced customer to close running loan from our funds and give remaining funds in hand to him",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Additional FOIR,Higher ROI",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.loan amount simulation work sheet required"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "Cibil issue-low business set up,Low banking",
+      "List of Mitigants ": "LTV of 15%,cash rental income consideration,higher ROI,recommendation from RSM",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "LTV,Higher ROI",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.Family income to be considered"
+  },
+  {
+      "Underwriting \nMethod": "Cash Profit Method",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "Cibil issue-,Low ABB",
+      "List of Mitigants ": "LTV of 22%,type-2 property,saving habits in SIP & Gold by customer,RSM recommendation",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "LTV,Higher ROI",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.investments like Mutual fund can also shared in advance"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "Cibil issue-roadside vendor,low cibil-policy breach of funding more then 15L to roadside vendor",
+      "List of Mitigants ": "Reduced loan,daily business collection also supporting from banking-HL",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "LTV,Reduced loan",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "Tech reject due to tin-shed construction",
+      "List of Mitigants ": "Relook after considering only land and reduced loan amount on land value only",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "LTV,Higher ROI",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "Tech reject due to low habitation and limited marketability",
+      "List of Mitigants ": "Relook on profile basis-bank salaried with 50k pm salary-funds required for construction purpose",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "LTV,Higher ROI",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "Cibil issue,collection profile",
+      "List of Mitigants ": "Bank salaried,No deviation on FOIR,Restrict LA,No running obligation,Recommendation from RSM,type-1 property with comfortable LTV",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "LTV,FOIR,Higher ROI on type-1 property",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.Though profiles is into collections - type of collateral is important"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "Vendor PD is refer-business not verified,name board not seen,resi-cum business office",
+      "List of Mitigants ": "Civil contractor profile,details gathered of last 4-5 sites completed by applicant in last 12m , verified by credit manager,running sites verified by SM,recom by RSM,",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Business",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "Eligibility issue-dpd's in co-operative bank loan EMI",
+      "List of Mitigants ": "BT track of last 1.5yr is clear,reduced top up amount from 5L to 1L,Recom from RSM,No ROI discount on BT",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "ROI,Business",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.lower loan amount"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Eligibility Issue",
+      "Reject \nReasons": "Eligibility issue as requirement was 30L,Pension income , business vintage is less",
+      "List of Mitigants ": "Reduced loan amount to 24L,Customer has OCR of 15L,Consider 100% pension income,business has positive trade references,type-1 property,LTV of only 60%",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "LTV,ROI",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "Cibil issue,Divorce under process of applicant",
+      "List of Mitigants ": "Last 2 year track is clear reflecting from banking,top up given for closer of all loans,type-1 property-Cat-A profile",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Profile,Type-1 property",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "Single Lady,Seasonal business of wedding mandup,",
+      "List of Mitigants ": "Business setup seen,TPC positive,No obligations,Turnover is increased from last year,LA reduced",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Business,FOIR",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "Caution Profile - Dairy business no with proof for business",
+      "List of Mitigants ": "Business proof like insurance copies of cattles were documented\nIdentified other source of income",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Charged premium ROI",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "Profile is mainly cash related business",
+      "List of Mitigants ": " Applicant father has pension income and also family has rental income ",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Charges higher ROI",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "family income"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "Balance age of retirement is lessthan 5 years and looking for higher loan and tenure",
+      "List of Mitigants ": "One of the children is already doing post graduation from good university and hence taken tenure call by using step down method",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "3 months FD/MF with ABHFL to be done",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Business Vintage or Work Experience",
+      "Reject \nReasons": "Low business vintage of lessthan 3 years",
+      "List of Mitigants ": "Applicant current business is a medical shop by medicine trading which involves high margin , family has good asset base and case is structured with Low LTV",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Charges higher ROI and full insurance",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "Purchase Transaction is in between close family members",
+      "List of Mitigants ": "Denied under HL purchase and processed as LAP with higher ROI and by verifying sale transfer proceeds through bank",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Charges higher ROI",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "Few of the loan are running with DPDs CIBIL score is less",
+      "List of Mitigants ": "Major loan tracks (Out of total 10, 8 are good tracks)have clear RTR and Delay in EMI payment is mainly during COVID period",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Charges higher ROI",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "No separate busienss set up",
+      "List of Mitigants ": "Applicant is into plumbing business and Positive reference checks done",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Charges higher ROI and full insurance",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Business Vintage or Work Experience",
+      "Reject \nReasons": "Gap in employment in recent years and current employement is only from last 2 months",
+      "List of Mitigants ": "Gap is due to preparation of government job and now applicant is a govt employee",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Low LTV",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Over leaveraged profile",
+      "Reject \nReasons": "No eligibility due to over leverage and multiple recent availed loans",
+      "List of Mitigants ": "Co applicant is also income earner but only one month vintage. Hence case closed by taking higher FOIR mitigated with Co applicant offer letter and qualification proofs",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Charges higher ROI and 3 months FD/MF",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "Negative CIBIL",
+      "List of Mitigants ": "One of the loan is running with overdue and DPD but it was due to Technical issue, proof collected from the banker regarding the regular payment",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Charges higher ROI",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "Collateral not doable as no development in near by places.\nLow business profile",
+      "List of Mitigants ": "Co-App added with handsome income\nCase closed for lower loan for LTV comfort and Good CIBIL history seen",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Charged premium ROI",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "Collateral rejected by Technical",
+      "List of Mitigants ": "Taken Additional Collateral\nNCM and BH approval",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Low LTV 50%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "Collateral Not doable due to age of property",
+      "List of Mitigants ": "Land cost itself is 200 % of loan requirement and hance case closed under NCM approval",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Low LTV \nLow FOIR",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Over leaveraged profile",
+      "Reject \nReasons": "Cash salaried\nOver leverage",
+      "List of Mitigants ": "Clean track of running \ncloser of few loans\nNCM approval",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Low LTV \nLow FOIR",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "Employment confirmation issue\nCIBIL derog",
+      "List of Mitigants ": "employment verified through few of the senior employees in the same company who are having employee ID cards\ncards, NCM approval",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Low LTV \nLow FOIR\nPremium ROI",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "Property out of approved PIN Code area",
+      "List of Mitigants ": "Good Applicant profile\nNCM approval",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Low LTV \nLow FOIR",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "Collateral in Community dominated Area",
+      "List of Mitigants ": "Collection comfort\nLow LTV offered",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Low LTVPremium ROI",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Average Banking",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "Caution profile\nCIBIL Derog found\nHigher FOIR",
+      "List of Mitigants ": "Identified other source of income and clubbed\nApplicant found to be having eligible business income\nChecked latest CIBIL history and found eligible",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "FOIR & LTV within policy, no deviation on FOIR & LTV",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "Over Age Applicant\nCIBIL derog",
+      "List of Mitigants ": "Salaried Co-App added in loan \nOCR amount already paid through bank\nRental expense will comedown due to purchase of house",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "FOIR & LTV within policy",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "Caution profile - single commercial vehicle\nDPD in 1 loan",
+      "List of Mitigants ": "Identified good earning through multiple vehicle where RC copies on spouse name",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "FOIR & LTV within policy",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Cash Profit Method",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "Caution Profile\nCIBIL derog\nApplicant over age\n",
+      "List of Mitigants ": "Good Contract orders in hand\n[past loan closed sucessfully\nCo-APP added in loan structure",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "FOIR & LTV within policy",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "PLOT BT \nConstruction not done in 4 yrs",
+      "List of Mitigants ": "Govt Employee\nEnd use is for Children foreign education, proof of scholarship is collected",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium Rate\nLow LTV",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "Bouncing in Track",
+      "List of Mitigants ": "1. Repayment Track to Validated. 2. Any other running loan is Satisfactory. 3. Cause of Bouncing to be checked. 4. Any Technical Reason behind bouncing",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC Rate. LTV to be Reduced",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.lower loan amount"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "DPD in Cibil ",
+      "List of Mitigants ": "1. Repayment Track to Validated. 2. Any other running loan is Satisfactory. 3. Cause of Bouncing to be checked. 4. Any Technical Reason behind bouncing",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC Rate. LTV to be Reduced",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.lower loan amount"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Business Vintage or Work Experience",
+      "Reject \nReasons": "Low Business Vintage",
+      "List of Mitigants ": "1. Verification of business with Buyer and Supplier \n2. Business transaction in Bank Statement ( Business Supplier transactions , UPI transactions)\n3. Good CIBIL history\n4. Addition income to be verifiedand need to be clubbed  (example : Rental, Pension, Agriculture or any other trade with valid proofs)\n5. Business Vintage should more than 3 years or experience to be validated along with business inventory turnover and footfalls\n6. If Business is not owned by ancestor, key person has to be the applicant \n7. ITR  of Self & Spouse & immediate family members ",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC Rate. No LTV Call",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.Business verifcations\n2.clubbing of income"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "1 or 2 Salary is credited in Cash",
+      "List of Mitigants ": "2 Year Banking is taken for Salary Verification ",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC Rate. ",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.current employment is of less vintage, with bank statement income verified"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "Default in Cibil - Housing Loan was running under DPD. ",
+      "List of Mitigants ": "Ownership of Loan to be checked.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC Rate. ",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Cash Profit Method",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "Applicant was working in Joint Office with 2nd Person and Difficult to judge Individual Income.",
+      "List of Mitigants ": "1. Individual ITR to be considered.\n2. Business transaction in Bank Statement ( Business Supplier transactions , UPI transactions)\n3. Good CIBIL history\n",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "LTV Restricted to 50% and ROI for 12% is Charged.",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "Risky Profile in terms of Collection",
+      "List of Mitigants ": "Additional Co-applicant to be taken. SPDC of Spouse Mandatory",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "LTV to restricted and Premium ROI to be charged over and above RAAC Rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "Profile Issue. Cautious Profile and Cash Flow ",
+      "List of Mitigants ": "Daily Cash Sales to be verified by doing PD of 1 Hour. Any Investment in terms of RD/FD.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "LTV to restricted and Premium ROI to be charged over and above RAAC Rate",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Business Vintage or Work Experience",
+      "Reject \nReasons": "Rejected by CM due to Vintage Issue",
+      "List of Mitigants ": "Revalidated bases BT Track and Credit Inflows in Banking. ",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Higher ROI is considered",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "Rejected by CM due to latest DPD in Small PL",
+      "List of Mitigants ": "Another Track running Satisfactory.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Higher ROI is considered - Around 14%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.Alternative Loan track regular "
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "Rejected by CM due to CC Default in Husband Cibil",
+      "List of Mitigants ": "Processed on Bank Salaried of Spouse Only. She was Govt Employee - Contractual ",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Additional FOIR of 10% is considered. LTV is Just 19%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.derive comfort from spouse repayment and employment stability"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "Rejected by NCM - Due to Cautious Profile (Shop was located aside Wine Shop). Business was type of Ahata",
+      "List of Mitigants ": "Banking Analysed. LA Reduced",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Additional ROI of 1% and Low LTV is considered",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.low loan amount, 2. lower ltv"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "Dairy Profile - Rejected by CM",
+      "List of Mitigants ": "Banking Analysed. LA Reduced",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Additional ROI of 1% and Low LTV is considered",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.low loan amount, 2. lower ltv"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "Case was Rejected by CM due to Low Cibil and Default in Cibil",
+      "List of Mitigants ": "Current Loans are running good",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Additional ROI of 2% was taken.",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "-"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "Case Rejected by CM as Applicant was Local Financers",
+      "List of Mitigants ": "Income calculated bases Additional Business. Strong Co-applicant (Govt Employee) added",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Additional ROI of 1% and Low LTV is considered",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.profile call"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "CM Reject - Applicant is auto owner cum driver profile requested 25lks against purchase of 35lks property and as per CM eligible for 10lks",
+      "List of Mitigants ": "Father in Law is renowned business man and supporting for some OCR amount, Father inlaw business and standard of living is good with clean repayment of loans. Added him as co-app to the deal and increased loan amount to 20lks. Provided loan with Higher ROI & reducted tenure of 10yrs.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Higher ROI of 2% charged and tenure reducted to 10yrs and Additional co-app added",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.decent ocr\n2.reduced tenor"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "Tech Reject - Initially file came for LAP and since temple attached to the property by applicant and technical team rejected.",
+      "List of Mitigants ": "End use of the loan is to purchase of self occupied commercial property and changed the property and provided the requested loan amount to customer with higher ROI",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Property changed and higher ROI 1% charged",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.end use verified"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "Tech Reject - Cust requested 7lks for Business expansion and tech team rejected being Enchroached property in father name",
+      "List of Mitigants ": "Considered only Land value without enchroached portion and LTV restricted to 40% comfortably. Applicant and all family member including all legal heirs added as co-applicant to the deal. Charged 17% ROI and proceeded 7lks",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "ROI 17% & LTV restricted at 40% & All legal heirs added to deal structure",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.call on collateral"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Eligibility Issue",
+      "Reject \nReasons": "CM Reject - Cash salary profile - Loan restricted to 8lks by CM and customer requested 13lks and refused to take the loan",
+      "List of Mitigants ": "We have increased the loan to 14lks considering applicant mother family pension income with short tenure of 8yrs",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Increased the loan amount with mother family pension income with short tenure of 8yrs and Higher ROI of 2% considered",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "1.clubbing of income"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Eligibility Issue",
+      "Reject \nReasons": "CM Reject - Applicant bank salary not sufficient for requested loan of 15lks. Clubbing of mother income not possible being age is 62yrs & brother business not having proof.",
+      "List of Mitigants ": "Higher FOIR with applicant income taken at NCM level and considered brother income additionally to provide 15lks with Higher ROI for the deal",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Higher ROI 2% charged with Higher FOIR 5%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "clubbing of income"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Eligibility Issue",
+      "Reject \nReasons": "CM Reject - Applicant Dairy income profile at spoke location",
+      "List of Mitigants ": "Additional agri income of 10 acer of coconut farm with about 80K for 45days received and case reviewed with additional income and standard of living and OCR paid though Chit Matured amount.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Higher ROI of 1.5% considered with comfortable LTV at 50%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "comfort derived from ocr"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "CM Reject - Cibil derog history in co-app cibil.",
+      "List of Mitigants ": "Being applicant is govt Salaried with clean cibil track and has additional Family income from father pension & rental income credit call taken",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "LTV at 35% considered and ROI of 1.5% charged higher",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "clubbing of income and profile"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "CM reject - less vintage of 2yrs ",
+      "List of Mitigants ": "Case reviewed being applicant is campus recruit at CAT A employer and confirmed job and additional Father business background verifed and added as co-applicant to deal.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Higher ROI of 1% considered and all family member added as co-app to the deal",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "profile comfort"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "CM Reject - 4 EMI bounced in last one year",
+      "List of Mitigants ": "Case reviewed and EMI bounced due to bank account kyc and nach issue and same paid by customer through UPI before due date and charges reflected in cibil with dpd. Credit call taken at NCM level",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Higher ROI of 1.5% considered and LTV of 50% considered",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "cheque bounce seen but intention to pay from the Track"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "CM Reject - Local Financier profile",
+      "List of Mitigants ": "Co-applicant is Govt Salared and her income considered and no negative traces in cibil with on date payments",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Higher ROI of 1% considered",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "profile comfort"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "CM Reject- Multiple cibil issues in co-app cibil",
+      "List of Mitigants ": "Case review by considered last 2yrs tracks were clean PL, HL and had issue with old loans availed in 2018 & 2019 due to job loss",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Co-app additional income considered and Higher ROI of 2% charged with 40% LTV comfort ",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "other loans are regular"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "Tech Reject - Low habitation in the location",
+      "List of Mitigants ": "Based on joint visit by RSM and RCM case approved for 15lks with local comfotl",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Higher ROI of 3% considered and LTV considered at 60%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "one to one discussion with customer by RCM / RSM"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "Tech & Credit Reject - Property Condition & residual age is lesser and preist profile",
+      "List of Mitigants ": "Credit call taken at NCC level based on cibil & BT track and additional asset creation with preist income",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Higher ROI of 2% Charged and LTV considered on Land value at 50%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "clubbing of incomes"
+  },
+  {
+      "Underwriting \nMethod": "Cash Profit Method",
+      "Reject Category": "Eligibility Issue",
+      "Reject \nReasons": "CM Reject - not eligible based on applicant income.",
+      "List of Mitigants ": "Family income of brother & mother considered by clubbing and higher ROI charged, additional father NRI income proof collected",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Higher FOIR considered and LTV restricted at 40% and higher ROI of 1.5% considered.",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "clubbing of incomes"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "CM Reject - Problem with co-applicant cibil ",
+      "List of Mitigants ": "Adviced local team and we have additionally taken all the family members and found that only problem with co-applicant cibil and all the other loans with applicant and family members are clean ",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Low LTV considered",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "clubbing of income"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Eligibility Issue",
+      "Reject \nReasons": "CM Reject - Eligibility norms not met, PD reject",
+      "List of Mitigants ": "Customer has additionally agri income which was identified in subsequent PD and taken 60K income from 10 acer of coconut farm",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Additional income considered and Higher ROI of 1% taekn",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "clubbing of income"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "CM Reject - Mainly dairy income and not comfortable",
+      "List of Mitigants ": "We have reducted the Topup loan amount with lesser LTV since customer is cash rich guy with good asset base",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Higher ROI of 1% considered",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "low loan amount"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Over leaveraged profile",
+      "Reject \nReasons": "CM Reject - Transport profile with high EMI not eligible",
+      "List of Mitigants ": "We have identified that 4 vehicles are free and worked on viablity of these vehicles and relooked based on past clean repayments",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Higher ROI 1.5% charged",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "asset created by way of 4 vehicles"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "CM Reject - Brother and sister combination rejected",
+      "List of Mitigants ": "Case discussed at National level and approved basis on additional father & mother income as exception",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "LTV reducted and higher ROI 2% charged",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "clubbing of income"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Business Vintage or Work Experience",
+      "Reject \nReasons": "1. Low Business Profile with Low Inventory, Stock and availability of Rough Records of daily Business Transactions.\n2. Co-applicant Father is not marked as Financial applicant.\n3. Residence cum Office set-up.",
+      "List of Mitigants ": "1. Verifications with parties which supplies the goods.\n2. Father income documents collected with Banking.\n3. Case appraised with clubbing of Income of applicant and his father.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "LOW FOIR- 53.49% and LTV also at Lower Side of 69.55%.",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "1. Low stock observed at the site with Average standard of living.\n2. Client does not have Rough records of Business.\n3. Marginal Profile- Scrap Dealer.",
+      "List of Mitigants ": "1. Verifications with parties to whom he does the supply into last 12 months.\n2. He collected some payments into his spouse a/c- Verified spouse Banking.\n3. Taken Calculated call of funding of Rs. 8.00 lacs against Loan amount required- Rs. 15.00 lacs basis RSM recommendation.\n4. With Keeping LTV 51.31% and FOIR- 48.63% under Control.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Lower Exposure against Applied loan amount with keeping LTV 51.31% and FOIR- 48.63% under Control.",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "1. School Income Profile- Logged in as SENP case of 55.00 lacs under CM Assessment Programme with Bureau Score- D-2.\n2. CM Assessment Program is having loan capping of Rs. 50.00 lacs.",
+      "List of Mitigants ": "1. Changed the Program to Salaried as applicant holds the Principalship designation under the Trust run by School.\n2. Instead of Income of School, case has been appraised over the salary income of applicant since Salaried case are allowed to fund under Bureau Score- D-2.\n3. Loan Amount has been downsized from Rs. 55.00 lacs to 35.00 lacs considering the eligibility over Salary Income Only.\n4. Lowest LTV- 7.79%",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Low LTV- 7.79% and Keeping the Exposure restricted over salary income only from Rs. 55.00 Lacs to 35.00 Lacs.",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Business Vintage or Work Experience",
+      "Reject \nReasons": "1. Water Supplier Profile- Low stock of 5-6 water cans at the Residence cum office Set-up.\n2. Business vintage is low- started just 1.50 years back.\n3. Recent DPD and overdues into the Running Auto Loan of Rs. 6.95 Lacs.",
+      "List of Mitigants ": "1. Verification done with the parties to whom he supplies water cans physically and telephonically.\n2. Father is Pensioner from Govt Department- his income also clubbed with Applicant Income.\n3. DPD into the Auto Loan of Rs. 6.95 lacs- is Mitigated with the observations- this loan was taken by his relative.\n4. Taken Reduced call of Rs. 15.00 lacs against applied loan amt of Rs. 20.00 lacs with low LTV of 45.22%",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Clubbing of Income and Low LTV 45.22%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Cash Profit Method",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "1. Negative Collateral- Mixed Use Partly for Self- Residence AND Running School.",
+      "List of Mitigants ": "1. School is running over Primary School only (1st to 8th Standard).\n2. Booking Done under Micro-LAP where school Properties are allowed to fund with NCM approval.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "LOW LTV- 38.84%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Cash Profit Method",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "1. Caution Profile- Goat Trader.\n2. Loan amount requirement of Rs. 30.00 lacs higher then eligibility and considering the profile",
+      "List of Mitigants ": "1. Taking another income sources into consideration- Rental + prop. Dealer/Colonizer.\n2. Taken Significant call of Funding of Rs. 15.00 Lacs.\n3. With Keeping the LOW LTV of 19.01%",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate and LOW LTV- 19.01%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": ""
+  },
+  {
+      "Underwriting \nMethod": "1. Account Salaried Customer where salary starts credits just 2 months ago."
+  },
+  {
+      "Underwriting \nMethod": "2. Also there are variation into amount as per Salary Slip and Credits into Banking.\"",
+      "Reject Category": "1. Instead of Account Salaried- Processed the case under Cash Salaried Program.\n2. Father is also taken into loan structure- who is pensioner.",
+      "Reject \nReasons": "Premium ROI to be charged over and above RAAC rate ",
+      "List of Mitigants ": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "1. Segment-2 Profile- Setting temporary cart at the fares/social events.\n2. At the time of PD- there was no running fare at which Business can be verified.",
+      "List of Mitigants ": "1. Did the Business PD at the Kota Fare, where client recently operating business through cart.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate ",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Cash Profit Method",
+      "Reject Category": "Business Vintage or Work Experience",
+      "Reject \nReasons": ""
+  },
+  {
+      "Underwriting \nMethod": "1. Micro Construction Finance Case of Rs.3.00 Crore declined due to:"
+  },
+  {
+      "Underwriting \nMethod": "2. Low Cash flows."
+  },
+  {
+      "Underwriting \nMethod": "3. Short Business Experience into the Builder line of Business."
+  },
+  {
+      "Underwriting \nMethod": "4. Slow Construction Activity at the Collateral."
+  },
+  {
+      "Underwriting \nMethod": "5. Recent DPD into LAP with Poonawala of Rs. 4.21 Crores\"",
+      "Reject Category": "1. Instead of Micro Construction Finance, funded over Plot_LAP and LAP_Commercial for the reduced loan exposure of Rs. 1.50 Crore.\n2. Bounced EMI of LAP Loan of RS. 4.21 Crores- deposited into the same month.\n3. Low LTV- 48.64%",
+      "Reject \nReasons": "Premium ROI to be charged over and above RAAC rate ",
+      "List of Mitigants ": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Business Vintage or Work Experience",
+      "Reject \nReasons": "Co-applicant who is also Financial applicant having the age of just 21 years.",
+      "List of Mitigants ": "Didn’t clubbed co-applicant Income. Extended the FOIR deviation over salary income of applicant only of 10% with considering the good family Income.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate AND Additional FOIR",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "Negative issues into Collateral- Old Structure, Dead End Property, No Kitchen, Low Construction Value",
+      "List of Mitigants ": "1. Collateral Type-1- Approved.\n2. The plot value is covering our loan.\n3. Government Salaried Profile.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "Premium ROI to be charged over and above RAAC rate ",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Over leaveraged profile",
+      "Reject \nReasons": "1. Income Obligation norms not met",
+      "List of Mitigants ": "1. We have added applicants son as financial co-applicant to making loan eligiblity",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. Loan offer on plot purchase from P+C.",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "1. recent EMI bouncing in running loan.",
+      "List of Mitigants ": "1. Bouncing has happen due to technical issues.\n2. charge 1% Higher ROI",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. 1% higher ROI charged",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Bank Salaried",
+      "Reject Category": "Over leaveraged profile",
+      "Reject \nReasons": "1. Income Obligation norms not met",
+      "List of Mitigants ": "1. Customer comes for P+C but we have offer only for Plot purchase to close the deal",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. 2% higher ROI charge",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "1. Reject due to Cash Salary under caution profile",
+      "List of Mitigants ": "1. Jocata Score 8\n2. Proven track of 29 months",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. 1% higher ROI charged",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "1. CIBIL default\n2. Having bouncing in running loans",
+      "List of Mitigants ": "1. Applicant justified that applicant paying EMI in cash due to NACH not applicable.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. LTV restricted at 30%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Bank Salaried",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "1. Clubbing of incomes of multiple owners",
+      "List of Mitigants ": "1. We have taken only applicant salary and approve the case with taken all property owners as co-applicants",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. LTV restricted at 20%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Bank Salaried",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "1. Divorcee lady, single applicant",
+      "List of Mitigants ": "1. Taken call on basis Govt employee and  with subject to condition of local guarantor",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. LTV restricted at 50%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "1. Bouncing in BT loan",
+      "List of Mitigants ": "1. Approved that case basis applicant having medical emergency in his family, since last 12 months repayment is regular",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. Low LTV case with 42%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Bank Salaried",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "1. Applicant income consider and property owned by his mother. Legal hirer issue",
+      "List of Mitigants ": "1. One local guarantor and approved the case with 2% premium charge",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. Low LTV case with 43%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "1. Caution profile  and income not justified",
+      "List of Mitigants ": "1. We have done re-visit and understand the case and approved the case for Plot purchase only, case comes for 14.0 lac under P+C, we have sanctioned Rs 7.0 lac under Plot purchase",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. 1% higher ROI charged",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "1. Business PD not comfortable.",
+      "List of Mitigants ": "1. re-visit done done and understand the adidtional incomes apart from his business",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. 1% higher ROI charged",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "PD or Personal Dsicussion",
+      "Reject \nReasons": "1. Business PD not comfortable\n2. Income not justified",
+      "List of Mitigants ": "1. we have clubbed his multiple business incomes and draw the eligiblity",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. LTV restricted at 50%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "1. Caution profile (Pandit)",
+      "List of Mitigants ": "1. Having good banking ",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. LTV restricted at 40%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "1. CIBIL Derog.",
+      "List of Mitigants ": "1. App based loans having NACH presentation issue\n2. Other loans repayment regular\n3. good business vintage",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. 1% higher ROI charged",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Bank Salaried",
+      "Reject Category": "Customer Profile",
+      "Reject \nReasons": "1. Bank salary but getting without any standrad deduction.\n2. Employer visit verification fail",
+      "List of Mitigants ": "1. bank salary verification done at his head office\n2. last 1.5 years banking justified his salary",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. 1% higher ROI charged",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Cash Salaried",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "1. CIBIL derogs\n2. Cash salary more than norms",
+      "List of Mitigants ": "1. All family members are earning.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. LTV restrict at 60%\n2. IMGC taken\n3. Charge higher ROI",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Average Banking",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "1. CIBIL Derogs.\n2. boucing in CV loans",
+      "List of Mitigants ": "1. Having sufficient balance in other bank account at the time of loan EMI presentation.",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. Higher ROI Charge\n2. 6 months DSRA",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Collateral or Property",
+      "Reject \nReasons": "1. Colletral not upto the mark\n2. caution profile under CM assesseemnt",
+      "List of Mitigants ": "1. Banking showing good business transactions.\n2. crear repayment of running loans\n3. good asset base",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. LTV restricted at 60%\n2. charge 2% higher ROI",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Bank Salaried",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "1. DPD in co-applicant running loan\n2. eligiblity norms not met",
+      "List of Mitigants ": "1. co-applicant CIBIL default due to fund management issue\n2. added applicants rental income for making loan eligiblity",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. LTV restricted at 35%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  },
+  {
+      "Underwriting \nMethod": "Credit Manager Assessment Income",
+      "Reject Category": "Bureau or Credit Score",
+      "Reject \nReasons": "1. co-applicant CIBIL derogs\n2. business vintage norms not met",
+      "List of Mitigants ": "1. Clear repayment of applicants running loan\n2. co-applicant is non-financial\n",
+      "Quantitative measures, \nMitigates (e.g. Additional FOIR, LTV, Premium ROI, etc.)": "1. LTV restricted at 45%",
+      "Qualitative / Subjectivity - Elements to be part of Credit Assist": "TBD"
+  }
+]
