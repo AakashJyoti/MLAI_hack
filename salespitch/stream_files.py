@@ -21,11 +21,16 @@ import numpy_financial as npf
 import pandas as pd
 from langchain.agents import AgentType
 from langchain_experimental.agents import create_pandas_dataframe_agent
-from langchain.agents import AgentExecutor, create_tool_calling_agent , ConversationalAgent
+from langchain.agents import (
+    AgentExecutor,
+    create_tool_calling_agent,
+    ConversationalAgent,
+)
 import time
 from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
 from langchain_core.output_parsers import StrOutputParser
+
 load_dotenv()
 
 
@@ -72,11 +77,11 @@ class ABHFL_FILES:
         encoding = tiktoken.get_encoding(encoding_name)
         num_tokens = len(encoding.encode(string))
         return num_tokens
-    
+
     async def run_conversation(self, user_input):
         self.user_input = user_input
         self.message.append(HumanMessage(content=user_input))
-        
+
         MEMORY_KEY = "chat_history"
         prompt = ChatPromptTemplate.from_messages(
             [
@@ -85,7 +90,7 @@ class ABHFL_FILES:
                     "system",
                     """You are an expert conversational sales manager with access to various tools to deliver clear and concise answers.avoiding unnecessary details. When responding to general or open-ended questions, always leverage tools for accuracy. If unsure of an answer, ask follow-up questions to clarify. You are experienced and professional in this role.""",
                 ),
-                MessagesPlaceholder(variable_name=MEMORY_KEY)
+                MessagesPlaceholder(variable_name=MEMORY_KEY),
             ]
         )
 
@@ -140,7 +145,7 @@ class ABHFL_FILES:
                 ):
                     time.sleep(0.05)
                     # print("|")
-                    yield chunk # Stream the response content
+                    yield chunk  # Stream the response content
             except Exception as e:
                 error_message = f"An error occurred: {e}"
                 print(error_message)
@@ -152,9 +157,11 @@ class ABHFL_FILES:
 global_event_loop = asyncio.new_event_loop()
 asyncio.set_event_loop(global_event_loop)
 
+
 # Utility function to iterate over async generator
 def iter_over_async(ait):
     ait = ait.__aiter__()
+
     async def get_next():
         try:
             obj = await ait.__anext__()
@@ -162,6 +169,7 @@ def iter_over_async(ait):
         except StopAsyncIteration:
             return True, None
         # Use the global event loop
+
     global global_event_loop
     loop = global_event_loop
 
@@ -171,13 +179,12 @@ def iter_over_async(ait):
             break
         yield obj
 
+
 # run above code
 abhfl = ABHFL_FILES([])
 if not abhfl.message:
-                    # with open("prompts/main_prompt2.txt", "r", encoding="utf-8") as f:
-                    #         text = f.read()
-                    abhfl.message.append(SystemMessage(content="you are a great conversational AI"))
+    # with open("prompts/main_prompt2.txt", "r", encoding="utf-8") as f:
+    #         text = f.read()
+    abhfl.message.append(SystemMessage(content="you are a great conversational AI"))
 for i in iter_over_async(abhfl.run_conversation("What is the company's mission?")):
     print(i, end="|", flush=True)
-
-
