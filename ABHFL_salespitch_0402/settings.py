@@ -133,7 +133,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/5.1/howto/static-files/
 
-STATIC_URL = '/sales/assets/'
+STATIC_URL = '/assets/'
 LOCALE_PATHS = (os.path.join(os.path.dirname(__file__), '..', 'locale').replace('\\', '/'),)
 
 TEMPLATE_DIRS = (os.path.join(os.path.dirname(__file__), '..', 'templates').replace('\\', '/'),)
