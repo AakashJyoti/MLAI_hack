@@ -166,27 +166,18 @@ class ABHFL:
         """Run the conversation with the agent."""
         self.user_input = user_input
 
-        # Ensure system message exists and is first
-        system_messages = [
-            msg for msg in self.message if isinstance(msg, SystemMessage)
-        ]
-        other_messages = [
-            msg for msg in self.message if not isinstance(msg, SystemMessage)
-        ]
-
-        if not system_messages:
+        # First, ensure we have a valid system message
+        if not any(isinstance(msg, SystemMessage) for msg in self.message):
             # Add default system message if none exists
             with open("prompts/main_prompt2.txt", "r", encoding="utf-8") as f:
                 text = f.read()
-            system_messages = [SystemMessage(content=text)]
-
-        # Combine all system messages if there are multiple
-        if len(system_messages) > 1:
-            combined_content = "\n\n".join(msg.content for msg in system_messages)
-            system_messages = [SystemMessage(content=combined_content)]
-
-        # Reconstruct message list with system message first
-        self.message = system_messages + other_messages
+            self.message.insert(0, SystemMessage(content=text))
+        else:
+            # Move system message to the beginning if it exists but isn't first
+            system_msg = next(msg for msg in self.message if isinstance(msg, SystemMessage))
+            if self.message[0] is not system_msg:
+                self.message.remove(system_msg)
+                self.message.insert(0, system_msg)
 
         # Add new user input
         self.message.append(HumanMessage(content=user_input))
