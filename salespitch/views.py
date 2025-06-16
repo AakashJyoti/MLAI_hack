@@ -150,46 +150,34 @@ class ChatAPIView(APIView):
             bot_instance = ABHFL(messages)  # Placeholder for bot logic
             response_chunks = []
 
-            def generate():
-                try:
+            
+            try:
                     if not bot_instance.message:
                         with open(
                             "prompts/main_prompt2.txt", "r", encoding="utf-8"
                         ) as f:
                             text = f.read()
+                        # bot_instance.message.append(("system",text))
                         bot_instance.message.append(SystemMessage(content=text))
 
                     # asyncio.set_event_loop(loop)
                     questions = replace_slashes(message)
-                    openai_response = iter_over_async(
-                        bot_instance.run_conversation(questions.lower())
-                    )
+                    
+                    response = bot_instance.run_conversation(questions)
+                    print(response)
+                    response_output = response
+                  
 
-                    for event in openai_response:
-                        kind = event["event"]
-                        if kind == "on_chat_model_stream":
-                            content = event["data"]["chunk"].content
-                            if content:
-                                response_chunks.append(content)
-                                yield content
-
-                    final_answer = "".join(response_chunks)
+                    # final_answer = "".join(response_chunks)
+                    final_answer = response_output
                     bot_instance.message.append(AIMessage(content=final_answer))
                     chat_history.set_messages(bot_instance.message)
                     chat_history.save()
                     # yield f"\n[Final Answer Saved for Ques ID: {ques_id}]"
-
-                except Exception as e:
-                    yield f"Error: {str(e)}"
-
-            response = StreamingHttpResponse(
-                generate(), content_type="text/event-stream"
-            )
-            response["Cache-Control"] = "no-cache"
-            response["X-Accel-Buffering"] = "no"
-            return response
-
-        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+                    
+                    return Response({'response': response_output}, status=status.HTTP_200_OK)
+            except Exception as e:
+                    return Response({'error': f"An error occurred: {e}"}, status=status.HTTP_400_BAD_REQUEST)
 
 
 # API to store chat messages

@@ -35,10 +35,10 @@ def create_product_info_tool(product_name, abhfl_instance):
 
     def product_info_tool():
         product_info = get_product_info(product_name)
-        with open("prompts/main_prompt2.txt", "r", encoding="utf-8") as f:
-            text = f.read()
-        # Append product info to system message
-        abhfl_instance.append_to_system_message(text + product_info)
+        # with open("prompts/main_prompt2.txt", "r", encoding="utf-8") as f:
+        #     text = f.read()
+        # # Append product info to system message
+        # abhfl_instance.append_to_system_message(text + product_info)
         return product_info
 
     return StructuredTool.from_function(
